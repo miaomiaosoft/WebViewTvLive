@@ -1397,21 +1397,21 @@
 
   {
     "name": "GTV 综合",
-    "groupName": "港澳",
+    "groupName": "台湾",
     "urls": [
       "https://enx.gdplayertv.to/live-tv/gtv-variety/?embed=1"
     ]
   },
   {
     "name": "GTV 第一",
-    "groupName": "港澳",
+    "groupName": "台湾",
     "urls": [
       "https://enx.gdplayertv.to/live-tv/gtv-one/?embed=1"
     ]
   },
   {
     "name": "GTV 戏剧",
-    "groupName": "港澳",
+    "groupName": "台湾",
     "urls": [
       "https://enx.gdplayertv.to/live-tv/gtv-drama/?embed=1"
     ]
@@ -1421,7 +1421,7 @@
   
   {
     "name": "TVBS",
-    "groupName": "港澳",
+    "groupName": "台湾",
     "urls": [
       "https://enx.gdplayertv.to/live-tv/tvbs/?embed=1"
     ]
@@ -1436,14 +1436,14 @@
   },
   {
     "name": "TVBS 欢乐",
-    "groupName": "港澳",
+    "groupName": "台湾",
     "urls": [
       "https://enx.gdplayertv.to/live-tv/tvbs-entertainment/?embed=1"
     ]
   },
   {
     "name": "TVBS ASIA",
-    "groupName": "港澳",
+    "groupName": "台湾",
     "urls": [
       "https://enx.gdplayertv.to/live-tv/tvbs-asia/?embed=1"
     ]
@@ -1453,7 +1453,7 @@
 
   
   {
-    "name": "NOW 新闻（AI）",
+    "name": "NOW 新闻",
     "groupName": "台湾",
     "urls": [
       "https://www.youtube.com/embed/hzwhJwHJFik?autoplay=1",
@@ -1526,17 +1526,6 @@
     ]
   },
   
-
-
-  
-  {
-    "name": "CINEMAX 电影",
-    "groupName": "台湾",
-    "urls": [
-      "https://idx.gdplayertv.to/live-tv/cinemax-tw/?embed=1"
-    ]
-  },
-
 
   
   {
@@ -1762,6 +1751,13 @@
     "groupName": "台湾",
     "urls": [
       "https://enx.gdplayertv.to/live-tv/discovery-tw/?embed=1"
+    ]
+  },
+  {
+    "name": "CINEMAX MOVIE",
+    "groupName": "台湾",
+    "urls": [
+      "https://idx.gdplayertv.to/live-tv/cinemax-tw/?embed=1"
     ]
   },
   {
