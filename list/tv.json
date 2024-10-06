@@ -23,11 +23,25 @@
     ]
   },
   {
-    "name": "CCTV-4 中文国际",
+    "name": "CCTV-4 中文国际（亚洲）",
     "groupName": "央视",
     "urls": [
       "https://tv.cctv.com/live/cctv4/",
       "https://www.yangshipin.cn/tv/home?pid\u003d600001814"
+    ]
+  },
+  {
+    "name": "CCTV-4 中文国际（欧洲）",
+    "groupName": "央视",
+    "urls": [
+      "https://tv.cctv.com/live/cctveurope/"
+    ]
+  },
+  {
+    "name": "CCTV-4 中文国际（美洲）",
+    "groupName": "央视",
+    "urls": [
+      "https://tv.cctv.com/live/cctvamerica/"
     ]
   },
   {
@@ -38,7 +52,7 @@
     ]
   },
   {
-    "name": "CCTV-5+ 体育赛事",
+    "name": "CCTV-5+ 赛事",
     "groupName": "央视",
     "urls": [
       "https://tv.cctv.com/live/cctv5plus/"
@@ -60,7 +74,7 @@
     ]
   },
   {
-    "name": "CCTV-8 电视剧",
+    "name": "CCTV-8 影视",
     "groupName": "央视",
     "urls": [
       "https://tv.cctv.com/live/cctv8/"
@@ -139,24 +153,32 @@
     ]
   },
   {
-    "name": "CCTV-4 中文国际（欧洲）",
-    "groupName": "央视",
-    "urls": [
-      "https://tv.cctv.com/live/cctveurope/"
-    ]
-  },
-  {
-    "name": "CCTV-4 中文国际（美洲）",
-    "groupName": "央视",
-    "urls": [
-      "https://tv.cctv.com/live/cctvamerica/"
-    ]
-  },
-  {
-    "name": "CCTV-4K 超高清",
+    "name": "CCTV-4K 超清",
     "groupName": "央视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002264"
+    ]
+  },
+  {
+    "name": "CETV-1",
+    "groupName": "央视",
+    "urls": [
+      "https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html"
+    ]
+  },
+  {
+    "name": "CETV-2",
+    "groupName": "央视",
+    "urls": [
+      "https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html"
+    ]
+  },
+  {
+    "name": "CETV-4",
+    "groupName": "央视",
+    "urls": [
+      "https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html",
+      "https://edu.cctv.com/cetv/index.shtml"
     ]
   },
   {
@@ -202,6 +224,172 @@
     ]
   },
 
+
+
+
+
+  {
+    "name": "北京卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002309"
+    ]
+  },
+  {
+    "name": "江苏卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002521"
+    ]
+  },
+  {
+    "name": "东方卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002483"
+    ]
+  },
+  {
+    "name": "浙江卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002520"
+    ]
+  },
+  {
+    "name": "湖南卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002475"
+    ]
+  },
+  {
+    "name": "湖北卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002508"
+    ]
+  },
+  {
+    "name": "广东卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002485"
+    ]
+  },
+  {
+    "name": "广西卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002509"
+    ]
+  },
+  {
+    "name": "黑龙江台",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002498"
+    ]
+  },
+  {
+    "name": "海南卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002506"
+    ]
+  },
+  {
+    "name": "重庆卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002531"
+    ]
+  },
+  {
+    "name": "深圳卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002481"
+    ]
+  },
+  {
+    "name": "四川卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002516"
+    ]
+  },
+  {
+    "name": "河南卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002525"
+    ]
+  },
+  {
+    "name": "东南卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002484"
+    ]
+  },
+  {
+    "name": "贵州卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002490"
+    ]
+  },
+  {
+    "name": "江西卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002503"
+    ]
+  },
+  {
+    "name": "辽宁卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002505"
+    ]
+  },
+  {
+    "name": "安徽卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002532"
+    ]
+  },
+  {
+    "name": "河北卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002493"
+    ]
+  },
+  {
+    "name": "山东卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002513"
+    ]
+  },
+  {
+    "name": "内蒙卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880"
+    ]
+  },
+  {
+    "name": "兵团卫视",
+    "groupName": "卫视",
+    "urls": [
+      "http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202"
+    ]
+  },
+  
 
 
 
@@ -422,6 +610,13 @@
     ]
   },
   {
+    "name": "移动台",
+    "groupName": "广东",
+    "urls": [
+      "https://m.gdtv.cn/tvChannelDetail/94"
+    ]
+  },  
+  {
     "name": "荔枝台",
     "groupName": "广东",
     "urls": [
@@ -509,154 +704,118 @@
 
 
 
-  
-  {
-    "name": "北京卫视",
-    "groupName": "卫视",
-    "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002309"
-    ]
-  },
-  {
-    "name": "江苏卫视",
-    "groupName": "卫视",
-    "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002521"
-    ]
-  },
-  {
-    "name": "东方卫视",
-    "groupName": "卫视",
-    "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002483"
-    ]
-  },
-  {
-    "name": "浙江卫视",
-    "groupName": "卫视",
-    "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002520"
-    ]
-  },
-  {
-    "name": "湖南卫视",
-    "groupName": "卫视",
-    "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002475"
-    ]
-  },
-  {
-    "name": "湖北卫视",
-    "groupName": "卫视",
-    "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002508"
-    ]
-  },
-  {
-    "name": "广东卫视",
-    "groupName": "卫视",
-    "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002485"
-    ]
-  },
+
   {
     "name": "广西卫视",
-    "groupName": "卫视",
+    "groupName": "广西",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002509"
+      "https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html"
     ]
   },
   {
-    "name": "黑龙江卫视",
-    "groupName": "卫视",
+    "name": "广西综艺",
+    "groupName": "广西",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002498"
+      "https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html"
     ]
   },
   {
-    "name": "海南卫视",
-    "groupName": "卫视",
+    "name": "广西都市",
+    "groupName": "广西",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002506"
+      "https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html"
     ]
   },
   {
-    "name": "重庆卫视",
-    "groupName": "卫视",
+    "name": "广西影视",
+    "groupName": "广西",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002531"
+      "https://tv.gxtv.cn/channel/channelivePlay_5e923d82058e11e9ba67e41f13b60c62.html"
     ]
   },
   {
-    "name": "深圳卫视",
-    "groupName": "卫视",
+    "name": "广西新闻",
+    "groupName": "广西",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002481"
+      "https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html"
     ]
   },
   {
-    "name": "四川卫视",
-    "groupName": "卫视",
+    "name": "广西国际",
+    "groupName": "广西",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002516"
+      "https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html"
     ]
   },
   {
-    "name": "河南卫视",
-    "groupName": "卫视",
+    "name": "广西移动",
+    "groupName": "广西",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002525"
+      "https://tv.gxtv.cn/channel/channelivePlay_78dbfd44e6b74ab687204d2d8113cbf5.html"
     ]
   },
+  {
+    "name": "广西乐购",
+    "groupName": "广西",
+    "urls": [
+      "https://tv.gxtv.cn/channel/channelivePlay_ed58bc4a207811e999f0e41f13b60c62.html"
+    ]
+  },  
+
+
+  
+
+
   {
     "name": "东南卫视",
-    "groupName": "卫视",
+    "groupName": "福建",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002484"
+      "https://www.yangshipin.cn/tv/home?pid=600002484"
     ]
   },
   {
-    "name": "贵州卫视",
-    "groupName": "卫视",
+    "name": "泉州-1",
+    "groupName": "福建",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002490"
+      "https://www.qztv.cn/index/Medias/index/media_id/wq95wqbDnMKyd8KiwqzChnt0w5nChcKowoHCoQ/stream_name/news.html"
     ]
   },
   {
-    "name": "江西卫视",
-    "groupName": "卫视",
+    "name": "泉州-4",
+    "groupName": "福建",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002503"
+      "https://www.qztv.cn/index/Medias/index/media_id/wq95wqbDnMKyd8KiwqzChnt0w5nChcKofcKh/stream_name/mny.html"
     ]
   },
   {
-    "name": "辽宁卫视",
-    "groupName": "卫视",
+    "name": "莆田-1",
+    "groupName": "福建",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002505"
+      "https://www.ptbtv.com/live/pt1t/"
     ]
   },
   {
-    "name": "安徽卫视",
-    "groupName": "卫视",
+    "name": "莆田-2",
+    "groupName": "福建",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002532"
+      "https://www.ptbtv.com/live/pt2t/"
     ]
   },
   {
-    "name": "河北卫视",
-    "groupName": "卫视",
+    "name": "仙游电视",
+    "groupName": "福建",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002493"
+      "https://www.ptbtv.com/live/xyds/"
     ]
-  },
+  },  
   {
-    "name": "山东卫视",
-    "groupName": "卫视",
+    "name": "晋江电视",
+    "groupName": "福建",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002513"
+      "http://www.jinjiang.tv/live/"
     ]
   },
+
 
 
 
@@ -741,7 +900,7 @@
     "name": "东森 新闻",
     "groupName": "海外",
     "urls": [
-      "https://www.youtube.com/embed/V1p33hqPrUk?autoplay=1",
+      "https://www.youtube.com/embed/V1p33hqPrUk?autoplay=1"
       "https://news.ebc.net.tw/video"
     ]
   },
@@ -749,6 +908,7 @@
     "name": "东森 财经",
     "groupName": "海外",
     "urls": [
+      "https://www.youtube.com/embed/AEBeWMM1atA?autoplay=1"
       "https://fnc.ebc.net.tw/"
     ]
   },
@@ -838,6 +998,7 @@
   },
 
 
+
   {
     "name": "中天 新闻",
     "groupName": "海外",
@@ -848,6 +1009,7 @@
   },
 
 
+
   {
     "name": "三立 新闻",
     "groupName": "海外",
@@ -856,6 +1018,7 @@
       "https://tv2.wfuapp.com/2019/12/set-news-live.html"
     ]
   },
+
 
 
   {
@@ -875,14 +1038,17 @@
     ]
   },
 
+
+
   {
     "name": "公视 新闻",
     "groupName": "海外",
     "urls": [
-      "https://www.youtube.com/embed/quwqlazU-c8?autoplay=1",
+      "https://www.youtube.com/embed/quwqlazU-c8?autoplay=1";
       "https://tv2.wfuapp.com/2023/07/pts-news-live.html"
     ]
   },
+
 
 
   {
@@ -893,6 +1059,7 @@
       "https://tv2.wfuapp.com/2019/11/ttv-news.html"
     ]
   },
+
 
   
   {
@@ -910,6 +1077,7 @@
       "https://www.4gtv.tv/channel/4gtv-live014?set\u003d4\u0026ch\u003d273"
     ]
   },
+
 
 
   {
@@ -931,7 +1099,6 @@
       "https://tv2.wfuapp.com/2024/07/nownews-ai-live.html"
     ]
   },
-
 
 
   
@@ -1035,7 +1202,7 @@
     ]
   },
   {
-    "name": "信大 电视",
+    "name": "信大电视",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/AyMuf10q5us?autoplay=1",
@@ -1043,7 +1210,7 @@
     ]
   },
   {
-    "name": "诚心 电视",
+    "name": "诚心电视",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/NayHMzsMLyg?autoplay=1",
@@ -1051,7 +1218,7 @@
     ]
   },
   {
-    "name": "海豚 综合",
+    "name": "海豚综合",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/nll0myKS3vU?autoplay=1",
@@ -1059,7 +1226,7 @@
     ]
   },
   {
-    "name": "双子 卫视",
+    "name": "双子卫视",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/wK6UTmRyZXU?autoplay=1",
@@ -1067,7 +1234,7 @@
     ]
   },
   {
-    "name": "桐瑛 虎尾",
+    "name": "桐瑛虎尾",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/Bfg6ehChLbI?autoplay=1",
@@ -1075,7 +1242,7 @@
     ]
   },
   {
-    "name": "桐瑛 台南",
+    "name": "桐瑛台南",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/m6c1wVvXEwE?autoplay=1",
@@ -1083,9 +1250,10 @@
     ]
   },
   
+
   
   {
-    "name": "凤凰 卫视",
+    "name": "凤凰卫视",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/HFib76ySpbU?autoplay=1",
@@ -1093,13 +1261,29 @@
     ]
   },
   {
-    "name": "凤凰 资讯",
+    "name": "凤凰资讯",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/bGIIO3HuNyI?autoplay=1",
       "https://tv2.wfuapp.com/2019/08/phoenix-media.html"
     ]
   },
+  {
+    "name": "第一卫视",
+    "groupName": "海外",
+    "urls": [
+      "http://play2.one-tv.com/live/onetv.m3u8"
+    ]
+  },
+  {
+    "name": "美亚卫视",
+    "groupName": "海外",
+    "urls": [
+      "http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8"
+    ]
+  },
+
+
 
   
   {
@@ -1122,6 +1306,27 @@
     "groupName": "海外",
     "urls": [
       "https://www.voanews.com/live/video/126"
+    ]
+  },
+  {
+    "name": "BBC NEWS",
+    "groupName": "海外",
+    "urls": [
+      "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298"
+    ]
+  },
+  {
+    "name": "CNN NEWS",
+    "groupName": "海外",
+    "urls": [
+      "https://i.mjh.nz/discovery-ptcn.m3u8"
+    ]
+  },
+  {
+    "name": "CBC NEWS",
+    "groupName": "海外",
+    "urls": [
+      "https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276"
     ]
   },
   {
@@ -1164,8 +1369,167 @@
       "https://tv2.wfuapp.com/2020/01/nhk.html"
     ]
   },
-
-
+  {
+    "name": "Taiwan Plus",
+    "groupName": "海外",
+    "urls": [
+      "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Wild Earth",
+    "groupName": "海外",
+    "urls": [
+      "https://wildearth-plex.amagi.tv/masterR1080p.m3u8"
+    ]
+  },
+  {
+    "name": "Love Nature",
+    "groupName": "海外",
+    "urls": [
+      "https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8"
+    ]
+  },
+  {
+    "name": "Kids TV",
+    "groupName": "海外",
+    "urls": [
+      "https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Comedy Dynamics",
+    "groupName": "海外",
+    "urls": [
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "History",
+    "groupName": "海外",
+    "urls": [
+      "https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8"
+    ]
+  },
+  {
+    "name": "Graham Norton Show",
+    "groupName": "海外",
+    "urls": [
+      "https://i.mjh.nz/discovery-ptgn.m3u8"
+    ]
+  },
+  {
+    "name": "Movie Dome",
+    "groupName": "海外",
+    "urls": [
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Tastemade",
+    "groupName": "海外",
+    "urls": [
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Yu-Gi-Oh",
+    "groupName": "海外",
+    "urls": [
+      "https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Museum",
+    "groupName": "海外",
+    "urls": [
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "LoveStories",
+    "groupName": "海外",
+    "urls": [
+      "https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Ondemand China",
+    "groupName": "海外",
+    "urls": [
+      "https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Young Hollywood",
+    "groupName": "海外",
+    "urls": [
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "MovieSphere",
+    "groupName": "海外",
+    "urls": [
+      "https://i.mjh.nz/discovery-ptms.m3u8"
+    ]
+  },
+  {
+    "name": "Rakuten Viki",
+    "groupName": "海外",
+    "urls": [
+      "https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Rakuten TV Shows",
+    "groupName": "海外",
+    "urls": [
+      "https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Rakuten Comedy",
+    "groupName": "海外",
+    "urls": [
+      "https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Rakuten Action",
+    "groupName": "海外",
+    "urls": [
+      "https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Rakuten Thriller",
+    "groupName": "海外",
+    "urls": [
+      "https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Rakuten British Films",
+    "groupName": "海外",
+    "urls": [
+      "https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Global Fashion Channel",
+    "groupName": "海外",
+    "urls": [
+      "https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Billiards TV",
+    "groupName": "海外",
+    "urls": [
+      "https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8"
+    ]
+  }, 
   {
     "name": "测试频道",
     "groupName": "海外",
@@ -1177,10 +1541,52 @@
 
 
 
-  
+
 
   {
-    "name": "成人频道",
+    "name": "成人-01",
+    "groupName": "成人",
+    "urls": [
+      "http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "成人-02",
+    "groupName": "成人",
+    "urls": [
+      "http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "成人-03",
+    "groupName": "成人",
+    "urls": [
+      "http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8 "
+    ]
+  },
+  {
+    "name": "成人-04",
+    "groupName": "成人",
+    "urls": [
+      "http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "成人-05",
+    "groupName": "成人",
+    "urls": [
+      "http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "成人-06",
+    "groupName": "成人",
+    "urls": [
+      "http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "测试频道",
     "groupName": "成人",
     "urls": [
       "https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8",
