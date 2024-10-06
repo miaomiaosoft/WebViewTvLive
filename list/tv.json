@@ -657,86 +657,95 @@
       "https://www.yangshipin.cn/tv/home?pid\u003d600002513"
     ]
   },
-  {
-    "name": "无线新闻",
-    "groupName": "海外",
-    "urls": [
-      "https://news.tvb.com/tc/live/83"
-    ]
-  },
 
 
 
 
   
   {
-    "name": "新唐人亚太台",
+    "name": "新唐人 亚太",
     "groupName": "海外",
     "urls": [
-      "https://www.ntdtv.com.tw/"
+      "https://www.ntdtv.com.tw/",
+      "https://www.ntdtv.com.tw/mlt/playlist.m3u8"
     ]
   },
   {
-    "name": "新唐人美东台",
+    "name": "新唐人 美东",
     "groupName": "海外",
     "urls": [
-      "https://www.ntdtv.com/"
+      "https://www.ntdtv.com/b5/live-tv"
     ]
   },
   {
-    "name": "东森新闻",
+    "name": "东森 新闻",
     "groupName": "海外",
     "urls": [
+      "https://news.ebc.net.tw/video",
       "https://news.ebc.net.tw/live"
     ]
   },
   {
-    "name": "民視第一台",
+    "name": "东森 财经",
     "groupName": "海外",
     "urls": [
-      "https://www.4gtv.tv/channel/4gtv-4gtv003?set\u003d4\u0026ch\u003d1"
-    ]
-  },
-  {
-    "name": "民視台灣台",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/4gtv-4gtv001?set\u003d4\u0026ch\u003d2"
-    ]
-  },
-  {
-    "name": "民視新聞台",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/litv-ftv13?set\u003d4\u0026ch\u003d31"
-    ]
-  },
-  {
-    "name": "民視綜藝台",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/4gtv-4gtv004?set\u003d4\u0026ch\u003d16"
-    ]
-  },
-  {
-    "name": "民視旅遊台",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/litv-ftv07?set\u003d4\u0026ch\u003d61"
-    ]
-  },
-  {
-    "name": "民視影劇台",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/litv-ftv09?set\u003d4\u0026ch\u003d24"
+      "https://fnc.ebc.net.tw/"
     ]
   },
   {
     "name": "民視",
     "groupName": "海外",
     "urls": [
+      "https://embed.4gtv.tv/ftv/FTV.html?player_autoplay=on&player_mute=off",
       "https://www.4gtv.tv/channel/4gtv-4gtv002?set\u003d4\u0026ch\u003d3"
+    ]
+  },
+  {
+    "name": "民視 第一",
+    "groupName": "海外",
+    "urls": [
+      "https://embed.4gtv.tv/ftv/FMTV.html?player_autoplay=on&player_mute=off",
+      "https://www.4gtv.tv/channel/4gtv-4gtv003?set\u003d4\u0026ch\u003d1"
+    ]
+  },
+  {
+    "name": "民視 台灣",
+    "groupName": "海外",
+    "urls": [
+      "https://embed.4gtv.tv/ftv/FTTV.html?player_autoplay=on&player_mute=off",
+      "https://www.4gtv.tv/channel/4gtv-4gtv001?set\u003d4\u0026ch\u003d2"
+    ]
+  },
+  {
+    "name": "民視 新聞",
+    "groupName": "海外",
+    "urls": [
+      "https://embed.4gtv.tv/ftv/FTVNews.html?player_autoplay=on&player_mute=off",
+      "https://www.4gtv.tv/channel/litv-ftv13?set\u003d4\u0026ch\u003d31"
+    ]
+  },
+  {
+    "name": "民視 綜藝",
+    "groupName": "海外",
+    "urls": [
+      "https://embed.4gtv.tv/ftv/FTVVariety.html?player_autoplay=on&player_mute=off",
+      "https://www.4gtv.tv/channel/4gtv-4gtv004?set\u003d4\u0026ch\u003d16"
+    ]
+  },
+  {
+    "name": "民視 旅遊",
+    "groupName": "海外",
+    "urls": [
+      "https://embed.4gtv.tv/ftv/FTVTravel.html?player_autoplay=on&player_mute=off",
+      "https://www.4gtv.tv/channel/litv-ftv07?set\u003d4\u0026ch\u003d61"
+    ]
+  },
+  {
+    "name": "民視 影劇",
+    "groupName": "海外",
+    "urls": [
+      "https://embed.4gtv.tv/ftv/FTVDrama.html?player_autoplay=on&player_mute=off",
+      "https://www.4gtv.tv/channel/litv-ftv09?set\u003d4\u0026ch\u003d24"
     ]
   },
   {
@@ -747,7 +756,7 @@
     ]
   },
   {
-    "name": "中視經典台",
+    "name": "中視 經典",
     "groupName": "海外",
     "urls": [
       "https://www.4gtv.tv/channel/4gtv-4gtv080?set\u003d4\u0026ch\u003d124"
@@ -761,63 +770,117 @@
     ]
   },
   {
-    "name": "華視新聞",
+    "name": "華視 新聞",
     "groupName": "海外",
     "urls": [
       "https://www.4gtv.tv/channel/4gtv-live014?set\u003d4\u0026ch\u003d273"
     ]
   },
   {
-    "name": "大愛電視",
+    "name": "大愛台",
     "groupName": "海外",
     "urls": [
       "https://www.4gtv.tv/channel/4gtv-live007?set\u003d4\u0026ch\u003d209"
     ]
   },
   {
-    "name": "ARIRANG阿里郎頻道",
+    "name": "阿里郎",
     "groupName": "海外",
     "urls": [
       "https://www.4gtv.tv/channel/4gtv-4gtv079?set\u003d4\u0026ch\u003d189"
     ]
   },
   {
-    "name": "原住民族電視台",
+    "name": "原住民",
     "groupName": "海外",
     "urls": [
       "https://www.4gtv.tv/channel/4gtv-live014?set\u003d4\u0026ch\u003d273"
     ]
   },
   {
+    "name": "猪哥亮",
+    "groupName": "海外",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-4gtv006?set=4&ch=113"
+    ]
+  },
+  {
+    "name": "经典电影",
+    "groupName": "海外",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-live021?set=4&ch=201"
+    ]
+  },
+  {
+    "name": "经典卡通",
+    "groupName": "海外",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-live022?set=4&ch=202"
+    ]
+  },
+  {
+    "name": "儿童卡通",
+    "groupName": "海外",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-live009?set=4&ch=269"
+    ]
+  },
+  {
+    "name": "精选动漫",
+    "groupName": "海外",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-live024?set=4&ch=204"
+    ]
+  },
+  {
+    "name": "戏剧免费1",
+    "groupName": "海外",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-live010?set=4&ch=270"
+    ]
+  },
+  {
+    "name": "戏剧免费2",
+    "groupName": "海外",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-live006?set=4&ch=244"
+    ]
+  },
+  {
+    "name": "电影免费",
+    "groupName": "海外",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-live005?set=4&ch=245"
+    ]
+  },
+  {
+    "name": "台湾国会1",
+    "groupName": "海外",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-4gtv084?set=4&ch=170"
+    ]
+  },
+  {
+    "name": "台湾国会2",
+    "groupName": "海外",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-4gtv085?set=4&ch=171"
+    ]
+  },
+
+
+
+  
+  {
     "name": "DW ENGLISH",
     "groupName": "海外",
     "urls": [
+      "https://www.dw.com/zh/live-tv/channel-english",
       "https://www.dw.com/zh/%E6%AD%A3%E5%9C%A8%E7%9B%B4%E6%92%AD/s-100849?channel\u003d1"
     ]
   },
   {
-    "name": "DW DEUTSCH+",
-    "groupName": "海外",
-    "urls": [
-      "https://www.dw.com/zh/%E6%AD%A3%E5%9C%A8%E7%9B%B4%E6%92%AD/s-100849?channel\u003d4"
-    ]
-  },
-  {
-    "name": "DW ESPAÑOL",
-    "groupName": "海外",
-    "urls": [
-      "https://www.dw.com/zh/%E6%AD%A3%E5%9C%A8%E7%9B%B4%E6%92%AD/s-100849?channel\u003d3"
-    ]
-  },
-  {
-    "name": "عربية DW",
-    "groupName": "海外",
-    "urls": [
-      "https://www.dw.com/zh/%E6%AD%A3%E5%9C%A8%E7%9B%B4%E6%92%AD/s-100849?channel\u003d2"
-    ]
-  },
-  {
-    "name": "VOA English TV",
+    "name": "VOA ENGLISH",
     "groupName": "海外",
     "urls": [
       "https://www.voanews.com/live/video/116"
@@ -836,7 +899,7 @@
 
 
   {
-    "name": "中视 HD",
+    "name": "测试频道",
     "groupName": "海外",
     "urls": [
       "https://yeslivetv.com/channels/ctv-hd/"
