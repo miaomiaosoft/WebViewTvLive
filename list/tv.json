@@ -825,7 +825,7 @@
     "name": "中視 新闻",
     "groupName": "海外",
     "urls": [
-      "https://www.youtube.com/watch?v=TCnaIE_SAtM",
+      "https://www.youtube.com/embed/TCnaIE_SAtM?autoplay=1",
       "https://tv2.wfuapp.com/2019/12/ctv-news-live.html"
     ]
   },  
