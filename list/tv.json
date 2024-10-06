@@ -661,22 +661,82 @@
 
 
 
-  
+  {
+    "name": "新唐人 中国",
+    "groupName": "海外",
+    "urls": [
+      "https://live.ntdtv.com/cnlive900/playlist.m3u8",
+      "https://www.ntdtv.com/b5/live-tv"
+    ]
+  },
   {
     "name": "新唐人 亚太",
     "groupName": "海外",
     "urls": [
-      "https://www.ntdtv.com.tw/",
-      "https://www.ntdtv.com.tw/mlt/playlist.m3u8"
+      "https://live.ntdtv.com/aplive200/playlist.m3u8",
+      "https://www.ntdtv.com.tw/mlt/playlist.m3u8",
+      "https://www.ntdtv.com.tw/"
     ]
   },
   {
     "name": "新唐人 美东",
     "groupName": "海外",
     "urls": [
+      "https://live.ntdtv.com/live900/playlist.m3u8",
       "https://www.ntdtv.com/b5/live-tv"
     ]
   },
+  {
+    "name": "新唐人 美西",
+    "groupName": "海外",
+    "urls": [
+      "https://live.ntdtv.com/uwlive990/playlist.m3u8",
+      "https://www.ntdtv.com/b5/live-tv"
+    ]
+  },
+  {
+    "name": "新唐人 欧洲",
+    "groupName": "海外",
+    "urls": [
+      "https://live.ntdtv.com/eulive600/playlist.m3u8",
+      "https://www.ntdtv.com/b5/live-tv"
+    ]
+  },
+  {
+    "name": "新唐人 加东",
+    "groupName": "海外",
+    "urls": [
+      "https://live.ntdtv.com/mllive860/playlist.m3u8",
+      "https://www.ntdtv.com/b5/live-tv"
+    ]
+  },
+  {
+    "name": "新唐人 加西",
+    "groupName": "海外",
+    "urls": [
+      "https://live.ntdtv.com/cwlive220/playlist.m3u8",
+      "https://www.ntdtv.com/b5/live-tv"
+    ]
+  },
+  {
+    "name": "新唐人 旧金山",
+    "groupName": "海外",
+    "urls": [
+      "https://live.ntdtv.com/sflive990/playlist.m3u8",
+      "https://www.ntdtv.com/b5/live-tv"
+    ]
+  },
+  {
+    "name": "新唐人 休斯顿",
+    "groupName": "海外",
+    "urls": [
+      "https://live.ntdtv.com/htlive480/playlist.m3u8",
+      "https://www.ntdtv.com/b5/live-tv"
+    ]
+  },
+
+
+
   {
     "name": "东森 新闻",
     "groupName": "海外",
@@ -692,6 +752,9 @@
       "https://fnc.ebc.net.tw/"
     ]
   },
+
+
+  
   {
     "name": "民視",
     "groupName": "海外",
@@ -748,6 +811,9 @@
       "https://www.4gtv.tv/channel/litv-ftv09?set\u003d4\u0026ch\u003d24"
     ]
   },
+
+
+  
   {
     "name": "中視",
     "groupName": "海外",
@@ -762,6 +828,9 @@
       "https://www.4gtv.tv/channel/4gtv-4gtv080?set\u003d4\u0026ch\u003d124"
     ]
   },
+
+
+  
   {
     "name": "華視",
     "groupName": "海外",
@@ -776,6 +845,9 @@
       "https://www.4gtv.tv/channel/4gtv-live014?set\u003d4\u0026ch\u003d273"
     ]
   },
+
+
+  
   {
     "name": "大愛台",
     "groupName": "海外",
@@ -833,6 +905,13 @@
     ]
   },
   {
+    "name": "电影免费",
+    "groupName": "海外",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-live005?set=4&ch=245"
+    ]
+  },
+  {
     "name": "戏剧免费1",
     "groupName": "海外",
     "urls": [
@@ -844,13 +923,6 @@
     "groupName": "海外",
     "urls": [
       "https://www.4gtv.tv/channel/4gtv-live006?set=4&ch=244"
-    ]
-  },
-  {
-    "name": "电影免费",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/4gtv-live005?set=4&ch=245"
     ]
   },
   {
@@ -902,7 +974,9 @@
     "name": "测试频道",
     "groupName": "海外",
     "urls": [
-      "https://yeslivetv.com/channels/ctv-hd/"
+      "https://yeslivetv.com/channels/ctv-hd/";
+      "https://tv2.wfuapp.com/2019/12/ctv-news-live.html",
+      "https://www.youtube.com/watch?v=TCnaIE_SAtM"
     ]
   }
 ]
