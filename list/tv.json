@@ -819,6 +819,474 @@
 
 
 
+  
+  {
+    "name": "民視",
+    "groupName": "台湾",
+    "urls": [
+      "https://embed.4gtv.tv/ftv/FTV.html?player_autoplay=on&player_mute=off",
+      "https://www.4gtv.tv/channel/4gtv-4gtv002?set\u003d4\u0026ch\u003d3"
+    ]
+  },
+  {
+    "name": "民視 第一",
+    "groupName": "台湾",
+    "urls": [
+      "https://embed.4gtv.tv/ftv/FMTV.html?player_autoplay=on&player_mute=off",
+      "https://www.4gtv.tv/channel/4gtv-4gtv003?set\u003d4\u0026ch\u003d1"
+    ]
+  },
+  {
+    "name": "民視 台灣",
+    "groupName": "台湾",
+    "urls": [
+      "https://embed.4gtv.tv/ftv/FTTV.html?player_autoplay=on&player_mute=off",
+      "https://www.4gtv.tv/channel/4gtv-4gtv001?set\u003d4\u0026ch\u003d2"
+    ]
+  },
+  {
+    "name": "民視 新聞",
+    "groupName": "台湾",
+    "urls": [
+      "https://embed.4gtv.tv/ftv/FTVNews.html?player_autoplay=on&player_mute=off",
+      "https://www.4gtv.tv/channel/litv-ftv13?set\u003d4\u0026ch\u003d31"
+    ]
+  },
+  {
+    "name": "民視 綜藝",
+    "groupName": "台湾",
+    "urls": [
+      "https://embed.4gtv.tv/ftv/FTVVariety.html?player_autoplay=on&player_mute=off",
+      "https://www.4gtv.tv/channel/4gtv-4gtv004?set\u003d4\u0026ch\u003d16"
+    ]
+  },
+  {
+    "name": "民視 旅遊",
+    "groupName": "台湾",
+    "urls": [
+      "https://embed.4gtv.tv/ftv/FTVTravel.html?player_autoplay=on&player_mute=off",
+      "https://www.4gtv.tv/channel/litv-ftv07?set\u003d4\u0026ch\u003d61"
+    ]
+  },
+  {
+    "name": "民視 影劇",
+    "groupName": "台湾",
+    "urls": [
+      "https://embed.4gtv.tv/ftv/FTVDrama.html?player_autoplay=on&player_mute=off",
+      "https://www.4gtv.tv/channel/litv-ftv09?set\u003d4\u0026ch\u003d24"
+    ]
+  },
+
+
+
+  {
+    "name": "东森 新闻",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/V1p33hqPrUk?autoplay=1",
+      "https://news.ebc.net.tw/video"
+    ]
+  },
+  {
+    "name": "东森 财经",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/AEBeWMM1atA?autoplay=1",
+      "https://fnc.ebc.net.tw/"
+    ]
+  },
+
+
+  
+  {
+    "name": "中视",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-4gtv040?set\u003d4\u0026ch\u003d4"
+    ]
+  },
+  {
+    "name": "中视 新闻",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/TCnaIE_SAtM?autoplay=1",
+      "https://tv2.wfuapp.com/2019/12/ctv-news-live.html"
+    ]
+  },  
+  {
+    "name": "中视 经典",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-4gtv080?set\u003d4\u0026ch\u003d124"
+    ]
+  },
+
+
+
+  {
+    "name": "中天 新闻1",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/oIgbl7t0S_w?autoplay=1",
+      "https://tv2.wfuapp.com/2019/12/ctitv-news-live.html"
+    ]
+  },
+  {
+    "name": "中天 新闻2",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/WPfPjbOLNfE?autoplay=1",
+      "https://tv2.wfuapp.com/2019/12/ctitv-news-live.html"
+    ]
+  },
+  
+
+
+  {
+    "name": "三立 新闻1",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/oZdzzvxTfUY?autoplay=1",
+      "https://tv2.wfuapp.com/2019/12/set-news-live.html"
+    ]
+  },
+  {
+    "name": "三立 新闻2",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/pF507BLtbqU?autoplay=1",
+      "https://tv2.wfuapp.com/2019/11/set-inews-live.html"
+    ]
+  },
+  
+
+
+  {
+    "name": "寰宇 新闻",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/6IquAgfvYmc?autoplay=1",
+      "https://tv2.wfuapp.com/2021/01/global-news-live.html"
+    ]
+  },
+  {
+    "name": "寰宇 台湾",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/w87VGpgd90U?autoplay=1",
+      "https://tv2.wfuapp.com/2023/05/global-news-taiwan-live.html"
+    ]
+  },
+  {
+    "name": "寰宇 财经",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/WTRQiVWK1jY?autoplay=1",
+      "https://tv2.wfuapp.com/2023/10/global-news-finance.html"
+    ]
+  },
+
+
+
+  {
+    "name": "公视 新闻",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/quwqlazU-c8?autoplay=1",
+      "https://tv2.wfuapp.com/2023/07/pts-news-live.html"
+    ]
+  },
+  {
+    "name": "公视 Taiwan Plus",
+    "groupName": "海外",
+    "urls": [
+      "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"
+    ]
+  },
+
+
+
+  {
+    "name": "台视 新闻",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/xL0ch83RAK8?autoplay=1",
+      "https://tv2.wfuapp.com/2019/11/ttv-news.html"
+    ]
+  },
+
+
+  
+  {
+    "name": "华视",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-4gtv041?set\u003d4\u0026ch\u003d6",
+      "rtmp://59.124.75.138:1935/sat/tv111"
+    ]
+  },
+  {
+    "name": "华视 新闻",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/wM0g8EoUZ_E?autoplay=1",
+      "https://www.4gtv.tv/channel/4gtv-live014?set\u003d4\u0026ch\u003d273"
+    ]
+  },
+
+
+
+  {
+    "name": "镜 新闻",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/5n0y6b0Q25o?autoplay=1",
+      "https://tv2.wfuapp.com/2022/02/mnews-live.html"
+    ]
+  },
+
+
+
+  {
+    "name": "TVBS 新闻",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/m_dhMSvUCIc?autoplay=1",
+      "https://tv2.wfuapp.com/2019/12/tvbs-news-live.html"
+    ]
+  },
+
+
+  
+  {
+    "name": "NOW 新闻（AI）",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/hzwhJwHJFik?autoplay=1",
+      "https://tv2.wfuapp.com/2024/07/nownews-ai-live.html"
+    ]
+  },
+
+
+  
+  {
+    "name": "大爱台1",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/MIqUplvSRWA?autoplay=1",
+      "https://www.4gtv.tv/channel/4gtv-live007?set\u003d4\u0026ch\u003d209"
+    ]
+  },
+  {
+    "name": "大爱台2",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/DTNkEm6jaqQ?autoplay=1",
+      "https://tv2.wfuapp.com/2019/12/daai-2.html"
+    ]
+  },
+  {
+    "name": "阿里郎",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-4gtv079?set\u003d4\u0026ch\u003d189"
+    ]
+  },
+  {
+    "name": "原住民",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-live014?set\u003d4\u0026ch\u003d273",
+      "https://www.ipcf.org.tw/zh-TW/Vod/Home"
+    ]
+  },
+  {
+    "name": "猪哥亮",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-4gtv006?set=4&ch=113"
+    ]
+  },
+  {
+    "name": "经典电影",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-live021?set=4&ch=201"
+    ]
+  },
+  {
+    "name": "经典卡通",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-live022?set=4&ch=202"
+    ]
+  },
+  {
+    "name": "儿童卡通",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-live009?set=4&ch=269"
+    ]
+  },
+  {
+    "name": "精选动漫",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-live024?set=4&ch=204"
+    ]
+  },
+  {
+    "name": "电影免费",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-live005?set=4&ch=245"
+    ]
+  },
+  {
+    "name": "戏剧免费1",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-live010?set=4&ch=270"
+    ]
+  },
+  {
+    "name": "戏剧免费2",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-live006?set=4&ch=244"
+    ]
+  },
+  {
+    "name": "台湾国会1",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-4gtv084?set=4&ch=170"
+    ]
+  },
+  {
+    "name": "台湾国会2",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.4gtv.tv/channel/4gtv-4gtv085?set=4&ch=171"
+    ]
+  },
+  {
+    "name": "台湾立法",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/tDg3bJFYLzI?autoplay=1",
+      "https://tv2.wfuapp.com/2019/12/legislative-yuan-conference.html"
+    ]
+  },
+  {
+    "name": "客家电视",
+    "groupName": "台湾",
+    "urls": [
+      "https://embed.4gtv.tv/hakka/hakkatv.html",
+      "https://tv2.wfuapp.com/2019/12/hakka-tv-live.html"
+    ]
+  },
+  {
+    "name": "信大电视",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/AyMuf10q5us?autoplay=1",
+      "https://tv2.wfuapp.com/2019/12/sindagmp-tv-live.html"
+    ]
+  },
+  {
+    "name": "诚心电视",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/NayHMzsMLyg?autoplay=1",
+      "https://tv2.wfuapp.com/2019/12/chengsin-tv-live.html"
+    ]
+  },
+  {
+    "name": "海豚综合",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/nll0myKS3vU?autoplay=1",
+      "https://tv2.wfuapp.com/2019/12/dolphin-tv-live.html"
+    ]
+  },
+  {
+    "name": "双子卫视",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/wK6UTmRyZXU?autoplay=1",
+      "https://tv2.wfuapp.com/?title=%E9%9B%99%E5%AD%90%E8%A1%9B%E8%A6%96%E9%9B%BB%E8%A6%96%E5%8F%B0(%E7%9B%B4%E6%92%AD)&channel=UCsx_6Y6TZ4aA8F1LEGBRcow&group=%E7%B6%9C%E5%90%88"
+    ]
+  },
+  {
+    "name": "桐瑛虎尾",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/Bfg6ehChLbI?autoplay=1",
+      "https://tv2.wfuapp.com/?title=%E6%A1%90%E7%91%9B%E8%99%8E%E5%B0%BE%E9%9B%BB%E8%A6%96%E8%87%BA(%E7%9B%B4%E6%92%AD)&channel=UCwDxsoF4QrpBSyDLfFQfXXw&group=%E7%B6%9C%E5%90%88"
+    ]
+  },
+  {
+    "name": "桐瑛台南",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/m6c1wVvXEwE?autoplay=1",
+      "https://tv2.wfuapp.com/?title=%E6%A1%90%E7%91%9B%E5%8F%B0%E5%8D%97%E9%9B%BB%E8%A6%96%E8%87%BA(%E7%9B%B4%E6%92%AD)&channel=UCnBeKp96tQ0DD6s6D6BZGig&group=%E7%B6%9C%E5%90%88"
+    ]
+  },
+  {
+    "name": "MOMO KIDS",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/LvPgP4ARP3Y?autoplay=1",
+      "https://tv2.wfuapp.com/2021/01/momo-kid.html"
+    ]
+  },
+  {
+    "name": "YOYO TV",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/IAGgSVzXIJM?autoplay=1",
+      "https://tv2.wfuapp.com/2019/12/yoyo-tv-live.html"
+    ]
+  },
+  
+
+  
+  {
+    "name": "凤凰卫视",
+    "groupName": "港澳",
+    "urls": [
+      "https://www.youtube.com/embed/HFib76ySpbU?autoplay=1",
+      "https://tv2.wfuapp.com/2019/08/phoenix-media.html"
+    ]
+  },
+  {
+    "name": "凤凰资讯",
+    "groupName": "港澳",
+    "urls": [
+      "https://www.youtube.com/embed/bGIIO3HuNyI?autoplay=1",
+      "https://tv2.wfuapp.com/2019/08/phoenix-media.html"
+    ]
+  },
+  {
+    "name": "第一卫视",
+    "groupName": "港澳",
+    "urls": [
+      "http://play2.one-tv.com/live/onetv.m3u8"
+    ]
+  },
+  {
+    "name": "美亚卫视",
+    "groupName": "港澳",
+    "urls": [
+      "http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8"
+    ]
+  },
+
+
+
+
 
   {
     "name": "新唐人 中国",
@@ -892,399 +1360,6 @@
       "https://www.ntdtv.com/b5/live-tv"
     ]
   },
-
-
-
-  {
-    "name": "东森 新闻",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/V1p33hqPrUk?autoplay=1",
-      "https://news.ebc.net.tw/video"
-    ]
-  },
-  {
-    "name": "东森 财经",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/AEBeWMM1atA?autoplay=1",
-      "https://fnc.ebc.net.tw/"
-    ]
-  },
-
-
-  
-  {
-    "name": "民視",
-    "groupName": "海外",
-    "urls": [
-      "https://embed.4gtv.tv/ftv/FTV.html?player_autoplay=on&player_mute=off",
-      "https://www.4gtv.tv/channel/4gtv-4gtv002?set\u003d4\u0026ch\u003d3"
-    ]
-  },
-  {
-    "name": "民視 第一",
-    "groupName": "海外",
-    "urls": [
-      "https://embed.4gtv.tv/ftv/FMTV.html?player_autoplay=on&player_mute=off",
-      "https://www.4gtv.tv/channel/4gtv-4gtv003?set\u003d4\u0026ch\u003d1"
-    ]
-  },
-  {
-    "name": "民視 台灣",
-    "groupName": "海外",
-    "urls": [
-      "https://embed.4gtv.tv/ftv/FTTV.html?player_autoplay=on&player_mute=off",
-      "https://www.4gtv.tv/channel/4gtv-4gtv001?set\u003d4\u0026ch\u003d2"
-    ]
-  },
-  {
-    "name": "民視 新聞",
-    "groupName": "海外",
-    "urls": [
-      "https://embed.4gtv.tv/ftv/FTVNews.html?player_autoplay=on&player_mute=off",
-      "https://www.4gtv.tv/channel/litv-ftv13?set\u003d4\u0026ch\u003d31"
-    ]
-  },
-  {
-    "name": "民視 綜藝",
-    "groupName": "海外",
-    "urls": [
-      "https://embed.4gtv.tv/ftv/FTVVariety.html?player_autoplay=on&player_mute=off",
-      "https://www.4gtv.tv/channel/4gtv-4gtv004?set\u003d4\u0026ch\u003d16"
-    ]
-  },
-  {
-    "name": "民視 旅遊",
-    "groupName": "海外",
-    "urls": [
-      "https://embed.4gtv.tv/ftv/FTVTravel.html?player_autoplay=on&player_mute=off",
-      "https://www.4gtv.tv/channel/litv-ftv07?set\u003d4\u0026ch\u003d61"
-    ]
-  },
-  {
-    "name": "民視 影劇",
-    "groupName": "海外",
-    "urls": [
-      "https://embed.4gtv.tv/ftv/FTVDrama.html?player_autoplay=on&player_mute=off",
-      "https://www.4gtv.tv/channel/litv-ftv09?set\u003d4\u0026ch\u003d24"
-    ]
-  },
-
-
-  
-  {
-    "name": "中視",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/4gtv-4gtv040?set\u003d4\u0026ch\u003d4"
-    ]
-  },
-  {
-    "name": "中視 新闻",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/TCnaIE_SAtM?autoplay=1",
-      "https://tv2.wfuapp.com/2019/12/ctv-news-live.html"
-    ]
-  },  
-  {
-    "name": "中視 經典",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/4gtv-4gtv080?set\u003d4\u0026ch\u003d124"
-    ]
-  },
-
-
-
-  {
-    "name": "中天 新闻",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/oIgbl7t0S_w?autoplay=1",
-      "https://tv2.wfuapp.com/2019/12/ctitv-news-live.html"
-    ]
-  },
-
-
-
-  {
-    "name": "三立 新闻",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/oZdzzvxTfUY?autoplay=1",
-      "https://tv2.wfuapp.com/2019/12/set-news-live.html"
-    ]
-  },
-
-
-
-  {
-    "name": "寰宇 新闻",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/6IquAgfvYmc?autoplay=1",
-      "https://tv2.wfuapp.com/2021/01/global-news-live.html"
-    ]
-  },
-  {
-    "name": "寰宇 台湾",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/w87VGpgd90U?autoplay=1",
-      "https://tv2.wfuapp.com/2023/05/global-news-taiwan-live.html"
-    ]
-  },
-
-
-
-  {
-    "name": "公视 新闻",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/quwqlazU-c8?autoplay=1",
-      "https://tv2.wfuapp.com/2023/07/pts-news-live.html"
-    ]
-  },
-
-
-
-  {
-    "name": "台视 新闻",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/xL0ch83RAK8?autoplay=1",
-      "https://tv2.wfuapp.com/2019/11/ttv-news.html"
-    ]
-  },
-
-
-  
-  {
-    "name": "華視",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/4gtv-4gtv041?set\u003d4\u0026ch\u003d6"
-    ]
-  },
-  {
-    "name": "華視 新聞",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/wM0g8EoUZ_E?autoplay=1",
-      "https://www.4gtv.tv/channel/4gtv-live014?set\u003d4\u0026ch\u003d273"
-    ]
-  },
-
-
-
-  {
-    "name": "镜新闻",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/5n0y6b0Q25o?autoplay=1",
-      "https://tv2.wfuapp.com/2022/02/mnews-live.html"
-    ]
-  },
-
-
-  
-  {
-    "name": "NOW 新闻AI",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/hzwhJwHJFik?autoplay=1",
-      "https://tv2.wfuapp.com/2024/07/nownews-ai-live.html"
-    ]
-  },
-
-
-  
-  {
-    "name": "大愛台",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/4gtv-live007?set\u003d4\u0026ch\u003d209"
-    ]
-  },
-  {
-    "name": "阿里郎",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/4gtv-4gtv079?set\u003d4\u0026ch\u003d189"
-    ]
-  },
-  {
-    "name": "原住民",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/4gtv-live014?set\u003d4\u0026ch\u003d273"
-    ]
-  },
-  {
-    "name": "猪哥亮",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/4gtv-4gtv006?set=4&ch=113"
-    ]
-  },
-  {
-    "name": "经典电影",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/4gtv-live021?set=4&ch=201"
-    ]
-  },
-  {
-    "name": "经典卡通",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/4gtv-live022?set=4&ch=202"
-    ]
-  },
-  {
-    "name": "儿童卡通",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/4gtv-live009?set=4&ch=269"
-    ]
-  },
-  {
-    "name": "精选动漫",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/4gtv-live024?set=4&ch=204"
-    ]
-  },
-  {
-    "name": "电影免费",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/4gtv-live005?set=4&ch=245"
-    ]
-  },
-  {
-    "name": "戏剧免费1",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/4gtv-live010?set=4&ch=270"
-    ]
-  },
-  {
-    "name": "戏剧免费2",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/4gtv-live006?set=4&ch=244"
-    ]
-  },
-  {
-    "name": "台湾国会1",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/4gtv-4gtv084?set=4&ch=170"
-    ]
-  },
-  {
-    "name": "台湾国会2",
-    "groupName": "海外",
-    "urls": [
-      "https://www.4gtv.tv/channel/4gtv-4gtv085?set=4&ch=171"
-    ]
-  },
-  {
-    "name": "台湾立法",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/tDg3bJFYLzI?autoplay=1",
-      "https://tv2.wfuapp.com/2019/12/legislative-yuan-conference.html"
-    ]
-  },
-  {
-    "name": "信大电视",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/AyMuf10q5us?autoplay=1",
-      "https://tv2.wfuapp.com/2019/12/sindagmp-tv-live.html"
-    ]
-  },
-  {
-    "name": "诚心电视",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/NayHMzsMLyg?autoplay=1",
-      "https://tv2.wfuapp.com/2019/12/chengsin-tv-live.html"
-    ]
-  },
-  {
-    "name": "海豚综合",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/nll0myKS3vU?autoplay=1",
-      "https://tv2.wfuapp.com/2019/12/dolphin-tv-live.html"
-    ]
-  },
-  {
-    "name": "双子卫视",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/wK6UTmRyZXU?autoplay=1",
-      "https://tv2.wfuapp.com/?title=%E9%9B%99%E5%AD%90%E8%A1%9B%E8%A6%96%E9%9B%BB%E8%A6%96%E5%8F%B0(%E7%9B%B4%E6%92%AD)&channel=UCsx_6Y6TZ4aA8F1LEGBRcow&group=%E7%B6%9C%E5%90%88"
-    ]
-  },
-  {
-    "name": "桐瑛虎尾",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/Bfg6ehChLbI?autoplay=1",
-      "https://tv2.wfuapp.com/?title=%E6%A1%90%E7%91%9B%E8%99%8E%E5%B0%BE%E9%9B%BB%E8%A6%96%E8%87%BA(%E7%9B%B4%E6%92%AD)&channel=UCwDxsoF4QrpBSyDLfFQfXXw&group=%E7%B6%9C%E5%90%88"
-    ]
-  },
-  {
-    "name": "桐瑛台南",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/m6c1wVvXEwE?autoplay=1",
-      "https://tv2.wfuapp.com/?title=%E6%A1%90%E7%91%9B%E5%8F%B0%E5%8D%97%E9%9B%BB%E8%A6%96%E8%87%BA(%E7%9B%B4%E6%92%AD)&channel=UCnBeKp96tQ0DD6s6D6BZGig&group=%E7%B6%9C%E5%90%88"
-    ]
-  },
-  
-
-  
-  {
-    "name": "凤凰卫视",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/HFib76ySpbU?autoplay=1",
-      "https://tv2.wfuapp.com/2019/08/phoenix-media.html"
-    ]
-  },
-  {
-    "name": "凤凰资讯",
-    "groupName": "海外",
-    "urls": [
-      "https://www.youtube.com/embed/bGIIO3HuNyI?autoplay=1",
-      "https://tv2.wfuapp.com/2019/08/phoenix-media.html"
-    ]
-  },
-  {
-    "name": "第一卫视",
-    "groupName": "海外",
-    "urls": [
-      "http://play2.one-tv.com/live/onetv.m3u8"
-    ]
-  },
-  {
-    "name": "美亚卫视",
-    "groupName": "海外",
-    "urls": [
-      "http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8"
-    ]
-  },
-
-
-
-  
   {
     "name": "DW ENGLISH",
     "groupName": "海外",
@@ -1312,6 +1387,13 @@
     "groupName": "海外",
     "urls": [
       "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298"
+    ]
+  },
+  {
+    "name": "BBC NEWS（ASIA）",
+    "groupName": "海外",
+    "urls": [
+      "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8"
     ]
   },
   {
@@ -1361,6 +1443,46 @@
     ]
   },
   {
+    "name": "CNA NEWS",
+    "groupName": "海外",
+    "urls": [
+      "https://www.youtube.com/embed/XWq5kBlakcQ?autoplay=1",
+      "https://tv2.wfuapp.com/2019/12/cna-news-live.html"
+    ]
+  },
+  {
+    "name": "Bloomberg",
+    "groupName": "海外",
+    "urls": [
+      "https://www.youtube.com/embed/iyOq8DhaMYw?autoplay=1",
+      "https://tv2.wfuapp.com/2019/12/bloomberg-news-live.html"
+    ]
+  },
+  {
+    "name": "Euronews",
+    "groupName": "海外",
+    "urls": [
+      "https://www.youtube.com/embed/pykpO5kQJ98?autoplay=1",
+      "https://tv2.wfuapp.com/2019/12/euronews-live.html"
+    ]
+  },
+  {
+    "name": "FRANCE 24",
+    "groupName": "海外",
+    "urls": [
+      "https://www.youtube.com/embed/Ap-UM1O9RBU?autoplay=1",
+      "https://tv2.wfuapp.com/2020/05/france-24-live.html"
+    ]
+  },
+  {
+    "name": "Al Jazeera",
+    "groupName": "海外",
+    "urls": [
+      "https://www.youtube.com/embed/gCNeDWCI0vo?autoplay=1",
+      "https://tv2.wfuapp.com/2006/11/al-jazeera-english.html"
+    ]
+  },
+  {
     "name": "NHK WORLD",
     "groupName": "海外",
     "urls": [
@@ -1369,10 +1491,51 @@
     ]
   },
   {
-    "name": "Taiwan Plus",
+    "name": "Kansai NEWS",
     "groupName": "海外",
     "urls": [
-      "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"
+      "https://www.youtube.com/embed/sTAqx_1Yrww?autoplay=1",
+      "https://tv2.wfuapp.com/2019/12/asahi-news-live.html"
+    ]
+  },
+  {
+    "name": "TBS NEWS",
+    "groupName": "海外",
+    "urls": [
+      "https://www.youtube.com/embed/ohI356mwBp8?autoplay=1",
+      "https://tv2.wfuapp.com/2021/03/tbs-news-live.html"
+    ]
+  },
+  {
+    "name": "NTV NEWS",
+    "groupName": "海外",
+    "urls": [
+      "https://www.youtube.com/embed/VDhPBOOSDlw?autoplay=1",
+      "https://tv2.wfuapp.com/2024/08/ntv-news.html"
+    ]
+  },
+  {
+    "name": "Japa NEWS",
+    "groupName": "海外",
+    "urls": [
+      "https://www.youtube.com/embed/coYw-eVU0Ks?autoplay=1",
+      "https://tv2.wfuapp.com/2022/12/ann-news.html"
+    ]
+  },
+  {
+    "name": "YTN NEWS",
+    "groupName": "海外",
+    "urls": [
+      "https://www.youtube.com/embed/jm6XDO2LQbY?autoplay=1",
+      "https://tv2.wfuapp.com/2019/12/ytn-news-live.html"
+    ]
+  },
+  {
+    "name": "KBS NEWS",
+    "groupName": "海外",
+    "urls": [
+      "https://www.youtube.com/embed/CzzT5NlpzPw?autoplay=1",
+      "https://tv2.wfuapp.com/2021/10/kbs-world-tv.html"
     ]
   },
   {
@@ -1543,6 +1706,79 @@
 
 
   {
+    "name": "熊猫 成都",
+    "groupName": "其他",
+    "urls": [
+      "https://live.ipanda.com/xmcd/?spm=C98970.PjnbSKo7xEQF.M4cnAxBhqefa.3&channelabled=0"
+    ]
+  },
+  {
+    "name": "熊猫 都江堰",
+    "groupName": "其他",
+    "urls": [
+      "https://live.ipanda.com/xmwl/index.shtml?spm=C98970.PjnbSKo7xEQF.M4cnAxBhqefa.1"
+    ]
+  },
+  {
+    "name": "麋鹿 大丰",
+    "groupName": "其他",
+    "urls": [
+      "https://live.ipanda.com/zxwz/milu/index.shtml?spm=C98970.PjnbSKo7xEQF.M6A3Rmep79G9.1"
+    ]
+  },
+  {
+    "name": "白马雪山 云南",
+    "groupName": "其他",
+    "urls": [
+      "https://live.ipanda.com/zxwz/bmxs/index.shtml?spm=C98970.PjnbSKo7xEQF.M6A3Rmep79G9.2"
+    ]
+  },
+  {
+    "name": "KC Zoo Polar Bear Cam",
+    "groupName": "其他",
+    "urls": [
+      "https://www.youtube.com/embed/BSUnBPvX9K4?autoplay=1",
+      "https://tv2.wfuapp.com/2008/06/kansas-zoo.html"
+    ]
+  },
+  {
+    "name": "Wolong Grove Panda Cam",
+    "groupName": "其他",
+    "urls": [
+      "https://www.youtube.com/embed/3szkFHfr6sA?autoplay=1",
+      "https://tv2.wfuapp.com/2021/12/panda-live.html"
+    ]
+  },
+  {
+    "name": "Africam Tau",
+    "groupName": "其他",
+    "urls": [
+      "https://www.youtube.com/embed/DsNtwGJXTTs?autoplay=1",
+      "https://tv2.wfuapp.com/2008/05/namib-desert-wildlife.html"
+    ]
+  },
+  {
+    "name": "Strider Rubbing Beach",
+    "groupName": "其他",
+    "urls": [
+      "https://www.youtube.com/embed/sQqnSUW9d8c?autoplay=1",
+      "https://tv2.wfuapp.com/2015/03/explorer-oceans.html"
+    ]
+  },
+  {
+    "name": "Sloth TV",
+    "groupName": "其他",
+    "urls": [
+      "https://www.youtube.com/embed/g_L1Ay8P244?autoplay=1",
+      "https://tv2.wfuapp.com/2017/12/explore-nature.html"
+    ]
+  },
+  
+  
+
+
+  
+  {
     "name": "成人-01",
     "groupName": "成人",
     "urls": [
@@ -1585,10 +1821,185 @@
     ]
   },
   {
+    "name": "AdultIPTV.net Live Cams",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/livecams.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net MILF",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/milf.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Big Dick",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/bigdick.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Big Tits",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/bigtits.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Fetish",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/fetish.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Pornstar",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/pornstar.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Big Ass",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/bigass.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Interracial",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/interracial.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Latina",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/latina.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net POV",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/pov.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Blowjob",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/blowjob.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Teen",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/teen.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Hardcore",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/hardcore.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Cuckold",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/cuckold.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Threesome",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/threesome.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Russian",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/russian.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Lesbian",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/lesbian.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Rough",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/rough.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Gangbang",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/gangbang.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Anal",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/anal.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Compilation",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/compilation.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Brunette",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/brunette.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Blonde",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/blonde.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Gay",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/gay.m3u8"
+    ]
+  },
+  {
+    "name": "AdultIPTV.net Asian",
+    "groupName": "成人",
+    "urls": [
+      "http://live.adultiptv.net/asian.m3u8"
+    ]
+  },
+  {
     "name": "测试频道",
     "groupName": "成人",
     "urls": [
-      "https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8",
+      "https://www.youtube.com/watch?v=TCnaIE_SAtM",
       "https://tv2.wfuapp.com/2021/01/global-news-live.html"
     ]
   }
