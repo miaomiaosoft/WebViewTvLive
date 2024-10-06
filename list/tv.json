@@ -2693,6 +2693,20 @@
     ]
   },
   {
+    "name": "O-la-la",
+    "groupName": "成人",
+    "urls": [
+      "http://31.148.48.15/O-la-la/index.m3u8"
+    ]
+  },
+  {
+    "name": "Babestation24",
+    "groupName": "成人",
+    "urls": [
+      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8"
+    ]
+  },
+  {
     "name": "Miami TV",
     "groupName": "成人",
     "urls": [
