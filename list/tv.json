@@ -1117,8 +1117,15 @@
     "name": "东森 新闻",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/V1p33hqPrUk?autoplay=1",
+      "https://enx.gdplayertv.to/live-tv/ebc-news-tv/?embed=1",
       "https://news.ebc.net.tw/video"
+    ]
+  },
+  {
+    "name": "东森 综合",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/ebc-variety-tv/?embed=1"
     ]
   },
   {
@@ -1158,7 +1165,8 @@
     "name": "中视",
     "groupName": "台湾",
     "urls": [
-      "https://www.4gtv.tv/channel/4gtv-4gtv040?set\u003d4\u0026ch\u003d4"
+      "https://www.4gtv.tv/channel/4gtv-4gtv040?set\u003d4\u0026ch\u003d4",
+      "https://enx.gdplayertv.to/live-tv/ctv/?embed=1"
     ]
   },
   {
@@ -1209,6 +1217,14 @@
       "https://idx.gdplayertv.to/live-tv/cti-metro-tv/?embed=1"
     ]
   },
+  {
+    "name": "中天 娱乐",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/cti-entertainment-tv?embed=1"
+    ]
+  },
+  
   
 
 
@@ -1226,6 +1242,34 @@
     "urls": [
       "https://www.youtube.com/embed/pF507BLtbqU?autoplay=1",
       "https://tv2.wfuapp.com/2019/11/set-inews-live.html"
+    ]
+  },
+  {
+    "name": "三立 都会",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/set-metro-tv?embed=1"
+    ]
+  },
+  {
+    "name": "三立 台湾",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/set-taiwan-tv?embed=1"
+    ]
+  },
+  {
+    "name": "三立 戏剧",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/set-theatre-tv?embed=1"
+    ]
+  },
+  {
+    "name": "三立 综合",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/set-variety-tv/?embed=1"
     ]
   },
   
@@ -1259,6 +1303,13 @@
 
 
   {
+    "name": "公视",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/public-tv-tw/?embed=1"
+    ]
+  },
+  {
     "name": "公视 新闻",
     "groupName": "台湾",
     "urls": [
@@ -1277,6 +1328,13 @@
 
 
   {
+    "name": "台视",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/taiwan-tv/?embed=1"
+    ]
+  },
+  {
     "name": "台视 新闻",
     "groupName": "台湾",
     "urls": [
@@ -1292,7 +1350,7 @@
     "groupName": "台湾",
     "urls": [
       "https://www.4gtv.tv/channel/4gtv-4gtv041?set\u003d4\u0026ch\u003d6",
-      "rtmp://59.124.75.138:1935/sat/tv111"
+      "https://enx.gdplayertv.to/live-tv/cts-tv/?embed=1"
     ]
   },
   {
@@ -1307,6 +1365,26 @@
 
 
   {
+    "name": "年代 新闻",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/era-news/?embed=1"
+    ]
+  },
+
+
+
+  {
+    "name": "非凡 新闻",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/unique-business-news/?embed=1"
+    ]
+  },
+
+
+  
+  {
     "name": "镜 新闻",
     "groupName": "台湾",
     "urls": [
@@ -1318,13 +1396,59 @@
 
 
   {
+    "name": "GTV 综合",
+    "groupName": "港澳",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/gtv-variety/?embed=1"
+    ]
+  },
+  {
+    "name": "GTV 第一",
+    "groupName": "港澳",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/gtv-one/?embed=1"
+    ]
+  },
+  {
+    "name": "GTV 戏剧",
+    "groupName": "港澳",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/gtv-drama/?embed=1"
+    ]
+  },
+  
+
+  
+  {
+    "name": "TVBS",
+    "groupName": "港澳",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/tvbs/?embed=1"
+    ]
+  },
+  {
     "name": "TVBS 新闻",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/m_dhMSvUCIc?autoplay=1",
+      "https://enx.gdplayertv.to/live-tv/tvbs-news/?embed=1",
       "https://tv2.wfuapp.com/2019/12/tvbs-news-live.html"
     ]
   },
+  {
+    "name": "TVBS 欢乐",
+    "groupName": "港澳",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/tvbs-entertainment/?embed=1"
+    ]
+  },
+  {
+    "name": "TVBS ASIA",
+    "groupName": "港澳",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/tvbs-asia/?embed=1"
+    ]
+  },
+  
 
 
   
@@ -1340,10 +1464,31 @@
 
 
   {
+    "name": "纬来 综合",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/videoland-ontv/?embed=1"
+    ]
+  },
+  {
     "name": "纬来 电影",
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/videoland-movie/?embed=1"
+    ]
+  },
+  {
+    "name": "纬来 日本",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/videoland-japan/?embed=1"
+    ]
+  },
+  {
+    "name": "纬来 体育",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/videoland-sports/?embed=1"
     ]
   },
 
@@ -1356,6 +1501,31 @@
       "https://idx.gdplayertv.to/live-tv/ltv-foreign-movies/?embed=1"
     ]
   },
+  {
+    "name": "龙华 戏剧",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/ltv-drama/?embed=1"
+    ]
+  },
+  {
+    "name": "龙华 偶像",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/ltv-idol/?embed=1"
+    ]
+  },
+
+
+
+  {
+    "name": "靖天 卡通",
+    "groupName": "港澳",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/golden-tv/?embed=1"
+    ]
+  },
+  
 
 
   
@@ -1567,6 +1737,69 @@
     ]
   },
   {
+    "name": "Cartoon Network",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/cartoon-network-asia?embed=1"
+    ]
+  },
+  {
+    "name": "Cartoonito TV",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/cartoonito-tv/?embed=1"
+    ]
+  },
+  {
+    "name": "Discovery Asia",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/discovery-asia-tw/?embed=1"
+    ]
+  },
+  {
+    "name": "Discovery Channel",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/discovery-tw/?embed=1"
+    ]
+  },
+  {
+    "name": "Hollywood Movie",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/hollywood-movie/?embed=1"
+    ]
+  },
+  {
+    "name": "Food Planet",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/food-planet/?embed=1"
+    ]
+  },
+  {
+    "name": "Asia Food Network",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/asian-food-channel/?embed=1"
+    ]
+  },
+  {
+    "name": "Asia Travel Channel",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/asia-travel-channel/?embed=1"
+    ]
+  },
+  {
+    "name": "AXN TV",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/axn-tw/?embed=1"
+    ]
+  },
+  {
     "name": "GOOD TV",
     "groupName": "台湾",
     "urls": [
@@ -1631,6 +1864,27 @@
     ]
   },
   {
+    "name": "TVB 翡翠",
+    "groupName": "港澳",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/tvb-jade/?embed=1"
+    ]
+  },
+  {
+    "name": "TVB 娱乐",
+    "groupName": "港澳",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/tvb-entertainment-news/?embed=1"
+    ]
+  },
+  {
+    "name": "TVB 无线",
+    "groupName": "港澳",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/tvb-news/?embed=1"
+    ]
+  },
+  {
     "name": "TVB 明珠",
     "groupName": "港澳",
     "urls": [
@@ -1642,6 +1896,13 @@
     "groupName": "港澳",
     "urls": [
       "https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist_w1606259144.m3u8"
+    ]
+  },
+  {
+    "name": "Viu TV",
+    "groupName": "港澳",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/viu-tv/?embed=1"
     ]
   },
   {
@@ -1663,6 +1924,13 @@
     "groupName": "港澳",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/mei-ah-entertainment/?embed=1"
+    ]
+  },
+  {
+    "name": "美亚娱乐",
+    "groupName": "港澳",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/mei-ah-entertainment/?embed=1"
     ]
   },
   {
