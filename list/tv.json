@@ -822,6 +822,14 @@
     ]
   },
   {
+    "name": "中視 新闻",
+    "groupName": "海外",
+    "urls": [
+      "https://www.youtube.com/watch?v=TCnaIE_SAtM",
+      "https://tv2.wfuapp.com/2019/12/ctv-news-live.html"
+    ]
+  },  
+  {
     "name": "中視 經典",
     "groupName": "海外",
     "urls": [
