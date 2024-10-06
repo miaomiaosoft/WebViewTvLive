@@ -201,6 +201,11 @@
       "https://www.yangshipin.cn/tv/home?pid\u003d600084781"
     ]
   },
+
+
+
+
+  
   {
     "name": "湖南卫视",
     "groupName": "湖南",
@@ -313,6 +318,11 @@
       "https://live.mgtv.com/?channelId\u003d230"
     ]
   },
+
+
+
+
+  
   {
     "name": "广东卫视",
     "groupName": "广东",
@@ -495,6 +505,11 @@
       "https://www.sztv.com.cn/pindao/index.html?id\u003d7881"
     ]
   },
+
+
+
+
+  
   {
     "name": "北京卫视",
     "groupName": "卫视",
@@ -649,6 +664,11 @@
       "https://news.tvb.com/tc/live/83"
     ]
   },
+
+
+
+
+  
   {
     "name": "新唐人亚太台",
     "groupName": "海外",
@@ -808,6 +828,18 @@
     "groupName": "海外",
     "urls": [
       "https://www.voanews.com/live/video/126"
+    ]
+  },
+
+
+
+
+
+  {
+    "name": "中视 HD",
+    "groupName": "海外",
+    "urls": [
+      "https://yeslivetv.com/channels/ctv-hd/"
     ]
   }
 ]
