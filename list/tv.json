@@ -899,7 +899,7 @@
     "name": "东森 新闻",
     "groupName": "海外",
     "urls": [
-      "https://www.youtube.com/embed/V1p33hqPrUk?autoplay=1"
+      "https://www.youtube.com/embed/V1p33hqPrUk?autoplay=1",
       "https://news.ebc.net.tw/video"
     ]
   },
@@ -907,7 +907,7 @@
     "name": "东森 财经",
     "groupName": "海外",
     "urls": [
-      "https://www.youtube.com/embed/AEBeWMM1atA?autoplay=1"
+      "https://www.youtube.com/embed/AEBeWMM1atA?autoplay=1",
       "https://fnc.ebc.net.tw/"
     ]
   },
@@ -1043,7 +1043,7 @@
     "name": "公视 新闻",
     "groupName": "海外",
     "urls": [
-      "https://www.youtube.com/embed/quwqlazU-c8?autoplay=1"
+      "https://www.youtube.com/embed/quwqlazU-c8?autoplay=1",
       "https://tv2.wfuapp.com/2023/07/pts-news-live.html"
     ]
   },
