@@ -62,7 +62,8 @@
     "name": "CCTV-6 电影",
     "groupName": "央视",
     "urls": [
-      "https://tv.cctv.com/live/cctv6/"
+      "https://tv.cctv.com/live/cctv6/",
+      "https://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8"
     ]
   },
   {
@@ -160,6 +161,30 @@
     ]
   },
   {
+    "name": "CHC 动作电影",
+    "groupName": "央视",
+    "urls": [
+      "http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8",
+      "http://timetv.xyz/chc/chc-action.html"
+    ]
+  },
+  {
+    "name": "CHC 家庭影院",
+    "groupName": "央视",
+    "urls": [
+      "http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8",
+      "http://timetv.xyz/chc/chc-family.html"
+    ]
+  },
+  {
+    "name": "CHC 影迷电影",
+    "groupName": "央视",
+    "urls": [
+      "http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8",
+      "http://timetv.xyz/chc/chc-fan.html"
+    ]
+  },
+  {
     "name": "CETV-1",
     "groupName": "央视",
     "urls": [
@@ -189,35 +214,35 @@
     ]
   },
   {
-    "name": "CGTN Español",
-    "groupName": "央视",
-    "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600084744"
-    ]
-  },
-  {
-    "name": "CGTN Français",
+    "name": "CGTN（法语）",
     "groupName": "央视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600084704"
     ]
   },
   {
-    "name": "CGTN العربية",
-    "groupName": "央视",
-    "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600084782"
-    ]
-  },
-  {
-    "name": "CGTN Русский",
+    "name": "CGTN（俄语）",
     "groupName": "央视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600084758"
     ]
   },
   {
-    "name": "CGTN Documentary",
+    "name": "CGTN（阿拉伯）",
+    "groupName": "央视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600084782"
+    ]
+  },
+  {
+    "name": "CGTN（西班牙）",
+    "groupName": "央视",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600084744"
+    ]
+  },
+  {
+    "name": "CGTN（纪录片）",
     "groupName": "央视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600084781"
@@ -239,21 +264,24 @@
     "name": "江苏卫视",
     "groupName": "卫视",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002521"
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002521",
+      "http://live.jstv.com/"
     ]
   },
   {
     "name": "东方卫视",
     "groupName": "卫视",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002483"
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002483",
+      "https://live.kankanews.com/huikan"
     ]
   },
   {
     "name": "浙江卫视",
     "groupName": "卫视",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002520"
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002520",
+      "https://cn.tingfm.com/tv/1039?lang=zh_CN"
     ]
   },
   {
@@ -376,10 +404,84 @@
     ]
   },
   {
+    "name": "山西卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.sxrtv.com/tv/",
+      "http://video.qd.sdu.edu.cn/liverespath/74908123d020c1a9f55e8a9652973187bcd07970/index.m3u8"
+    ]
+  },
+  {
+    "name": "云南卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yntv.cn/live.html"
+    ]
+  },
+  {
+    "name": "天津卫视",
+    "groupName": "卫视",
+    "urls": [
+      "http://video.qd.sdu.edu.cn/liverespath/41433c450cf4747cf2600adecc560bc90f344182/index.m3u8"
+    ]
+  },
+  {
+    "name": "青海卫视",
+    "groupName": "卫视",
+    "urls": [
+      "http://www.qhbtv.com/new_index/live/folder2646/",
+      "http://video.qd.sdu.edu.cn/liverespath/468aa6e90a67946eeb0e862e4b9f2764ee13cc75/index.m3u8"
+    ]
+  },
+  {
+    "name": "陕西卫视",
+    "groupName": "卫视",
+    "urls": [
+      "http://www.sxtvs.com/sxtvs_sxws/index.html"
+    ]
+  },
+  {
+    "name": "吉林卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.jlntv.cn/tv?id=104"
+    ]
+  },
+  {
+    "name": "新疆卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.xjtvs.com.cn/live/xjtv.shtml",
+      "http://video.qd.sdu.edu.cn/liverespath/d75bf52e702ca0fb44344fc2e86e7675ac112ec7/index.m3u8"
+    ]
+  },
+  {
     "name": "内蒙卫视",
     "groupName": "卫视",
     "urls": [
       "https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880"
+    ]
+  },
+  {
+    "name": "延边卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.yb983.com/cys/index.html"
+    ]
+  },
+  {
+    "name": "甘肃卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.gstv.com.cn/zxc.jhtml",
+      "http://video.qd.sdu.edu.cn/liverespath/975463fd39229112f75925af024d6ed11de84a0e/index.m3u8"
+    ]
+  },
+  {
+    "name": "宁夏卫视",
+    "groupName": "卫视",
+    "urls": [
+      "http://video.qd.sdu.edu.cn/liverespath/eefad27700cf7ea30b4f5145f0b8d466a27c1478/index.m3u8"
     ]
   },
   {
@@ -389,7 +491,42 @@
       "http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202"
     ]
   },
-  
+  {
+    "name": "亚洲卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8"
+    ]
+  },
+  {
+    "name": "环球电视",
+    "groupName": "卫视",
+    "urls": [
+      "http://zb.xzxwhcb.com:9999/hls/world.m3u8"
+    ]
+  },
+  {
+    "name": "中国天气",
+    "groupName": "卫视",
+    "urls": [
+      "http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8"
+    ]
+  },
+  {
+    "name": "直播中国",
+    "groupName": "卫视",
+    "urls": [
+      "https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8"
+    ]
+  },
+  {
+    "name": "都市剧场",
+    "groupName": "卫视",
+    "urls": [
+      "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8"
+    ]
+  },
+
 
 
 
@@ -819,6 +956,103 @@
 
 
 
+
+  {
+    "name": "浙江卫视",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.cztv.com/liveTV/101",
+      "https://cn.tingfm.com/tv/1039?lang=zh_CN"
+    ]
+  },
+  {
+    "name": "钱江都市",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.cztv.com/liveTV/102"
+    ]
+  },
+  {
+    "name": "经济生活",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.cztv.com/liveTV/103"
+    ]
+  },
+  {
+    "name": "教科影视",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.cztv.com/liveTV/104"
+    ]
+  },
+  {
+    "name": "民生休闲",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.cztv.com/liveTV/106"
+    ]
+  },
+  {
+    "name": "新闻频道",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.cztv.com/liveTV/107"
+    ]
+  },
+  {
+    "name": "少儿频道",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.cztv.com/liveTV/108"
+    ]
+  },
+  {
+    "name": "国际频道",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.cztv.com/liveTV/110"
+    ]
+  },
+  {
+    "name": "之江纪录",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.cztv.com/liveTV/112"
+    ]
+  },
+  {
+    "name": "易购频道",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.cztv.com/liveTV/111"
+    ]
+  },
+  {
+    "name": "绍兴新闻",
+    "groupName": "浙江",
+    "urls": [
+      "http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8"
+    ]
+  },
+  {
+    "name": "绍兴公共",
+    "groupName": "浙江",
+    "urls": [
+      "http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8"
+    ]
+  },
+  {
+    "name": "绍兴影视",
+    "groupName": "浙江",
+    "urls": [
+      "http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
+    ]
+  },
+  
+
+
+
   
   {
     "name": "民視",
@@ -895,6 +1129,28 @@
       "https://fnc.ebc.net.tw/"
     ]
   },
+  {
+    "name": "东森 戏剧",
+    "groupName": "台湾",
+    "urls": [
+      "https://idx.gdplayertv.to/live-tv/ebc-drama-tv/?embed=1"
+    ]
+  },
+  {
+    "name": "东森 洋片",
+    "groupName": "台湾",
+    "urls": [
+      "https://idx.gdplayertv.to/live-tv/ebc-foreign-movies-tv/?embed=1"
+    ]
+  },
+  {
+    "name": "东森 电影",
+    "groupName": "台湾",
+    "urls": [
+      "https://idx.gdplayertv.to/live-tv/ebc-movies-tv/?embed=1"
+    ]
+  },
+  
 
 
   
@@ -937,6 +1193,20 @@
     "urls": [
       "https://www.youtube.com/embed/WPfPjbOLNfE?autoplay=1",
       "https://tv2.wfuapp.com/2019/12/ctitv-news-live.html"
+    ]
+  },
+  {
+    "name": "中天 亚洲",
+    "groupName": "台湾",
+    "urls": [
+      "https://idx.gdplayertv.to/live-tv/cti-asia-tv/?embed=1"
+    ]
+  },
+  {
+    "name": "中天 综合",
+    "groupName": "台湾",
+    "urls": [
+      "https://idx.gdplayertv.to/live-tv/cti-metro-tv/?embed=1"
     ]
   },
   
@@ -998,7 +1268,7 @@
   },
   {
     "name": "公视 Taiwan Plus",
-    "groupName": "海外",
+    "groupName": "台湾",
     "urls": [
       "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"
     ]
@@ -1068,6 +1338,36 @@
   },
 
 
+
+  {
+    "name": "纬来 电影",
+    "groupName": "台湾",
+    "urls": [
+      "https://idx.gdplayertv.to/live-tv/videoland-movie/?embed=1"
+    ]
+  },
+
+
+  
+  {
+    "name": "龙华 洋片",
+    "groupName": "台湾",
+    "urls": [
+      "https://idx.gdplayertv.to/live-tv/ltv-foreign-movies/?embed=1"
+    ]
+  },
+
+
+  
+  {
+    "name": "CINEMAX 电影",
+    "groupName": "台湾",
+    "urls": [
+      "https://idx.gdplayertv.to/live-tv/cinemax-tw/?embed=1"
+    ]
+  },
+
+
   
   {
     "name": "大爱台1",
@@ -1089,7 +1389,8 @@
     "name": "阿里郎",
     "groupName": "台湾",
     "urls": [
-      "https://www.4gtv.tv/channel/4gtv-4gtv079?set\u003d4\u0026ch\u003d189"
+      "https://www.4gtv.tv/channel/4gtv-4gtv079?set\u003d4\u0026ch\u003d189",
+      "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
     ]
   },
   {
@@ -1195,6 +1496,14 @@
     ]
   },
   {
+    "name": "大立电视",
+    "groupName": "台湾",
+    "urls": [
+      "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
+      "https://tv2.wfuapp.com/2019/12/sindagmp-tv-live.html"
+    ]
+  },
+  {
     "name": "诚心电视",
     "groupName": "台湾",
     "urls": [
@@ -1235,6 +1544,13 @@
     ]
   },
   {
+    "name": "地震监测",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/Owke6Quk7T0?autoplay=1"
+    ]
+  },
+  {
     "name": "MOMO KIDS",
     "groupName": "台湾",
     "urls": [
@@ -1250,7 +1566,15 @@
       "https://tv2.wfuapp.com/2019/12/yoyo-tv-live.html"
     ]
   },
-  
+  {
+    "name": "GOOD TV",
+    "groupName": "台湾",
+    "urls": [
+      "https://live.streamingfast.net/osmflivech1.m3u8",
+      "https://tv2.wfuapp.com/2019/12/sindagmp-tv-live.html"
+    ]
+  },
+    
 
   
   {
@@ -1270,6 +1594,57 @@
     ]
   },
   {
+    "name": "凤凰香港",
+    "groupName": "港澳",
+    "urls": [
+      "http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8",
+      "https://tv2.wfuapp.com/2019/08/phoenix-media.html"
+    ]
+  },
+  {
+    "name": "RTHK 33",
+    "groupName": "港澳",
+    "urls": [
+      "https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8"
+    ]
+  },
+  {
+    "name": "RTHK 34",
+    "groupName": "港澳",
+    "urls": [
+      "https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8"
+    ]
+  },
+  {
+    "name": "RTHK 35",
+    "groupName": "港澳",
+    "urls": [
+      "https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8"
+    ]
+  },
+  {
+    "name": "耀才财经",
+    "groupName": "港澳",
+    "urls": [
+      "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8",
+      "https://tv2.wfuapp.com/2019/08/phoenix-media.html"
+    ]
+  },
+  {
+    "name": "TVB 明珠",
+    "groupName": "港澳",
+    "urls": [
+      "https://idx.gdplayertv.to/live-tv/tvb-pearl/?embed=1"
+    ]
+  },
+  {
+    "name": "TVB LIVE",
+    "groupName": "港澳",
+    "urls": [
+      "https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist_w1606259144.m3u8"
+    ]
+  },
+  {
     "name": "第一卫视",
     "groupName": "港澳",
     "urls": [
@@ -1283,13 +1658,28 @@
       "http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8"
     ]
   },
+  {
+    "name": "美亚电影",
+    "groupName": "港澳",
+    "urls": [
+      "https://idx.gdplayertv.to/live-tv/mei-ah-entertainment/?embed=1"
+    ]
+  },
+  {
+    "name": "澳门莲花",
+    "groupName": "港澳",
+    "urls": [
+      "https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus-avc1_3000000=294.m3u8"
+    ]
+  },
+  
 
 
 
 
 
   {
-    "name": "新唐人 中国",
+    "name": "NTD 中国",
     "groupName": "海外",
     "urls": [
       "https://live.ntdtv.com/cnlive900/playlist.m3u8",
@@ -1297,7 +1687,7 @@
     ]
   },
   {
-    "name": "新唐人 亚太",
+    "name": "NTD 亚太",
     "groupName": "海外",
     "urls": [
       "https://live.ntdtv.com/aplive200/playlist.m3u8",
@@ -1305,7 +1695,7 @@
     ]
   },
   {
-    "name": "新唐人 美东",
+    "name": "NTD 美东",
     "groupName": "海外",
     "urls": [
       "https://live.ntdtv.com/live900/playlist.m3u8",
@@ -1313,7 +1703,7 @@
     ]
   },
   {
-    "name": "新唐人 美西",
+    "name": "NTD 美西",
     "groupName": "海外",
     "urls": [
       "https://live.ntdtv.com/uwlive990/playlist.m3u8",
@@ -1321,7 +1711,7 @@
     ]
   },
   {
-    "name": "新唐人 欧洲",
+    "name": "NTD 欧洲",
     "groupName": "海外",
     "urls": [
       "https://live.ntdtv.com/eulive600/playlist.m3u8",
@@ -1329,7 +1719,7 @@
     ]
   },
   {
-    "name": "新唐人 加东",
+    "name": "NTD 加东",
     "groupName": "海外",
     "urls": [
       "https://live.ntdtv.com/mllive860/playlist.m3u8",
@@ -1337,7 +1727,7 @@
     ]
   },
   {
-    "name": "新唐人 加西",
+    "name": "NTD 加西",
     "groupName": "海外",
     "urls": [
       "https://live.ntdtv.com/cwlive220/playlist.m3u8",
@@ -1345,7 +1735,7 @@
     ]
   },
   {
-    "name": "新唐人 旧金山",
+    "name": "NTD 旧金山",
     "groupName": "海外",
     "urls": [
       "https://live.ntdtv.com/sflive990/playlist.m3u8",
@@ -1353,7 +1743,7 @@
     ]
   },
   {
-    "name": "新唐人 休斯顿",
+    "name": "NTD 休斯顿",
     "groupName": "海外",
     "urls": [
       "https://live.ntdtv.com/htlive480/playlist.m3u8",
@@ -1451,6 +1841,14 @@
     ]
   },
   {
+    "name": "8world News",
+    "groupName": "海外",
+    "urls": [
+      "https://www.youtube.com/embed/RvSOIM620bA?autoplay=1",
+      "https://tv2.wfuapp.com/2019/12/cna-news-live.html"
+    ]
+  },
+  {
     "name": "Bloomberg",
     "groupName": "海外",
     "urls": [
@@ -1523,6 +1921,34 @@
     ]
   },
   {
+    "name": "YAMATO ANIMATION",
+    "groupName": "海外",
+    "urls": [
+      "https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Rakuten TV Shows",
+    "groupName": "海外",
+    "urls": [
+      "https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Rakuten Comedy Movies",
+    "groupName": "海外",
+    "urls": [
+      "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Rakuten Family Movies",
+    "groupName": "海外",
+    "urls": [
+      "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
     "name": "YTN NEWS",
     "groupName": "海外",
     "urls": [
@@ -1536,6 +1962,55 @@
     "urls": [
       "https://www.youtube.com/embed/CzzT5NlpzPw?autoplay=1",
       "https://tv2.wfuapp.com/2021/10/kbs-world-tv.html"
+    ]
+  },
+  {
+    "name": "USA TODAY",
+    "groupName": "海外",
+    "urls": [
+      "https://watch.plex.tv/live-tv/channel/usa-today-news"
+    ]
+  },
+  {
+    "name": "Wu Tang Collection",
+    "groupName": "海外",
+    "urls": [
+      "https://watch.plex.tv/live-tv/channel/wu-tang-collection"
+    ]
+  },
+  {
+    "name": "Discover Film",
+    "groupName": "海外",
+    "urls": [
+      "https://watch.plex.tv/live-tv/channel/discover-film"
+    ]
+  },
+  {
+    "name": "Law & Crime",
+    "groupName": "海外",
+    "urls": [
+      "https://watch.plex.tv/live-tv/channel/law-and-crime"
+    ]
+  },
+  {
+    "name": "Grjngo Western Movies",
+    "groupName": "海外",
+    "urls": [
+      "https://watch.plex.tv/live-tv/channel/grjngo-western-movies"
+    ]
+  },
+  {
+    "name": "People are Awesome",
+    "groupName": "海外",
+    "urls": [
+      "https://watch.plex.tv/live-tv/channel/people-are-awesome-2"
+    ]
+  },
+  {
+    "name": "WildEarth",
+    "groupName": "海外",
+    "urls": [
+      "https://watch.plex.tv/live-tv/channel/wildearth"
     ]
   },
   {
@@ -1691,6 +2166,13 @@
     "urls": [
       "https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8"
     ]
+  },
+  {
+    "name": "Pet Club TV",
+    "groupName": "海外",
+    "urls": [
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8"
+    ]
   }, 
   {
     "name": "测试频道",
@@ -1705,6 +2187,125 @@
 
 
 
+  {
+    "name": "电影轮播",
+    "groupName": "其他",
+    "urls": [
+      "https://pull.kktv8.com/livekktv/128600025.flv"
+    ]
+  },
+  {
+    "name": "斗鱼 电影8",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/4332"
+    ]
+  },
+  {
+    "name": "斗鱼 电影9",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/6140589"
+    ]
+  },
+  {
+    "name": "斗鱼 电影15",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/8770422"
+    ]
+  },
+  {
+    "name": "斗鱼 电影19",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/747764"
+    ]
+  },
+  {
+    "name": "斗鱼 电影20",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/52787"
+    ]
+  },
+  {
+    "name": "斗鱼 电影24",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/36337"
+    ]
+  },
+  {
+    "name": "斗鱼 电影25",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/8814650"
+    ]
+  },
+  {
+    "name": "斗鱼 电影28",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/263824"
+    ]
+  },
+  {
+    "name": "斗鱼 电影44",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/323876"
+    ]
+  },
+  {
+    "name": "斗鱼 林正英",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/218859"
+    ]
+  },
+  {
+    "name": "斗鱼 欧美大片1",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/20415"
+    ]
+  },
+  {
+    "name": "斗鱼 欧美大片2",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/2793084"
+    ]
+  },
+  {
+    "name": "斗鱼 欧美大片3",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/9249162"
+    ]
+  },
+  {
+    "name": "斗鱼 粤语电影2",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/6566671"
+    ]
+  },
+  {
+    "name": "斗鱼 粤语电影3",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/1226741"
+    ]
+  },
+  {
+    "name": "斗鱼 贝爷影厅",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/252802"
+    ]
+  },
   {
     "name": "熊猫 成都",
     "groupName": "其他",
@@ -1818,6 +2419,34 @@
     "groupName": "成人",
     "urls": [
       "http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "日本-01",
+    "groupName": "成人",
+    "urls": [
+      "http://103.36.32.14:5002/cs27.m3u8?token=guoziyun&gid=cs27&channel=zhongying"
+    ]
+  },
+  {
+    "name": "Miami TV",
+    "groupName": "成人",
+    "urls": [
+      "https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Playboy HD",
+    "groupName": "成人",
+    "urls": [
+      "http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "VISIT-X",
+    "groupName": "成人",
+    "urls": [
+      "https://stream.visit-x.tv/vxtv/live/playlist.m3u8"
     ]
   },
   {
