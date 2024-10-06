@@ -741,7 +741,7 @@
     "name": "东森 新闻",
     "groupName": "海外",
     "urls": [
-      "https://www.youtube.com/embed/V1p33hqPrUk?autoplay=1"
+      "https://www.youtube.com/embed/V1p33hqPrUk?autoplay=1",
       "https://news.ebc.net.tw/video"
     ]
   },
@@ -879,7 +879,7 @@
     "name": "公视 新闻",
     "groupName": "海外",
     "urls": [
-      "https://www.youtube.com/embed/quwqlazU-c8?autoplay=1";
+      "https://www.youtube.com/embed/quwqlazU-c8?autoplay=1",
       "https://tv2.wfuapp.com/2023/07/pts-news-live.html"
     ]
   },
@@ -1181,7 +1181,7 @@
 
   {
     "name": "成人频道",
-    "groupName": "海外",
+    "groupName": "成人",
     "urls": [
       "https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8",
       "https://tv2.wfuapp.com/2021/01/global-news-live.html"
