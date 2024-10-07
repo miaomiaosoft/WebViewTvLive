@@ -2192,27 +2192,6 @@
     ]
   },
   {
-    "name": "Rakuten TV Shows",
-    "groupName": "海外",
-    "urls": [
-      "https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8"
-    ]
-  },
-  {
-    "name": "Rakuten Comedy Movies",
-    "groupName": "海外",
-    "urls": [
-      "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8"
-    ]
-  },
-  {
-    "name": "Rakuten Family Movies",
-    "groupName": "海外",
-    "urls": [
-      "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8"
-    ]
-  },
-  {
     "name": "YTN NEWS",
     "groupName": "海外",
     "urls": [
@@ -2376,6 +2355,13 @@
     ]
   },
   {
+    "name": "Rakuten Family Movies",
+    "groupName": "海外",
+    "urls": [
+      "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
     "name": "Rakuten Viki",
     "groupName": "海外",
     "urls": [
@@ -2386,14 +2372,16 @@
     "name": "Rakuten TV Shows",
     "groupName": "海外",
     "urls": [
-      "https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+      "https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8",
+      "https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8"
     ]
   },
   {
     "name": "Rakuten Comedy",
     "groupName": "海外",
     "urls": [
-      "https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+      "https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8",
+      "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8"
     ]
   },
   {
