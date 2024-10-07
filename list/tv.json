@@ -343,7 +343,6 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002475",
-      "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225610/index.m3u8$4.0M_1080",
       "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8"
     ]
   },
@@ -397,7 +396,6 @@
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002531",
       "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225618/index.m3u8$1.6M_720",
-      "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226409/index.m3u8$7.9M_1080",
       "http://home.isvvv.com:5050/itv/ystenlive/1000000001000001096"
     ]
   },
@@ -415,8 +413,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002516",
-      "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226338/index.m3u8$7.9M_1080",
-      "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226513/index.m3u8$2.6M_576"
+      "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226338/index.m3u8$7.9M_1080"
     ]
   },
   {
@@ -1231,7 +1228,8 @@
     "groupName": "台湾",
     "urls": [
       "https://enx.gdplayertv.to/live-tv/ebc-news-tv/?embed=1",
-      "https://news.ebc.net.tw/video"
+      "https://news.ebc.net.tw/video",
+      "http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8"
     ]
   },
   {
@@ -1270,8 +1268,22 @@
       "https://idx.gdplayertv.to/live-tv/ebc-movies-tv/?embed=1"
     ]
   },
+  {
+    "name": "东森 超视",
+    "groupName": "台湾",
+    "urls": [
+      "http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8"
+    ]
+  },
+  {
+    "name": "东森 幼幼",
+    "groupName": "台湾",
+    "urls": [
+      "http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8515/.m3u8",
+      "https://tv2.wfuapp.com/2019/12/yoyo-tv-live.html"
+    ]
+  },
   
-
 
   
   {
@@ -1368,7 +1380,9 @@
     "name": "三立 台湾",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/set-taiwan-tv?embed=1"
+      "https://enx.gdplayertv.to/live-tv/set-taiwan-tv?embed=1",
+      "http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8",
+      "https://epg.pw/stream/bfb4f28ad7b1bc3e20703b9f35b51104a59eca154ec67643bf9d30a8af4b607a.m3u8"
     ]
   },
   {
@@ -1830,14 +1844,6 @@
     ]
   },
   {
-    "name": "YOYO TV",
-    "groupName": "台湾",
-    "urls": [
-      "https://www.youtube.com/embed/IAGgSVzXIJM?autoplay=1",
-      "https://tv2.wfuapp.com/2019/12/yoyo-tv-live.html"
-    ]
-  },
-  {
     "name": "Cartoon Network",
     "groupName": "台湾",
     "urls": [
@@ -1942,7 +1948,15 @@
   },
     
 
-  
+
+  {
+    "name": "香港卫视",
+    "groupName": "港澳",
+    "urls": [
+      "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8",
+      "http://zhibo.hkstv.tv/livestream/mutfysrq.flv"
+    ]
+  },
   {
     "name": "凤凰卫视",
     "groupName": "港澳",
@@ -2071,6 +2085,29 @@
     "groupName": "港澳",
     "urls": [
       "https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus-avc1_3000000=294.m3u8"
+    ]
+  },
+  {
+    "name": "澳门Macau",
+    "groupName": "港澳",
+    "urls": [
+      "http://61.244.22.5/ch3/ch3.live/index.m3u8",
+      "http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8",
+      "http://nz171l122.bb60246.ctm.net:8891/bysid/96.m3u8"
+    ]
+  },
+  {
+    "name": "澳视澳门",
+    "groupName": "港澳",
+    "urls": [
+      "http://61.244.22.5/ch1/ch1.live/index.m3u8"
+    ]
+  },
+  {
+    "name": "澳门资讯",
+    "groupName": "港澳",
+    "urls": [
+      "http://61.244.22.5/ch5/info_ch5.live/master.m3u8"
     ]
   },
   
