@@ -333,6 +333,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002520",
+      "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
       "https://cn.tingfm.com/tv/1039?lang=zh_CN",
       "https://media.hndyjyfw.gov.cn/live/jz-zhejiangweishi/live.m3u8"
     ]
@@ -342,6 +343,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002475",
+      "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225610/index.m3u8$4.0M_1080",
       "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8"
     ]
   },
@@ -367,6 +369,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002509",
+      "https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html",
       "http://home.isvvv.com:5050/itv/bestzb/5000000011000031118",
       "http://[2001:250:5800:1005::155]/liverespath/15f9ffc8f72eb7f7ddfe79669f246e4db4acc3c1/index.m3u8",
       "http://120.76.248.139/live/bfgd/4200000116.m3u8"
@@ -393,6 +396,8 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002531",
+      "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225618/index.m3u8$1.6M_720",
+      "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226409/index.m3u8$7.9M_1080",
       "http://home.isvvv.com:5050/itv/ystenlive/1000000001000001096"
     ]
   },
@@ -401,6 +406,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002481",
+      "https://www.sztv.com.cn/pindao/index.html?id=7867",
       "https://www.sztv.com.cn/dianshi.shtml?id=7867"
     ]
   },
@@ -409,7 +415,8 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002516",
-      "https://www.sctv.com/live/list"
+      "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226338/index.m3u8$7.9M_1080",
+      "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226513/index.m3u8$2.6M_576"
     ]
   },
   {
@@ -483,7 +490,7 @@
     "name": "山西卫视",
     "groupName": "卫视",
     "urls": [
-      "https://www.sxrtv.com/tv/",
+      "https://www.sxrtv.com/tv/index.shtml",
       "http://video.qd.sdu.edu.cn/liverespath/74908123d020c1a9f55e8a9652973187bcd07970/index.m3u8",
       "http://timetv.xyz/weishi/shanxi.html"
     ]
@@ -528,7 +535,8 @@
     "urls": [
       "https://www.jlntv.cn/tv?id=104",
       "http://video.qd.sdu.edu.cn/liverespath/44a878b1782810307d4d6918ae1da1712976350e/index.m3u8",
-      "http://home.isvvv.com:5050/itv/bestzb/5000000011000031117"
+      "http://home.isvvv.com:5050/itv/bestzb/5000000011000031117",
+      "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226397/index.m3u8$7.9M_1080"
     ]
   },
   {
@@ -1462,8 +1470,7 @@
     "name": "华视 新闻",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/wM0g8EoUZ_E?autoplay=1",
-      "https://www.4gtv.tv/channel/4gtv-live014?set\u003d4\u0026ch\u003d273"
+      "https://www.youtube.com/embed/wM0g8EoUZ_E?autoplay=1"
     ]
   },
 
@@ -1884,6 +1891,13 @@
     ]
   },
   {
+    "name": "My Cinema Europe",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/my-cinema-europe/?embed=1"
+    ]
+  },
+  {
     "name": "Food Planet",
     "groupName": "台湾",
     "urls": [
@@ -1909,6 +1923,13 @@
     "groupName": "台湾",
     "urls": [
       "https://enx.gdplayertv.to/live-tv/axn-tw/?embed=1"
+    ]
+  },
+  {
+    "name": "MTV Taiwan",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/mtv-tw/?embed=1"
     ]
   },
   {
