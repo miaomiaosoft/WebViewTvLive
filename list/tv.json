@@ -2307,28 +2307,33 @@
     "name": "Always Funny",
     "groupName": "海外",
     "urls": [
-      "https://watch.plex.tv/live-tv/channel/always-funny"
+      "https://watch.plex.tv/live-tv/channel/always-funny",
+      "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m3u8"
     ]
   },
   {
     "name": "Just For Laughs Gags",
     "groupName": "海外",
     "urls": [
-      "https://watch.plex.tv/live-tv/channel/just-for-laughs-gags"
+      "https://watch.plex.tv/live-tv/channel/just-for-laughs-gags",
+      "https://lte.wiseplayout.com/wisem3u8_9/2/2.m3u8",
+      "https://lte.wiseplayout.com/wisem3u8_9/master.m3u8"
     ]
   },
   {
     "name": "The Pet Collective",
     "groupName": "海外",
     "urls": [
-      "https://watch.plex.tv/live-tv/channel/the-pet-collective-2"
+      "https://watch.plex.tv/live-tv/channel/the-pet-collective-2",
+      "https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8"
     ]
   },
   {
     "name": "FailArmy",
     "groupName": "海外",
     "urls": [
-      "https://watch.plex.tv/live-tv/channel/failarmy-2"
+      "https://watch.plex.tv/live-tv/channel/failarmy-2",
+      "https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8"
     ]
   },
   {
