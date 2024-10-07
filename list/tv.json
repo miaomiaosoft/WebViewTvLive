@@ -26,7 +26,7 @@
     ]
   },
   {
-    "name": "CCTV-4 中文国际（亚洲）",
+    "name": "CCTV-4 中文国际",
     "groupName": "央视",
     "urls": [
       "https://tv.cctv.com/live/cctv4/",
@@ -747,10 +747,10 @@
     ]
   },
   {
-    "name": "长沙女性",
+    "name": "快乐购",
     "groupName": "湖南",
     "urls": [
-      "https://live.mgtv.com/?channelId\u003d230"
+      "https://live.mgtv.com/?channelId\u003d267"
     ]
   },
 
@@ -960,7 +960,7 @@
     ]
   },
   {
-    "name": "广西综艺",
+    "name": "广西综艺旅游",
     "groupName": "广西",
     "urls": [
       "https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html"
@@ -995,20 +995,76 @@
     ]
   },
   {
-    "name": "广西移动",
+    "name": "广西移动数字",
     "groupName": "广西",
     "urls": [
       "https://tv.gxtv.cn/channel/channelivePlay_78dbfd44e6b74ab687204d2d8113cbf5.html"
     ]
   },
   {
-    "name": "广西乐购",
+    "name": "广西乐思购",
     "groupName": "广西",
     "urls": [
       "https://tv.gxtv.cn/channel/channelivePlay_ed58bc4a207811e999f0e41f13b60c62.html"
     ]
+  },
+  {
+    "name": "柳州新闻综合",
+    "groupName": "广西",
+    "urls": [
+      "https://live.lzgd.com.cn/tv/1902?uin=3370"
+    ]
+  },
+  {
+    "name": "柳州科技频道",
+    "groupName": "广西",
+    "urls": [
+      "https://live.lzgd.com.cn/tv/1808?uin=3370"
+    ]
+  },
+  {
+    "name": "南宁新闻综合",
+    "groupName": "广西",
+    "urls": [
+      "http://www.nntv.cn/live/nntv_xw/"
+    ]
+  },
+  {
+    "name": "南宁文旅生活",
+    "groupName": "广西",
+    "urls": [
+      "http://www.nntv.cn/live/nntv_ds/"
+    ]
+  },
+  {
+    "name": "南宁影视娱乐",
+    "groupName": "广西",
+    "urls": [
+      "http://www.nntv.cn/live/nntv_ys/"
+    ]
+  },
+  {
+    "name": "南宁公共频道",
+    "groupName": "广西",
+    "urls": [
+      "http://www.nntv.cn/live/nntv_gg/"
+    ]
+  },
+  {
+    "name": "南宁老友LIVE",
+    "groupName": "广西",
+    "urls": [
+      "http://www.nntv.cn/live/nntv_live/"
+    ]
+  },
+  {
+    "name": "百色综合",
+    "groupName": "广西",
+    "urls": [
+      "https://live.gxrb.com.cn/tv/bstv_zh/index.m3u8",
+      "https://app.baisenews.net/mag/livevideo/v1/video/wapVideoView?id=1231"
+    ]
   },  
-
 
   
 
@@ -2117,6 +2173,7 @@
     "groupName": "海外",
     "urls": [
       "https://www.dw.com/zh/live-tv/channel-english",
+      "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
       "https://tv2.wfuapp.com/2019/12/dw-news-live.html"
     ]
   },
@@ -2597,215 +2654,11 @@
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8"
     ]
   }, 
-  {
-    "name": "测试频道",
-    "groupName": "海外",
-    "urls": [
-      "https://yeslivetv.com/channels/ctv-hd/",
-      "https://tv2.wfuapp.com/2019/12/ctv-news-live.html"
-    ]
-  },
 
 
 
 
 
-  {
-    "name": "电影轮播",
-    "groupName": "其他",
-    "urls": [
-      "https://pull.kktv8.com/livekktv/128600025.flv"
-    ]
-  },
-  {
-    "name": "斗鱼 电影8",
-    "groupName": "其他",
-    "urls": [
-      "http://epg.112114.xyz/douyu/4332",
-      "https://epg.112114.xyz/douyu/4332?123.m3u8"
-    ]
-  },
-  {
-    "name": "斗鱼 电影9",
-    "groupName": "其他",
-    "urls": [
-      "http://epg.112114.xyz/douyu/6140589",
-      "http://epg.112114.xyz/douyu/6140589?123.m3u8"
-    ]
-  },
-  {
-    "name": "斗鱼 电影15",
-    "groupName": "其他",
-    "urls": [
-      "http://epg.112114.xyz/douyu/8770422",
-      "https://live.fanmingming.com/player/?vurl=http://epg.112114.xyz/douyu/8770422"
-    ]
-  },
-  {
-    "name": "斗鱼 电影19",
-    "groupName": "其他",
-    "urls": [
-      "http://epg.112114.xyz/douyu/747764",
-      "https://bharadwajpro.github.io/m3u8-player/player/#http://epg.112114.xyz/douyu/747764"
-    ]
-  },
-  {
-    "name": "斗鱼 电影20",
-    "groupName": "其他",
-    "urls": [
-      "http://epg.112114.xyz/douyu/52787"
-    ]
-  },
-  {
-    "name": "斗鱼 电影24",
-    "groupName": "其他",
-    "urls": [
-      "http://epg.112114.xyz/douyu/36337"
-    ]
-  },
-  {
-    "name": "斗鱼 电影25",
-    "groupName": "其他",
-    "urls": [
-      "http://epg.112114.xyz/douyu/8814650"
-    ]
-  },
-  {
-    "name": "斗鱼 电影28",
-    "groupName": "其他",
-    "urls": [
-      "http://epg.112114.xyz/douyu/263824"
-    ]
-  },
-  {
-    "name": "斗鱼 电影44",
-    "groupName": "其他",
-    "urls": [
-      "http://epg.112114.xyz/douyu/323876"
-    ]
-  },
-  {
-    "name": "斗鱼 林正英",
-    "groupName": "其他",
-    "urls": [
-      "http://epg.112114.xyz/douyu/218859"
-    ]
-  },
-  {
-    "name": "斗鱼 欧美大片1",
-    "groupName": "其他",
-    "urls": [
-      "http://epg.112114.xyz/douyu/20415"
-    ]
-  },
-  {
-    "name": "斗鱼 欧美大片2",
-    "groupName": "其他",
-    "urls": [
-      "http://epg.112114.xyz/douyu/2793084"
-    ]
-  },
-  {
-    "name": "斗鱼 欧美大片3",
-    "groupName": "其他",
-    "urls": [
-      "http://epg.112114.xyz/douyu/9249162"
-    ]
-  },
-  {
-    "name": "斗鱼 粤语电影2",
-    "groupName": "其他",
-    "urls": [
-      "http://epg.112114.xyz/douyu/6566671"
-    ]
-  },
-  {
-    "name": "斗鱼 粤语电影3",
-    "groupName": "其他",
-    "urls": [
-      "http://epg.112114.xyz/douyu/1226741"
-    ]
-  },
-  {
-    "name": "斗鱼 贝爷影厅",
-    "groupName": "其他",
-    "urls": [
-      "http://epg.112114.xyz/douyu/252802"
-    ]
-  },
-  {
-    "name": "熊猫 成都",
-    "groupName": "其他",
-    "urls": [
-      "https://live.ipanda.com/xmcd/?spm=C98970.PjnbSKo7xEQF.M4cnAxBhqefa.3&channelabled=0"
-    ]
-  },
-  {
-    "name": "熊猫 都江堰",
-    "groupName": "其他",
-    "urls": [
-      "https://live.ipanda.com/xmwl/index.shtml?spm=C98970.PjnbSKo7xEQF.M4cnAxBhqefa.1"
-    ]
-  },
-  {
-    "name": "麋鹿 大丰",
-    "groupName": "其他",
-    "urls": [
-      "https://live.ipanda.com/zxwz/milu/index.shtml?spm=C98970.PjnbSKo7xEQF.M6A3Rmep79G9.1"
-    ]
-  },
-  {
-    "name": "白马雪山 云南",
-    "groupName": "其他",
-    "urls": [
-      "https://live.ipanda.com/zxwz/bmxs/index.shtml?spm=C98970.PjnbSKo7xEQF.M6A3Rmep79G9.2"
-    ]
-  },
-  {
-    "name": "KC Zoo Polar Bear Cam",
-    "groupName": "其他",
-    "urls": [
-      "https://www.youtube.com/embed/BSUnBPvX9K4?autoplay=1",
-      "https://tv2.wfuapp.com/2008/06/kansas-zoo.html"
-    ]
-  },
-  {
-    "name": "Wolong Grove Panda Cam",
-    "groupName": "其他",
-    "urls": [
-      "https://www.youtube.com/embed/3szkFHfr6sA?autoplay=1",
-      "https://tv2.wfuapp.com/2021/12/panda-live.html"
-    ]
-  },
-  {
-    "name": "Africam Tau",
-    "groupName": "其他",
-    "urls": [
-      "https://www.youtube.com/embed/DsNtwGJXTTs?autoplay=1",
-      "https://tv2.wfuapp.com/2008/05/namib-desert-wildlife.html"
-    ]
-  },
-  {
-    "name": "Strider Rubbing Beach",
-    "groupName": "其他",
-    "urls": [
-      "https://www.youtube.com/embed/sQqnSUW9d8c?autoplay=1",
-      "https://tv2.wfuapp.com/2015/03/explorer-oceans.html"
-    ]
-  },
-  {
-    "name": "Sloth TV",
-    "groupName": "其他",
-    "urls": [
-      "https://www.youtube.com/embed/g_L1Ay8P244?autoplay=1",
-      "https://tv2.wfuapp.com/2017/12/explore-nature.html"
-    ]
-  },
-  
-  
-
-
-  
   {
     "name": "成人-01",
     "groupName": "成人",
@@ -2863,10 +2716,10 @@
     ]
   },
   {
-    "name": "Babestation24",
+    "name": "VISIT-X",
     "groupName": "成人",
     "urls": [
-      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8"
+      "https://stream.visit-x.tv/vxtv/live/playlist.m3u8"
     ]
   },
   {
@@ -2877,17 +2730,17 @@
     ]
   },
   {
+    "name": "Babestation24",
+    "groupName": "成人",
+    "urls": [
+      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8"
+    ]
+  },
+  {
     "name": "Playboy HD",
     "groupName": "成人",
     "urls": [
       "http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8"
-    ]
-  },
-  {
-    "name": "VISIT-X",
-    "groupName": "成人",
-    "urls": [
-      "https://stream.visit-x.tv/vxtv/live/playlist.m3u8"
     ]
   },
   {
@@ -3065,9 +2918,212 @@
       "http://live.adultiptv.net/asian.m3u8"
     ]
   },
+
+
+
+
+
   {
-    "name": "测试频道",
-    "groupName": "成人",
+    "name": "电影轮播",
+    "groupName": "其他",
+    "urls": [
+      "https://pull.kktv8.com/livekktv/128600025.flv",
+      "https://icedwatermelonjuice.github.io/Online-Player/?url=https://pull.kktv8.com/livekktv/128600025.flv"
+    ]
+  },
+  {
+    "name": "斗鱼 电影8",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/4332"
+    ]
+  },
+  {
+    "name": "斗鱼 电影9",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/6140589"
+    ]
+  },
+  {
+    "name": "斗鱼 电影15",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/8770422",
+      "https://live.fanmingming.com/player/?vurl=http://epg.112114.xyz/douyu/8770422"
+    ]
+  },
+  {
+    "name": "斗鱼 电影19",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/747764",
+      "https://bharadwajpro.github.io/m3u8-player/player/#http://epg.112114.xyz/douyu/747764"
+    ]
+  },
+  {
+    "name": "斗鱼 电影20",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/52787"
+    ]
+  },
+  {
+    "name": "斗鱼 电影24",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/36337"
+    ]
+  },
+  {
+    "name": "斗鱼 电影25",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/8814650"
+    ]
+  },
+  {
+    "name": "斗鱼 电影28",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/263824"
+    ]
+  },
+  {
+    "name": "斗鱼 电影44",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/323876"
+    ]
+  },
+  {
+    "name": "斗鱼 林正英",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/218859"
+    ]
+  },
+  {
+    "name": "斗鱼 欧美大片1",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/20415"
+    ]
+  },
+  {
+    "name": "斗鱼 欧美大片2",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/2793084"
+    ]
+  },
+  {
+    "name": "斗鱼 欧美大片3",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/9249162"
+    ]
+  },
+  {
+    "name": "斗鱼 粤语电影2",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/6566671"
+    ]
+  },
+  {
+    "name": "斗鱼 粤语电影3",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/1226741"
+    ]
+  },
+  {
+    "name": "斗鱼 贝爷影厅",
+    "groupName": "其他",
+    "urls": [
+      "http://epg.112114.xyz/douyu/252802"
+    ]
+  },
+  {
+    "name": "熊猫 成都",
+    "groupName": "其他",
+    "urls": [
+      "https://live.ipanda.com/xmcd/?spm=C98970.PjnbSKo7xEQF.M4cnAxBhqefa.3&channelabled=0"
+    ]
+  },
+  {
+    "name": "熊猫 都江堰",
+    "groupName": "其他",
+    "urls": [
+      "https://live.ipanda.com/xmwl/index.shtml?spm=C98970.PjnbSKo7xEQF.M4cnAxBhqefa.1"
+    ]
+  },
+  {
+    "name": "麋鹿 大丰",
+    "groupName": "其他",
+    "urls": [
+      "https://live.ipanda.com/zxwz/milu/index.shtml?spm=C98970.PjnbSKo7xEQF.M6A3Rmep79G9.1"
+    ]
+  },
+  {
+    "name": "白马雪山 云南",
+    "groupName": "其他",
+    "urls": [
+      "https://live.ipanda.com/zxwz/bmxs/index.shtml?spm=C98970.PjnbSKo7xEQF.M6A3Rmep79G9.2"
+    ]
+  },
+  {
+    "name": "KC Zoo Polar Bear Cam",
+    "groupName": "其他",
+    "urls": [
+      "https://www.youtube.com/embed/BSUnBPvX9K4?autoplay=1",
+      "https://tv2.wfuapp.com/2008/06/kansas-zoo.html"
+    ]
+  },
+  {
+    "name": "Wolong Grove Panda Cam",
+    "groupName": "其他",
+    "urls": [
+      "https://www.youtube.com/embed/3szkFHfr6sA?autoplay=1",
+      "https://tv2.wfuapp.com/2021/12/panda-live.html"
+    ]
+  },
+  {
+    "name": "Africam Tau",
+    "groupName": "其他",
+    "urls": [
+      "https://www.youtube.com/embed/DsNtwGJXTTs?autoplay=1",
+      "https://tv2.wfuapp.com/2008/05/namib-desert-wildlife.html"
+    ]
+  },
+  {
+    "name": "Strider Rubbing Beach",
+    "groupName": "其他",
+    "urls": [
+      "https://www.youtube.com/embed/sQqnSUW9d8c?autoplay=1",
+      "https://tv2.wfuapp.com/2015/03/explorer-oceans.html"
+    ]
+  },
+  {
+    "name": "Sloth TV",
+    "groupName": "其他",
+    "urls": [
+      "https://www.youtube.com/embed/g_L1Ay8P244?autoplay=1",
+      "https://tv2.wfuapp.com/2017/12/explore-nature.html"
+    ]
+  },
+  {
+    "name": "测试频道01",
+    "groupName": "其他",
+    "urls": [
+      "https://yeslivetv.com/channels/ctv-hd/",
+      "https://tv2.wfuapp.com/2019/12/ctv-news-live.html"
+    ]
+  },
+  {
+    "name": "测试频道02",
+    "groupName": "其他",
     "urls": [
       "https://www.youtube.com/watch?v=TCnaIE_SAtM",
       "https://tv2.wfuapp.com/2021/01/global-news-live.html"
