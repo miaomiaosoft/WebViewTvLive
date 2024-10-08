@@ -395,6 +395,8 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002531",
+      "http://video.qd.sdu.edu.cn/liverespath/b14734af7f740eb61419248c57e25551a7d1093f/index.m3u8",
+      "http://[2001:250:5800:1005::155]:80/liverespath/b14734af7f740eb61419248c57e25551a7d1093f/index.m3u8",
       "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225618/index.m3u8$1.6M_720",
       "http://home.isvvv.com:5050/itv/ystenlive/1000000001000001096"
     ]
@@ -413,6 +415,8 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002516",
+      "http://video.qd.sdu.edu.cn/liverespath/ca3f021632b48e6960797776657926074723d276/index.m3u8",
+      "http://[2001:250:5800:1005::155]:80/liverespath/ca3f021632b48e6960797776657926074723d276/index.m3u8",
       "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226338/index.m3u8$7.9M_1080"
     ]
   },
@@ -3367,7 +3371,7 @@
     "groupName": "其他",
     "urls": [
       "https://player.twitch.tv/?channel=colawaytv&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=720p60&volume=1",
-      "https://www.twitch.tv/lopez_ttv"
+      "http://[2001:250:5800:1005::155]:80/liverespath/ca3f021632b48e6960797776657926074723d276/index.m3u8"
     ]
   },
   {
