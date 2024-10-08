@@ -1215,9 +1215,71 @@
       "http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
     ]
   },
+
+
+
+
+
+  {
+    "name": "东方卫视",
+    "groupName": "上海",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002483",
+      "https://live.kankanews.com/huikan"
+    ]
+  },
+  {
+    "name": "新闻综合",
+    "groupName": "上海",
+    "urls": [
+      "https://live.kankanews.com/huikan?id=2"
+    ]
+  },
+  {
+    "name": "外语频道",
+    "groupName": "上海",
+    "urls": [
+      "https://live.kankanews.com/huikan?id=3"
+    ]
+  },
+  {
+    "name": "都市频道",
+    "groupName": "上海",
+    "urls": [
+      "https://live.kankanews.com/huikan?id=4"
+    ]
+  },
+  {
+    "name": "第一财经",
+    "groupName": "上海",
+    "urls": [
+      "https://live.kankanews.com/huikan?id=5"
+    ]
+  },
+  {
+    "name": "纪实人文",
+    "groupName": "上海",
+    "urls": [
+      "https://live.kankanews.com/huikan?id=6"
+    ]
+  },
+  {
+    "name": "哈哈炫动",
+    "groupName": "上海",
+    "urls": [
+      "https://live.kankanews.com/huikan?id=9"
+    ]
+  },
+  {
+    "name": "看看新闻",
+    "groupName": "上海",
+    "urls": [
+      "https://live.kankanews.com/"
+    ]
+  },
   
-
-
+  
+  
 
   
   {
@@ -1375,7 +1437,8 @@
     "name": "中天 娱乐",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/cti-entertainment-tv?embed=1"
+      "https://enx.gdplayertv.to/live-tv/cti-entertainment-tv?embed=1",
+      "http://61.221.215.25:8800/hls/47/index.m3u8"
     ]
   },
   
@@ -2015,6 +2078,7 @@
     "groupName": "港澳",
     "urls": [
       "https://www.youtube.com/embed/HFib76ySpbU?autoplay=1",
+      "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw",
       "https://tv2.wfuapp.com/2019/08/phoenix-media.html"
     ]
   },
@@ -2023,6 +2087,7 @@
     "groupName": "港澳",
     "urls": [
       "https://www.youtube.com/embed/bGIIO3HuNyI?autoplay=1",
+      "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx"
       "https://tv2.wfuapp.com/2019/08/phoenix-media.html"
     ]
   },
@@ -2031,6 +2096,7 @@
     "groupName": "港澳",
     "urls": [
       "http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8",
+      "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk",
       "https://tv2.wfuapp.com/2019/08/phoenix-media.html"
     ]
   },
@@ -2740,7 +2806,8 @@
     "name": "Babestation24",
     "groupName": "成人",
     "urls": [
-      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8"
+      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8",
+      "https://proxy.flashcs6.eu.org/web/https/sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8"
     ]
   },
   {
@@ -3133,7 +3200,8 @@
     "name": "测试频道03",
     "groupName": "其他",
     "urls": [
-      "https://www.youtube.com/watch?v=TCnaIE_SAtM"
+      "https://www.youtube.com/watch?v=TCnaIE_SAtM",
+      "https://proxy.flashcs6.eu.org/web/https/watch.plex.tv/live-tv/channel/usa-today-news"
     ]
   }
 ]
