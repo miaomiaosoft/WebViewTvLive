@@ -2558,6 +2558,57 @@
     ]
   },
   {
+    "name": "Rakuten Family Movies",
+    "groupName": "海外",
+    "urls": [
+      "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Rakuten Viki",
+    "groupName": "海外",
+    "urls": [
+      "https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Rakuten TV Shows",
+    "groupName": "海外",
+    "urls": [
+      "https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8",
+      "https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Rakuten Comedy",
+    "groupName": "海外",
+    "urls": [
+      "https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8",
+      "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Rakuten Action",
+    "groupName": "海外",
+    "urls": [
+      "https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Rakuten Thriller",
+    "groupName": "海外",
+    "urls": [
+      "https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Rakuten British Films",
+    "groupName": "海外",
+    "urls": [
+      "https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+    ]
+  },
+  {
     "name": "Love Nature",
     "groupName": "海外",
     "urls": [
@@ -2649,57 +2700,6 @@
     ]
   },
   {
-    "name": "Rakuten Family Movies",
-    "groupName": "海外",
-    "urls": [
-      "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8"
-    ]
-  },
-  {
-    "name": "Rakuten Viki",
-    "groupName": "海外",
-    "urls": [
-      "https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8"
-    ]
-  },
-  {
-    "name": "Rakuten TV Shows",
-    "groupName": "海外",
-    "urls": [
-      "https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8",
-      "https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8"
-    ]
-  },
-  {
-    "name": "Rakuten Comedy",
-    "groupName": "海外",
-    "urls": [
-      "https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8",
-      "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8"
-    ]
-  },
-  {
-    "name": "Rakuten Action",
-    "groupName": "海外",
-    "urls": [
-      "https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8"
-    ]
-  },
-  {
-    "name": "Rakuten Thriller",
-    "groupName": "海外",
-    "urls": [
-      "https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8"
-    ]
-  },
-  {
-    "name": "Rakuten British Films",
-    "groupName": "海外",
-    "urls": [
-      "https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8"
-    ]
-  },
-  {
     "name": "Global Fashion Channel",
     "groupName": "海外",
     "urls": [
@@ -2785,7 +2785,8 @@
     "name": "VISIT-X",
     "groupName": "成人",
     "urls": [
-      "https://stream.visit-x.tv/vxtv/live/playlist.m3u8"
+      "https://stream.visit-x.tv/vxtv/live/playlist.m3u8",
+      "https://proxy.flashcs6.eu.org/web/https/stream.visit-x.tv/vxtv/live/playlist.m3u8"
     ]
   },
   {
@@ -3198,6 +3199,14 @@
   },
   {
     "name": "测试频道03",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=colawaytv&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=720p60&volume=1",
+      "https://www.twitch.tv/lopez_ttv"
+    ]
+  },
+  {
+    "name": "测试频道04",
     "groupName": "其他",
     "urls": [
       "https://www.youtube.com/watch?v=TCnaIE_SAtM",
