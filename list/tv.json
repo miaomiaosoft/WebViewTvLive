@@ -3371,11 +3371,19 @@
     "groupName": "其他",
     "urls": [
       "https://player.twitch.tv/?channel=colawaytv&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=720p60&volume=1",
-      "http://[2001:250:5800:1005::155]:80/liverespath/ca3f021632b48e6960797776657926074723d276/index.m3u8"
+      "https://www.twitch.tv/lopez_ttv"
     ]
   },
   {
     "name": "测试频道04",
+    "groupName": "其他",
+    "urls": [
+      "http://[2001:250:5800:1005::155]:80/liverespath/ca3f021632b48e6960797776657926074723d276/index.m3u8",
+      "http://tool.liumingye.cn/m3u8/#http://[2001:250:5800:1005::155]/liverespath/ca3f021632b48e6960797776657926074723d276/index.m3u8"
+    ]
+  },
+  {
+    "name": "测试频道05",
     "groupName": "其他",
     "urls": [
       "https://www.youtube.com/watch?v=TCnaIE_SAtM",
