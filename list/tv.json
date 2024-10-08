@@ -3113,6 +3113,168 @@
       "http://epg.112114.xyz/douyu/252802"
     ]
   },
+  
+  
+  {
+    "name": "Twitch.TV LeekBeats - 24/7 chill lofi beats",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=leekbeats&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  {
+    "name": "Twitch.TV ChilledCat_Music - lofi beats to game",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=chilledcat_music&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  {
+    "name": "Twitch.TV ASOT - A State of Trance 24/7",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=asot&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  {
+    "name": "Twitch.TV RelaxBeats - Relax & Chill Beats",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=relaxbeats&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  {
+    "name": "Twitch.TV ChillhopRadio - jazzy & lofi hip hop beats",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=chillhopradio&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  {
+    "name": "Twitch.TV filiplackovicmusic - Shire 24/7",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=filiplackovicmusic&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  {
+    "name": "Twitch.TV KuboMusic - lofi beats 24/7",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=kubomusic&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  {
+    "name": "Twitch.TV kiquita - [24/7] Kiquita's Video Concert",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=kiquita&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  {
+    "name": "Twitch.TV Aurelia_Nature_Radio - 24/7 Nature Radio",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=aurelia_nature_radio&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  {
+    "name": "Twitch.TV LucasKingPiano - 24/7 Dark Piano",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=lucaskingpiano&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  {
+    "name": "Twitch.TV eMpTyVeeTV - 24/7 Dark Alternative Music",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=emptyveetv&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  {
+    "name": "Twitch.TV RelaxHouse - Nightshift Vibes 24/7",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=relaxhouse&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  {
+    "name": "Twitch.TV xmusicislovex - 24/7 Nonstop Music",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=xmusicislovex&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  {
+    "name": "Twitch.TV inosisfe - 24/7 uninterrupted instrumental music",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=inosisfe&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  {
+    "name": "Twitch.TV Hivemind_Radio - 24/7 Industrial",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=hivemind_radio&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  {
+    "name": "Twitch.TV eddierrogers - Lofi Rádio 24/7",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=eddierrogers&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  {
+    "name": "Twitch.TV MadReStream - 24/7 Non Stop R&b",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=madrestream&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  {
+    "name": "Twitch.TV hyovury - Chill out music to relax",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=hyovury&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  
+  
+  
+  {
+    "name": "Twitch.TV ColawayTV - 24/7 VOD STREAM",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=colawaytv&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  {
+    "name": "Twitch.TV LOPEZ_TTV - 24/7 VOD REPLAY",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=lopez_ttv&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  {
+    "name": "Twitch.TV High_Sound_Station - Weekly Program",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=high_sound_station&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  {
+    "name": "Twitch.TV RadioPSF - [Ger] Radio P.S.F",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=radiopsf&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
+  
+  
+  
   {
     "name": "熊猫 成都",
     "groupName": "其他",
