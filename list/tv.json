@@ -2367,56 +2367,56 @@
     ]
   },
   {
-    "name": "USA TODAY",
+    "name": "plex.tv USA TODAY",
     "groupName": "海外",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/usa-today-news"
     ]
   },
   {
-    "name": "RCM Film",
+    "name": "plex.tv RCM Film",
     "groupName": "海外",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/rcm"
     ]
   },
   {
-    "name": "Wu Tang Collection",
+    "name": "plex.tv Wu Tang Collection",
     "groupName": "海外",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/wu-tang-collection"
     ]
   },
   {
-    "name": "Discover Film",
+    "name": "plex.tv Discover Film",
     "groupName": "海外",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/discover-film"
     ]
   },
   {
-    "name": "Law & Crime",
+    "name": "plex.tv Law & Crime",
     "groupName": "海外",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/law-and-crime"
     ]
   },
   {
-    "name": "Grjngo Western Movies",
+    "name": "plex.tv Grjngo Western Movies",
     "groupName": "海外",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/grjngo-western-movies"
     ]
   },
   {
-    "name": "Action Hollywood Movies",
+    "name": "plex.tv Action Hollywood Movies",
     "groupName": "海外",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/action-hollywood-movies"
     ]
   },
   {
-    "name": "Always Funny",
+    "name": "plex.tv Always Funny",
     "groupName": "海外",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/always-funny",
@@ -2424,7 +2424,7 @@
     ]
   },
   {
-    "name": "Just For Laughs Gags",
+    "name": "plex.tv Just For Laughs Gags",
     "groupName": "海外",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/just-for-laughs-gags",
@@ -2433,7 +2433,7 @@
     ]
   },
   {
-    "name": "The Pet Collective",
+    "name": "plex.tv The Pet Collective",
     "groupName": "海外",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/the-pet-collective-2",
@@ -2441,7 +2441,7 @@
     ]
   },
   {
-    "name": "FailArmy",
+    "name": "plex.tv FailArmy",
     "groupName": "海外",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/failarmy-2",
@@ -2449,42 +2449,42 @@
     ]
   },
   {
-    "name": "Toon Goggles",
+    "name": "plex.tv Toon Goggles",
     "groupName": "海外",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/toon-goggles"
     ]
   },
   {
-    "name": "WITZ-Comedy TV",
+    "name": "plex.tv WITZ-Comedy TV",
     "groupName": "海外",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/witz-comedy-tv"
     ]
   },
   {
-    "name": "Kidz Bop TV",
+    "name": "plex.tv Kidz Bop TV",
     "groupName": "海外",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/kidz-bop-tv"
     ]
   },
   {
-    "name": "5-Minute Crafts",
+    "name": "plex.tv 5-Minute Crafts",
     "groupName": "海外",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/5-minute-crafts"
     ]
   },
   {
-    "name": "People are Awesome",
+    "name": "plex.tv People are Awesome",
     "groupName": "海外",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/people-are-awesome-2"
     ]
   },
   {
-    "name": "Wild Earth",
+    "name": "plex.tv Wild Earth",
     "groupName": "海外",
     "urls": [
       "https://wildearth-plex.amagi.tv/masterR1080p.m3u8",
@@ -2730,17 +2730,17 @@
     ]
   },
   {
+    "name": "Playboy",
+    "groupName": "成人",
+    "urls": [
+      "http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8"
+    ]
+  },
+  {
     "name": "Babestation24",
     "groupName": "成人",
     "urls": [
       "https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8"
-    ]
-  },
-  {
-    "name": "Playboy HD",
-    "groupName": "成人",
-    "urls": [
-      "http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8"
     ]
   },
   {
@@ -3126,7 +3126,7 @@
     "groupName": "其他",
     "urls": [
       "https://www.youtube.com/watch?v=TCnaIE_SAtM",
-      "https://www.youtube.com/watch?v\u003dTCnaIE_SAtM"
+      "https://proxy.flashcs6.eu.org/web/https/lte.wiseplayout.com/wisem3u8_9/2/2.m3u8"
     ]
   }
 ]
