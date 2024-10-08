@@ -3686,56 +3686,56 @@
   
   {
     "name": "plex.tv USA TODAY",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/usa-today-news"
     ]
   },
   {
     "name": "plex.tv RCM Film",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/rcm"
     ]
   },
   {
     "name": "plex.tv Wu Tang Collection",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/wu-tang-collection"
     ]
   },
   {
     "name": "plex.tv Discover Film",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/discover-film"
     ]
   },
   {
     "name": "plex.tv Law & Crime",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/law-and-crime"
     ]
   },
   {
     "name": "plex.tv Grjngo Western Movies",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/grjngo-western-movies"
     ]
   },
   {
     "name": "plex.tv Action Hollywood Movies",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/action-hollywood-movies"
     ]
   },
   {
     "name": "plex.tv Always Funny",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/always-funny",
       "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m3u8"
@@ -3743,7 +3743,7 @@
   },
   {
     "name": "plex.tv Just For Laughs Gags",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/just-for-laughs-gags",
       "https://lte.wiseplayout.com/wisem3u8_9/2/2.m3u8",
@@ -3752,7 +3752,7 @@
   },
   {
     "name": "plex.tv The Pet Collective",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/the-pet-collective-2",
       "https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8"
@@ -3760,7 +3760,7 @@
   },
   {
     "name": "plex.tv FailArmy",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/failarmy-2",
       "https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8"
@@ -3768,42 +3768,42 @@
   },
   {
     "name": "plex.tv Toon Goggles",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/toon-goggles"
     ]
   },
   {
     "name": "plex.tv WITZ-Comedy TV",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/witz-comedy-tv"
     ]
   },
   {
     "name": "plex.tv Kidz Bop TV",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/kidz-bop-tv"
     ]
   },
   {
     "name": "plex.tv 5-Minute Crafts",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/5-minute-crafts"
     ]
   },
   {
     "name": "plex.tv People are Awesome",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://watch.plex.tv/live-tv/channel/people-are-awesome-2"
     ]
   },
   {
     "name": "plex.tv Wild Earth",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://wildearth-plex.amagi.tv/masterR1080p.m3u8",
       "https://watch.plex.tv/live-tv/channel/wildearth"
@@ -3811,21 +3811,21 @@
   },
   {
     "name": "Rakuten Family Movies",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8"
     ]
   },
   {
     "name": "Rakuten Viki",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8"
     ]
   },
   {
     "name": "Rakuten TV Shows",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8",
       "https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8"
@@ -3833,7 +3833,7 @@
   },
   {
     "name": "Rakuten Comedy",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8",
       "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8"
@@ -3841,21 +3841,21 @@
   },
   {
     "name": "Rakuten Action",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8"
     ]
   },
   {
     "name": "Rakuten Thriller",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8"
     ]
   },
   {
     "name": "Rakuten British Films",
-    "groupName": "海外",
+    "groupName": "其他",
     "urls": [
       "https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8"
     ]
