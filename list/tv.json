@@ -1321,56 +1321,64 @@
     "groupName": "江西",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002503",
-      "https://www.jxntv.cn/live/#/"
+      "https://www.jxntv.cn/live/#/",
+      "http://58.144.154.93/yun-live.jxtvcn.com.cn/live/tv_jxtv1.m3u8?token=1"
     ]
   },
   {
     "name": "江西都市",
     "groupName": "江西",
     "urls": [
-      "https://www.jxntv.cn/live/#/jxtv2"
+      "https://www.jxntv.cn/live/#/jxtv2",
+      "http://58.144.154.93/yun-live.jxtvcn.com.cn/live/tv_jxtv2.m3u8?token=1"
     ]
   },
   {
     "name": "江西经济生活",
     "groupName": "江西",
     "urls": [
-      "https://www.jxntv.cn/live/#/jxtv3"
+      "https://www.jxntv.cn/live/#/jxtv3",
+      "http://58.144.154.93/yun-live.jxtvcn.com.cn/live/tv_jxtv3_hd.m3u8?token=1"
     ]
   },
   {
     "name": "江西影视旅游",
     "groupName": "江西",
     "urls": [
-      "https://www.jxntv.cn/live/#/jxtv4"
+      "https://www.jxntv.cn/live/#/jxtv4",
+      "http://58.144.154.93/yun-live.jxtvcn.com.cn/live/tv_jxtv4.m3u8?token=1"
     ]
   },
   {
     "name": "江西公共农业",
     "groupName": "江西",
     "urls": [
-      "https://www.jxntv.cn/live/#/jxtv5"
+      "https://www.jxntv.cn/live/#/jxtv5",
+      "http://58.144.154.93/yun-live.jxtvcn.com.cn/live/tv_jxtv5.m3u8?token=1"
     ]
   },
   {
     "name": "江西少儿",
     "groupName": "江西",
     "urls": [
-      "https://www.jxntv.cn/live/#/jxtv6"
+      "https://www.jxntv.cn/live/#/jxtv6",
+      "http://58.144.154.93/yun-live.jxtvcn.com.cn/live/tv_jxtv6.m3u8?token=1"
     ]
   },
   {
     "name": "江西新闻",
     "groupName": "江西",
     "urls": [
-      "https://www.jxntv.cn/live/#/jxtv7"
+      "https://www.jxntv.cn/live/#/jxtv7",
+      "http://58.144.154.93/yun-live.jxtvcn.com.cn/live/tv_jxtv7.m3u8?token=1"
     ]
   },
   {
     "name": "江西移动",
     "groupName": "江西",
     "urls": [
-      "https://www.jxntv.cn/live/#/jxtv8"
+      "https://www.jxntv.cn/live/#/jxtv8",
+      "http://58.144.154.93/yun-live.jxtvcn.com.cn/live/tv_jxtv8.m3u8?token=1"
     ]
   },
   {
@@ -1392,6 +1400,7 @@
     "groupName": "江西",
     "urls": [
       "https://www.nctv.net.cn/live",
+      "http://p.123tv.cn/p/jxnc.php?id=ncxw",
       "http://xbtv.net/tv/jx/ncxw.html"
     ]
   },
@@ -1399,14 +1408,28 @@
     "name": "南昌都市",
     "groupName": "江西",
     "urls": [
-      "http://xbtv.net/tv/jx/ncds.html"
+      "http://p.123tv.cn/p/jxnc.php?id=ncds"
     ]
   },
   {
     "name": "南昌资讯",
     "groupName": "江西",
     "urls": [
-      "http://xbtv.net/tv/jx/nczx.html"
+      "http://p.123tv.cn/p/jxnc.php?id=nczx"
+    ]
+  },
+  {
+    "name": "吉安综合",
+    "groupName": "江西",
+    "urls": [
+      "http://www.ijatv.com/live/jatv1/"
+    ]
+  },
+  {
+    "name": "吉安公共",
+    "groupName": "江西",
+    "urls": [
+      "http://www.ijatv.com/live/jatv2/"
     ]
   },
   {
