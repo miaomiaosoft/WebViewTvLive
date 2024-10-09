@@ -5,7 +5,8 @@
     "urls": [
       "https://tv.cctv.com/live/cctv1/",
       "https://www.yangshipin.cn/tv/home?pid\u003d600001859",
-      "https://media.hndyjyfw.gov.cn/live/jz-cctv-1/live.m3u8"
+      "https://media.hndyjyfw.gov.cn/live/jz-cctv-1/live.m3u8",
+      "https://www.xttv.com.cn/index/channel/index/id/155.html"
     ]
   },
   {
@@ -628,20 +629,19 @@
     ]
   },
   {
-    "name": "凤凰卫视",
+    "name": "三沙卫视",
     "groupName": "卫视",
     "urls": [
-      "https://www.youtube.com/embed/HFib76ySpbU?autoplay=1",
-      "https://www.tiantianzhibo.net/player/index?id=2ebdwLm9MTTaexTxDZ4tKMDJ6BPIdNzWd_Llh8kstmEg934ubQ",
-      "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw",
-      "https://tv2.wfuapp.com/2019/08/phoenix-media.html"
+      "http://tv.hnntv.cn/live/sslive/",
+      "http://timetv.xyz/weishi/sansha.html"
     ]
   },
   {
     "name": "香港卫视",
     "groupName": "卫视",
     "urls": [
-      "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"
+      "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8",
+      "http://www.hkstv.tv/index/live.html"
     ]
   },
   {
@@ -652,6 +652,16 @@
       "http://61.244.22.5/ch3/ch3.live/index.m3u8",
       "http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8",
       "http://nz171l122.bb60246.ctm.net:8891/bysid/96.m3u8"
+    ]
+  },
+  {
+    "name": "凤凰卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://www.youtube.com/embed/HFib76ySpbU?autoplay=1",
+      "https://www.tiantianzhibo.net/player/index?id=2ebdwLm9MTTaexTxDZ4tKMDJ6BPIdNzWd_Llh8kstmEg934ubQ",
+      "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw",
+      "https://tv2.wfuapp.com/2019/08/phoenix-media.html"
     ]
   },
   {
@@ -1884,6 +1894,22 @@
       "https://tv2.wfuapp.com/2019/12/yoyo-tv-live.html"
     ]
   },
+  {
+    "name": "东森 购物1",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.ofiii.com/channel/watch/4gtv-4gtv102"
+    ]
+  },
+  {
+    "name": "东森 购物2",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.ofiii.com/channel/watch/4gtv-4gtv103"
+    ]
+  },
+  
+  
 
 
 
@@ -1987,6 +2013,7 @@
     "groupName": "台湾",
     "urls": [
       "https://www.4gtv.tv/channel/4gtv-4gtv040?set\u003d4\u0026ch\u003d4",
+      "https://www.ofiii.com/channel/watch/4gtv-4gtv040",
       "https://enx.gdplayertv.to/live-tv/ctv/?embed=1"
     ]
   },
@@ -1995,7 +2022,7 @@
     "groupName": "台湾",
     "urls": [
       "https://www.youtube.com/embed/TCnaIE_SAtM?autoplay=1",
-      "https://www.ofiii.com/channel/watch/4gtv-4gtv040",
+      "https://www.ofiii.com/channel/watch/4gtv-4gtv074",
       "https://tv2.wfuapp.com/2019/12/ctv-news-live.html"
     ]
   },  
@@ -2098,7 +2125,7 @@
     "groupName": "台湾",
     "urls": [
       "https://www.youtube.com/embed/wM0g8EoUZ_E?autoplay=1",
-      "https://www.ofiii.com/channel/watch/4gtv-4gtv041"
+      "https://www.ofiii.com/channel/watch/4gtv-4gtv052"
     ]
   },
 
@@ -2237,6 +2264,20 @@
       "https://www.ofiii.com/channel/watch/litv-longturn12"
     ]
   },
+  {
+    "name": "龙华 日韩",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.ofiii.com/channel/watch/litv-longturn11"
+    ]
+  },
+  {
+    "name": "龙华 卡通",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.ofiii.com/channel/watch/litv-longturn01"
+    ]
+  },
 
 
 
@@ -2347,6 +2388,13 @@
     "urls": [
       "https://www.4gtv.tv/channel/4gtv-4gtv006?set=4&ch=113",
       "https://www.tiantianzhibo.net/player/index?id=f5b7VoS3bzOSbPRqI4NREDkwyeRvhfD_sOeBdfBv7SdsVPu6BA"
+    ]
+  },
+  {
+    "name": "台湾戏剧",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.ofiii.com/channel/watch/litv-longturn22"
     ]
   },
   {
@@ -2599,7 +2647,8 @@
     "name": "Asia Travel Channel",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/asia-travel-channel/?embed=1"
+      "https://enx.gdplayertv.to/live-tv/asia-travel-channel/?embed=1",
+      "https://www.ofiii.com/channel/watch/litv-longturn17"
     ]
   },
   {
@@ -2615,6 +2664,13 @@
     "urls": [
       "https://enx.gdplayertv.to/live-tv/axn-tw/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=9121N-rEuuIcI4zreVa-uj2EmzFkOK5nuZNK3ZJ-Mxd2U16GULM"
+    ]
+  },
+  {
+    "name": "SMART",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.ofiii.com/channel/watch/litv-longturn19"
     ]
   },
   {
@@ -2648,7 +2704,7 @@
     "groupName": "港澳",
     "urls": [
       "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8",
-      "http://zhibo.hkstv.tv/livestream/mutfysrq.flv"
+      "http://www.hkstv.tv/index/live.html"
     ]
   },
   {
