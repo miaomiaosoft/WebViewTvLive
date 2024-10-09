@@ -945,10 +945,101 @@
     ]
   },
   {
+    "name": "深圳移动",
+    "groupName": "广东",
+    "urls": [
+      "https://www.sztv.com.cn/pindao/index.html?id\u003d7869"
+    ]
+  },
+  {
     "name": "深圳少儿",
     "groupName": "广东",
     "urls": [
       "https://www.sztv.com.cn/pindao/index.html?id\u003d7881"
+    ]
+  },
+  {
+    "name": "深圳宜和购物",
+    "groupName": "广东",
+    "urls": [
+      "https://www.sztv.com.cn/pindao/index.html?id\u003d7878"
+    ]
+  },
+  {
+    "name": "东莞新闻综合",
+    "groupName": "广东",
+    "urls": [
+      "https://dgrtv.sun0769.com/index.php/online2/4"
+    ]
+  },
+  {
+    "name": "东莞生活资讯",
+    "groupName": "广东",
+    "urls": [
+      "https://dgrtv.sun0769.com/index.php/online2/5"
+    ]
+  },
+  {
+    "name": "河源综合",
+    "groupName": "广东",
+    "urls": [
+      "https://www.hyrtv.cn/itv/zhds/"
+    ]
+  },
+  {
+    "name": "河源公共",
+    "groupName": "广东",
+    "urls": [
+      "https://www.hyrtv.cn/itv/ggds/"
+    ]
+  },
+  {
+    "name": "梅州综合",
+    "groupName": "广东",
+    "urls": [
+      "http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8"
+    ]
+  },
+  {
+    "name": "梅州公共",
+    "groupName": "广东",
+    "urls": [
+      "http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8"
+    ]
+  },
+  {
+    "name": "江门综合",
+    "groupName": "广东",
+    "urls": [
+      "http://www.jmtv.cn/live/jm_live_h5.shtml?pid=2"
+    ]
+  },
+  {
+    "name": "江门侨乡",
+    "groupName": "广东",
+    "urls": [
+      "http://www.jmtv.cn/live/jm_live_h5.shtml?pid=3"
+    ]
+  },
+  {
+    "name": "湛江新闻综合",
+    "groupName": "广东",
+    "urls": [
+      "https://www.zjwtv.com/fccommon/Home/detail?site_id=75&detail_type=7&cid=13"
+    ]
+  },
+  {
+    "name": "湛江公共频道",
+    "groupName": "广东",
+    "urls": [
+      "https://www.zjwtv.com/fccommon/Home/detail?site_id=75&detail_type=7&cid=14"
+    ]
+  },
+  {
+    "name": "广州综合",
+    "groupName": "广东",
+    "urls": [
+      "https://www.gztv.com/#/channel"
     ]
   },
 
@@ -1020,7 +1111,7 @@
     ]
   },
   {
-    "name": "柳州科技频道",
+    "name": "柳州科教频道",
     "groupName": "广西",
     "urls": [
       "https://live.lzgd.com.cn/tv/1808?uin=3370"
@@ -1068,7 +1159,14 @@
       "https://live.gxrb.com.cn/tv/bstv_zh/index.m3u8",
       "https://app.baisenews.net/mag/livevideo/v1/video/wapVideoView?id=1231"
     ]
-  },  
+  },
+  {
+    "name": "北海新闻综合",
+    "groupName": "广西",
+    "urls": [
+      "https://www.tiantianzhibo.net/player/index?id=b5a59CADub1NMjW1Pphk2F7jFY7QUmvDm-IuFmsaleH5LDU13g"
+    ]
+  },
 
   
 
@@ -1077,7 +1175,72 @@
     "name": "东南卫视",
     "groupName": "福建",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid=600002484"
+      "https://www.yangshipin.cn/tv/home?pid=600002484",
+      "https://live.fjtv.net/setv/"
+    ]
+  },
+  {
+    "name": "海峡卫视",
+    "groupName": "福建",
+    "urls": [
+      "https://live.fjtv.net/hxtv/"
+    ]
+  },
+  {
+    "name": "福建综合",
+    "groupName": "福建",
+    "urls": [
+      "https://live.fjtv.net/zhpd/"
+    ]
+  },
+  {
+    "name": "福建公共",
+    "groupName": "福建",
+    "urls": [
+      "https://live.fjtv.net/ggpd/"
+    ]
+  },
+  {
+    "name": "福建新闻",
+    "groupName": "福建",
+    "urls": [
+      "https://live.fjtv.net/xwpd/"
+    ]
+  },
+  {
+    "name": "福建电视剧",
+    "groupName": "福建",
+    "urls": [
+      "https://live.fjtv.net/dsjpd/"
+    ]
+  },
+  {
+    "name": "福建旅游",
+    "groupName": "福建",
+    "urls": [
+      "https://live.fjtv.net/dspd/"
+    ]
+  },
+  {
+    "name": "福建经济",
+    "groupName": "福建",
+    "urls": [
+      "https://live.fjtv.net/jspd/"
+    ]
+  },
+  {
+    "name": "福建文体",
+    "groupName": "福建",
+    "urls": [
+      "https://live.fjtv.net/typd/",
+      "https://www.tiantianzhibo.net/player/index?id=20b8AXA7n3v0eNO-aJekiuoIfh-zq4PkBKBo9vlIZJ8sNt4"
+    ]
+  },
+  {
+    "name": "福建少儿",
+    "groupName": "福建",
+    "urls": [
+      "https://live.fjtv.net/sepd/"
     ]
   },
   {
@@ -1127,6 +1290,125 @@
 
 
 
+  {
+    "name": "江西卫视",
+    "groupName": "江西",
+    "urls": [
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002503",
+      "https://www.jxntv.cn/live/#/"
+    ]
+  },
+  {
+    "name": "江西都市",
+    "groupName": "江西",
+    "urls": [
+      "https://www.jxntv.cn/live/#/jxtv2"
+    ]
+  },
+  {
+    "name": "江西经济生活",
+    "groupName": "江西",
+    "urls": [
+      "https://www.jxntv.cn/live/#/jxtv3"
+    ]
+  },
+  {
+    "name": "江西影视旅游",
+    "groupName": "江西",
+    "urls": [
+      "https://www.jxntv.cn/live/#/jxtv4"
+    ]
+  },
+  {
+    "name": "江西公共农业",
+    "groupName": "江西",
+    "urls": [
+      "https://www.jxntv.cn/live/#/jxtv5"
+    ]
+  },
+  {
+    "name": "江西少儿",
+    "groupName": "江西",
+    "urls": [
+      "https://www.jxntv.cn/live/#/jxtv6"
+    ]
+  },
+  {
+    "name": "江西新闻",
+    "groupName": "江西",
+    "urls": [
+      "https://www.jxntv.cn/live/#/jxtv7"
+    ]
+  },
+  {
+    "name": "江西移动",
+    "groupName": "江西",
+    "urls": [
+      "https://www.jxntv.cn/live/#/jxtv8"
+    ]
+  },
+  {
+    "name": "江西陶瓷",
+    "groupName": "江西",
+    "urls": [
+      "https://www.jxntv.cn/live/#/tcpd"
+    ]
+  },
+  {
+    "name": "风尚购物",
+    "groupName": "江西",
+    "urls": [
+      "https://www.jxntv.cn/live/#/fsgw"
+    ]
+  },
+  {
+    "name": "南昌新闻综合",
+    "groupName": "江西",
+    "urls": [
+      "https://www.nctv.net.cn/live",
+      "http://xbtv.net/tv/jx/ncxw.html"
+    ]
+  },
+  {
+    "name": "南昌都市",
+    "groupName": "江西",
+    "urls": [
+      "http://xbtv.net/tv/jx/ncds.html"
+    ]
+  },
+  {
+    "name": "南昌资讯",
+    "groupName": "江西",
+    "urls": [
+      "http://xbtv.net/tv/jx/nczx.html"
+    ]
+  },
+  {
+    "name": "九江新闻综合",
+    "groupName": "江西",
+    "urls": [
+      "https://www.jjntv.cn/live?id=jjtv1"
+    ]
+  },
+  {
+    "name": "九江公共",
+    "groupName": "江西",
+    "urls": [
+      "https://www.jjntv.cn/live?id=jjtv2"
+    ]
+  },
+  {
+    "name": "九江教育",
+    "groupName": "江西",
+    "urls": [
+      "https://www.jjntv.cn/live?id=jjfz"
+    ]
+  },
+  
+  
+  
+  
+  
   {
     "name": "浙江卫视",
     "groupName": "浙江",
@@ -1219,6 +1501,90 @@
       "http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
     ]
   },
+  {
+    "name": "杭州综合",
+    "groupName": "浙江",
+    "urls": [
+      "https://tv.hoolo.tv/hzzh/"
+    ]
+  },
+  {
+    "name": "杭州生活",
+    "groupName": "浙江",
+    "urls": [
+      "https://tv.hoolo.tv/hzsh/"
+    ]
+  },
+  {
+    "name": "杭州影视",
+    "groupName": "浙江",
+    "urls": [
+      "https://tv.hoolo.tv/utv/"
+    ]
+  },
+  {
+    "name": "杭州青少",
+    "groupName": "浙江",
+    "urls": [
+      "https://tv.hoolo.tv/hzse/"
+    ]
+  },
+  {
+    "name": "杭州明珠",
+    "groupName": "浙江",
+    "urls": [
+      "https://tv.hoolo.tv/xhmz/"
+    ]
+  },
+  {
+    "name": "杭州导视",
+    "groupName": "浙江",
+    "urls": [
+      "https://tv.hoolo.tv/whpd/"
+    ]
+  },
+  {
+    "name": "宁波电视-1",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV1/index.shtml"
+    ]
+  },
+   {
+    "name": "宁波电视-2",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV2/index.shtml"
+    ]
+  },
+  {
+    "name": "宁波电视-3",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml"
+    ]
+  },
+  {
+    "name": "宁波电视-4",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml"
+    ]
+  },
+  {
+    "name": "舟山新闻综合",
+    "groupName": "浙江",
+    "urls": [
+      "http://www.qukanvideo.com/cloud/h5/1699001836208185"
+    ]
+  },
+  {
+    "name": "舟山公共频道",
+    "groupName": "浙江",
+    "urls": [
+      "http://www.qukanvideo.com/cloud/h5/1699002430299200"
+    ]
+  },
 
 
 
@@ -1233,21 +1599,21 @@
     ]
   },
   {
-    "name": "新闻综合",
+    "name": "上海新闻综合",
     "groupName": "上海",
     "urls": [
       "https://live.kankanews.com/huikan?id=2"
     ]
   },
   {
-    "name": "外语频道",
+    "name": "上海外语频道",
     "groupName": "上海",
     "urls": [
       "https://live.kankanews.com/huikan?id=3"
     ]
   },
   {
-    "name": "都市频道",
+    "name": "上海都市频道",
     "groupName": "上海",
     "urls": [
       "https://live.kankanews.com/huikan?id=4"
@@ -1350,6 +1716,7 @@
     "groupName": "台湾",
     "urls": [
       "https://enx.gdplayertv.to/live-tv/ebc-news-tv/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=d7c9cqojVv8HhOKJ21KwZvsYwApfnEiecpCVhysKZsYsWnGGTw",
       "https://news.ebc.net.tw/video"
     ]
   },
@@ -1357,7 +1724,8 @@
     "name": "东森 综合",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/ebc-variety-tv/?embed=1"
+      "https://enx.gdplayertv.to/live-tv/ebc-variety-tv/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=f352Z9Iib4gt-4o-2JdjxD-Lcal2DNVSdFv8_KgVIpNEjBnMBA"
     ]
   },
   {
@@ -1365,28 +1733,32 @@
     "groupName": "台湾",
     "urls": [
       "https://www.youtube.com/embed/AEBeWMM1atA?autoplay=1",
-      "https://fnc.ebc.net.tw/"
+      "https://fnc.ebc.net.tw/",
+      "https://www.tiantianzhibo.net/player/index?id=5440lDG41CDeziB7SsRoChqYyIiSs14oznWXOe6Pw3W09l32yA"
     ]
   },
   {
     "name": "东森 戏剧",
     "groupName": "台湾",
     "urls": [
-      "https://idx.gdplayertv.to/live-tv/ebc-drama-tv/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/ebc-drama-tv/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=0ba9U596e_liclHp-sRJyA497-B-o2Ff0ws_6SUz1Yv4ZDBsiQ"
     ]
   },
   {
     "name": "东森 洋片",
     "groupName": "台湾",
     "urls": [
-      "https://idx.gdplayertv.to/live-tv/ebc-foreign-movies-tv/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/ebc-foreign-movies-tv/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=b731J0NuKSooz1MrvfF8lT9CFViu_ykbNOdGI7OkFYK7BbBy3A"
     ]
   },
   {
     "name": "东森 电影",
     "groupName": "台湾",
     "urls": [
-      "https://idx.gdplayertv.to/live-tv/ebc-movies-tv/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/ebc-movies-tv/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=faffRjOxK2m5W8AzdGxiWAst6NK0Bly9HTgNJP0Ni7KyWlF7tg"
     ]
   },
   {
@@ -1401,6 +1773,7 @@
     "name": "东森 幼幼",
     "groupName": "台湾",
     "urls": [
+      "https://www.tiantianzhibo.net/player/index?id=8d89ITGSf0YWWa2GH1gY2jel3z4ciyTwW2dZKbQq43ZUD73YCg",
       "https://tv2.wfuapp.com/2019/12/yoyo-tv-live.html"
     ]
   },
@@ -1427,14 +1800,16 @@
     "name": "中天 亚洲",
     "groupName": "台湾",
     "urls": [
-      "https://idx.gdplayertv.to/live-tv/cti-asia-tv/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/cti-asia-tv/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=d544E5VceRuK-8IR-R3AThSRc7hQRyb6EkxkfTtKkWHO3pcf_Q"
     ]
   },
   {
     "name": "中天 综合",
     "groupName": "台湾",
     "urls": [
-      "https://idx.gdplayertv.to/live-tv/cti-metro-tv/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/cti-metro-tv/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=1d4dDxVwM-ybViPtw4jUMg0xHgWbejF24g6j-b_Sab9m2a9Jlg"
     ]
   },
   {
@@ -1442,6 +1817,7 @@
     "groupName": "台湾",
     "urls": [
       "https://enx.gdplayertv.to/live-tv/cti-entertainment-tv?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=c0b48SyLZO0ITIxnAjZwlNytpWAvza6SJb8tSMHexU3GloSNYQ",
       "http://61.221.215.25:8800/hls/47/index.m3u8"
     ]
   },
@@ -1469,7 +1845,8 @@
     "name": "三立 都会",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/set-metro-tv?embed=1"
+      "https://enx.gdplayertv.to/live-tv/set-metro-tv?embed=1",
+      "https://www.ofiii.com/channel/watch/iNEWS"
     ]
   },
   {
@@ -1477,14 +1854,15 @@
     "groupName": "台湾",
     "urls": [
       "https://enx.gdplayertv.to/live-tv/set-taiwan-tv?embed=1",
-      "https://epg.pw/stream/bfb4f28ad7b1bc3e20703b9f35b51104a59eca154ec67643bf9d30a8af4b607a.m3u8"
+      "https://www.tiantianzhibo.net/player/index?id=beaboI08jrb2BhfEzJNSdYSb0Uzapj5FsNDSchHjiakNerKoYA"
     ]
   },
   {
     "name": "三立 戏剧",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/set-theatre-tv?embed=1"
+      "https://enx.gdplayertv.to/live-tv/set-theatre-tv?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=f02dX2iCKmiUdWXnkdIP_kip1bimjQhDBTO7ovlvquhal5oEHQ"
     ]
   },
   {
@@ -1510,6 +1888,7 @@
     "groupName": "台湾",
     "urls": [
       "https://www.youtube.com/embed/TCnaIE_SAtM?autoplay=1",
+      "https://www.ofiii.com/channel/watch/4gtv-4gtv040",
       "https://tv2.wfuapp.com/2019/12/ctv-news-live.html"
     ]
   },  
@@ -1528,7 +1907,8 @@
     "groupName": "台湾",
     "urls": [
       "https://www.youtube.com/embed/6IquAgfvYmc?autoplay=1",
-      "https://tv2.wfuapp.com/2021/01/global-news-live.html"
+      "https://tv2.wfuapp.com/2021/01/global-news-live.html",
+      "https://www.ofiii.com/channel/watch/litv-longturn14"
     ]
   },
   {
@@ -1536,7 +1916,8 @@
     "groupName": "台湾",
     "urls": [
       "https://www.youtube.com/embed/w87VGpgd90U?autoplay=1",
-      "https://tv2.wfuapp.com/2023/05/global-news-taiwan-live.html"
+      "https://tv2.wfuapp.com/2023/05/global-news-taiwan-live.html",
+      "https://www.ofiii.com/channel/watch/litv-longturn15"
     ]
   },
   {
@@ -1544,7 +1925,8 @@
     "groupName": "台湾",
     "urls": [
       "https://www.youtube.com/embed/WTRQiVWK1jY?autoplay=1",
-      "https://tv2.wfuapp.com/2023/10/global-news-finance.html"
+      "https://tv2.wfuapp.com/2023/10/global-news-finance.html",
+      "https://www.ofiii.com/channel/watch/litv-longturn23"
     ]
   },
 
@@ -1554,7 +1936,8 @@
     "name": "公视",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/public-tv-tw/?embed=1"
+      "https://enx.gdplayertv.to/live-tv/public-tv-tw/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=c595CFh_U2iJFZvoQT-6PYydQGd6ig9tmOOQwodkpM6XOiwrDA"
     ]
   },
   {
@@ -1579,7 +1962,8 @@
     "name": "台视",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/taiwan-tv/?embed=1"
+      "https://enx.gdplayertv.to/live-tv/taiwan-tv/?embed=1",
+      "https://www.ofiii.com/channel/watch/4gtv-4gtv066"
     ]
   },
   {
@@ -1587,6 +1971,7 @@
     "groupName": "台湾",
     "urls": [
       "https://www.youtube.com/embed/xL0ch83RAK8?autoplay=1",
+      "https://www.ofiii.com/channel/watch/4gtv-4gtv051",
       "https://tv2.wfuapp.com/2019/11/ttv-news.html"
     ]
   },
@@ -1605,7 +1990,8 @@
     "name": "华视 新闻",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/wM0g8EoUZ_E?autoplay=1"
+      "https://www.youtube.com/embed/wM0g8EoUZ_E?autoplay=1",
+      "https://www.ofiii.com/channel/watch/4gtv-4gtv041"
     ]
   },
 
@@ -1615,21 +2001,24 @@
     "name": "GTV 综合",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/gtv-variety/?embed=1"
+      "https://enx.gdplayertv.to/live-tv/gtv-variety/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=bd5arjf54cM_PQ-eOE_G8UGvGpY3oSQAgpLtOxXeSwbgQ_ZMzg"
     ]
   },
   {
     "name": "GTV 第一",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/gtv-one/?embed=1"
+      "https://enx.gdplayertv.to/live-tv/gtv-one/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=4904rq3sRq5JJaCiE4YxB2kHQ4S55Zg93mXeCTFgvIbSSDz2Mg"
     ]
   },
   {
     "name": "GTV 戏剧",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/gtv-drama/?embed=1"
+      "https://enx.gdplayertv.to/live-tv/gtv-drama/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=6743w7w3M8CiwLXGPskU7cKmiOkl9UkgRXjBaZY95wsh8i9LPA"
     ]
   },
   
@@ -1639,7 +2028,8 @@
     "name": "TVBS",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/tvbs/?embed=1"
+      "https://enx.gdplayertv.to/live-tv/tvbs/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=ab60w7_p7ftzmMkWv7OW9MiV6_5Tii9Ol48Pfji7jhqMu9i4EA"
     ]
   },
   {
@@ -1647,6 +2037,7 @@
     "groupName": "台湾",
     "urls": [
       "https://enx.gdplayertv.to/live-tv/tvbs-news/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=6023fEr-K5AqJnRMLI4Ryix9X_mCm_a0muZmXf6bQkSKbwwfDQ"
       "https://tv2.wfuapp.com/2019/12/tvbs-news-live.html"
     ]
   },
@@ -1654,7 +2045,8 @@
     "name": "TVBS 欢乐",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/tvbs-entertainment/?embed=1"
+      "https://enx.gdplayertv.to/live-tv/tvbs-entertainment/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=18bd-d811G4r-773r0Rk9jONsDApcTaYBvoBqDrylBvsEDzbBg"
     ]
   },
   {
@@ -1678,14 +2070,16 @@
     "name": "纬来 电影",
     "groupName": "台湾",
     "urls": [
-      "https://idx.gdplayertv.to/live-tv/videoland-movie/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/videoland-movie/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=bc91J3BatPJBsFPDHWUSCtjMbf_dBCUXtnyq25Q3zMlHWCagNg"
     ]
   },
   {
     "name": "纬来 日本",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/videoland-japan/?embed=1"
+      "https://enx.gdplayertv.to/live-tv/videoland-japan/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=dae8sWbkoObd6ktJGMPD1spsi3vMzZ-oHzHx323cEulKCiTb1Q"
     ]
   },
   {
@@ -1702,21 +2096,38 @@
     "name": "龙华 洋片",
     "groupName": "台湾",
     "urls": [
-      "https://idx.gdplayertv.to/live-tv/ltv-foreign-movies/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/ltv-foreign-movies/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=2180lWvRufc-GQVgS--Tp1MwNAM3i7mEatlwnULgdi-aMu3tTQ"
+    ]
+  },
+  {
+    "name": "龙华 电影",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.ofiii.com/channel/watch/litv-longturn03"
     ]
   },
   {
     "name": "龙华 戏剧",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/ltv-drama/?embed=1"
+      "https://enx.gdplayertv.to/live-tv/ltv-drama/?embed=1",
+      "https://www.ofiii.com/channel/watch/litv-longturn18"
+    ]
+  },
+  {
+    "name": "龙华 经典",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.ofiii.com/channel/watch/litv-longturn21"
     ]
   },
   {
     "name": "龙华 偶像",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/ltv-idol/?embed=1"
+      "https://enx.gdplayertv.to/live-tv/ltv-idol/?embed=1",
+      "https://www.ofiii.com/channel/watch/litv-longturn12"
     ]
   },
 
@@ -1743,14 +2154,16 @@
     "name": "年代 新闻",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/era-news/?embed=1"
+      "https://enx.gdplayertv.to/live-tv/era-news/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=0c771kC3czYydY-9dMP-8087HfO99F_8NiDCWRdINHu9FLGGSQ"
     ]
   },
   {
     "name": "非凡 新闻",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/unique-business-news/?embed=1"
+      "https://enx.gdplayertv.to/live-tv/unique-business-news/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=0fc62kOTORsyvwYCjktvSYuw260tWwoL3QViHQ_IDpE2r7pmOA"
     ]
   },  
   {
@@ -1770,10 +2183,18 @@
     ]
   },
   {
-    "name": "靖天 卡通",
+    "name": "靖天国际",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/golden-tv/?embed=1"
+      "https://www.tiantianzhibo.net/player/index?id=230bnrvp2uO0tc7vxnntPo4cqhOiEg3TpDB11tf9tumGCLUT-A"
+    ]
+  },
+  {
+    "name": "靖天卡通",
+    "groupName": "台湾",
+    "urls": [
+      "https://enx.gdplayertv.to/live-tv/golden-tv/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=e407byADA9aLRyQCOHeS__8Zk4-goUHk6Dr0fOLnkifdOO9qVg"
     ]
   },
   
@@ -1784,6 +2205,7 @@
     "groupName": "台湾",
     "urls": [
       "https://www.youtube.com/embed/MIqUplvSRWA?autoplay=1",
+      "https://www.tiantianzhibo.net/gangaotai/daai1tai.html",
       "https://www.4gtv.tv/channel/4gtv-live007?set\u003d4\u0026ch\u003d209"
     ]
   },
@@ -1800,6 +2222,7 @@
     "groupName": "台湾",
     "urls": [
       "https://www.4gtv.tv/channel/4gtv-4gtv079?set\u003d4\u0026ch\u003d189",
+      "https://www.tiantianzhibo.net/player/index?id=af6aPpVgHLk3M7uKw19O5V7hKbeTL5D6lDvT9qjtdtgQeif6Lg",
       "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
     ]
   },
@@ -1815,7 +2238,8 @@
     "name": "猪哥亮",
     "groupName": "台湾",
     "urls": [
-      "https://www.4gtv.tv/channel/4gtv-4gtv006?set=4&ch=113"
+      "https://www.4gtv.tv/channel/4gtv-4gtv006?set=4&ch=113",
+      "https://www.tiantianzhibo.net/player/index?id=f5b7VoS3bzOSbPRqI4NREDkwyeRvhfD_sOeBdfBv7SdsVPu6BA"
     ]
   },
   {
@@ -2007,17 +2431,40 @@
     ]
   },
   {
+    "name": "CatchPlay Movie",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.tiantianzhibo.net/player/index?id=a5c9zPxKIg_xvKJ0MP_kAF1Vyar5NE4Z6sWmni4bT6KpuYSf0Q"
+    ]
+  },
+  {
     "name": "Cinemax Movie",
     "groupName": "台湾",
     "urls": [
-      "https://idx.gdplayertv.to/live-tv/cinemax-tw/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/cinemax-tw/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=1fb0CtfHznvwCYPIUEJs-aYWlFgrWz2jVBV-U57sPNtGG7GZuw"
     ]
   },
   {
     "name": "Hollywood Movie",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/hollywood-movie/?embed=1"
+      "https://enx.gdplayertv.to/live-tv/hollywood-movie/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=026dA-mJrwvI7B5JJyqVT6tIrZL7bG1vgmJTD0Y_dwxasHwSLQ"
+    ]
+  },
+  {
+    "name": "HBO",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.tiantianzhibo.net/player/index?id=d6d1j8dJXU24utsjCnhwK9aKsFPgglstLIhHZ20P2TW5r1c9Xg"
+    ]
+  },
+  {
+    "name": "HBO HITS",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.tiantianzhibo.net/player/index?id=55431zjmjqyj3x_SFRc4Q5YBv75vAEHAbmz87Zs1nMg206bCTA"
     ]
   },
   {
@@ -2049,10 +2496,18 @@
     ]
   },
   {
+    "name": "DMAX",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.tiantianzhibo.net/player/index?id=94afxFOHiDSJSuNlsPwiRRtx3zf29RqtOLYdJIxNa0azkfIrKw"
+    ]
+  },
+  {
     "name": "AXN TV",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/axn-tw/?embed=1"
+      "https://enx.gdplayertv.to/live-tv/axn-tw/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=9121N-rEuuIcI4zreVa-uj2EmzFkOK5nuZNK3ZJ-Mxd2U16GULM"
     ]
   },
   {
@@ -2086,6 +2541,7 @@
     "groupName": "港澳",
     "urls": [
       "https://www.youtube.com/embed/HFib76ySpbU?autoplay=1",
+      "https://www.tiantianzhibo.net/player/index?id=2ebdwLm9MTTaexTxDZ4tKMDJ6BPIdNzWd_Llh8kstmEg934ubQ",
       "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw",
       "https://tv2.wfuapp.com/2019/08/phoenix-media.html"
     ]
@@ -2141,7 +2597,8 @@
     "name": "TVB 翡翠",
     "groupName": "港澳",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/tvb-jade/?embed=1"
+      "https://enx.gdplayertv.to/live-tv/tvb-jade/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=714fQdFOPs7fA2to6CG0UroN9l0YvCP5kVSLYnbvT654w1jlNQ"
     ]
   },
   {
@@ -2156,6 +2613,7 @@
     "groupName": "港澳",
     "urls": [
       "https://news.tvb.com/tc/live/83",
+      "https://www.tiantianzhibo.net/player/index?id=5e2avMI8JXyPe9rVuDSxwiCvsqAqCrPBqPsUSWrXDKN2L9rIzA",
       "https://enx.gdplayertv.to/live-tv/tvb-news/?embed=1"
     ]
   },
@@ -2163,7 +2621,15 @@
     "name": "TVB 明珠",
     "groupName": "港澳",
     "urls": [
-      "https://idx.gdplayertv.to/live-tv/tvb-pearl/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/tvb-pearl/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=910drXCXuvox1KxMaCzEhMltq5JK1qSQy9zm-nkstsFwqLSw7i4"
+    ]
+  },
+  {
+    "name": "TVB J2",
+    "groupName": "港澳",
+    "urls": [
+      "https://www.tiantianzhibo.net/player/index?id=64b6w9i9L-IBMP04d8zlk9iAfE2PPKdl7K-liyAMLQUdX-Srlg"
     ]
   },
   {
@@ -2178,6 +2644,13 @@
     "groupName": "港澳",
     "urls": [
       "https://enx.gdplayertv.to/live-tv/viu-tv/?embed=1"
+    ]
+  },
+  {
+    "name": "Viu TV Six",
+    "groupName": "港澳",
+    "urls": [
+      "https://www.tiantianzhibo.net/player/index?id=8836AJ7tZzxx97HkhwqYsYMb7__9WKvDm-1rb8_pB2Cq_L6WCQ"
     ]
   },
   {
@@ -2216,7 +2689,7 @@
     ]
   },
   {
-    "name": "澳门Macau",
+    "name": "澳门卫星",
     "groupName": "港澳",
     "urls": [
       "https://www.tdm.com.mo/zh-hant/live?Channel=8&type=tv",
@@ -2301,7 +2774,8 @@
     "name": "BBC NEWS",
     "groupName": "海外",
     "urls": [
-      "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298"
+      "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298",
+      "https://www.tiantianzhibo.net/player/index?id=5955bv22gWvHBiFu7Yfpja4zkv3zzj_W9H7T59uw7ow1qkNi2Q"
     ]
   },
   {
