@@ -4276,6 +4276,27 @@
       "https://www.youtube.com/embed/S_MOd40zlYU?autoplay=1"
     ]
   },
+  {
+    "name": "Youtube Chillhop Music - jazzy & lofi hip hop beats 🐾",
+    "groupName": "其他",
+    "urls": [
+      "https://www.youtube.com/embed/5yx6BWlEVcY?autoplay=1"
+    ]
+  },
+  {
+    "name": "Youtube Chillhop Music - beats to study/relax to 🐾",
+    "groupName": "其他",
+    "urls": [
+      "https://www.youtube.com/embed/7NOSDKb0HlU?autoplay=1"
+    ]
+  },
+  {
+    "name": "Youtube Vatican News - Vatican Media Live",
+    "groupName": "其他",
+    "urls": [
+      "https://www.youtube.com/embed/M_W3ppj-Umg?autoplay=1"
+    ]
+  },
   
   
   
@@ -4436,8 +4457,15 @@
       "https://player.twitch.tv/?channel=radiopsf&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
     ]
   },
+  {
+    "name": "Twitch Monstercat - Monstercat prides",
+    "groupName": "其他",
+    "urls": [
+      "https://player.twitch.tv/?channel=monstercat&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1"
+    ]
+  },
   
-  
+    
   
   {
     "name": "plex.tv USA TODAY",
