@@ -614,11 +614,68 @@
     ]
   },
   {
+    "name": "南方卫视",
+    "groupName": "广东",
+    "urls": [
+      "https://m.gdtv.cn/tvChannelDetail/51"
+    ]
+  },
+  {
+    "name": "海峡卫视",
+    "groupName": "福建",
+    "urls": [
+      "https://live.fjtv.net/hxtv/"
+    ]
+  },
+  {
+    "name": "凤凰卫视",
+    "groupName": "港澳",
+    "urls": [
+      "https://www.youtube.com/embed/HFib76ySpbU?autoplay=1",
+      "https://www.tiantianzhibo.net/player/index?id=2ebdwLm9MTTaexTxDZ4tKMDJ6BPIdNzWd_Llh8kstmEg934ubQ",
+      "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw",
+      "https://tv2.wfuapp.com/2019/08/phoenix-media.html"
+    ]
+  },
+  {
+    "name": "香港卫视",
+    "groupName": "港澳",
+    "urls": [
+      "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "澳门卫视",
+    "groupName": "港澳",
+    "urls": [
+      "https://www.tdm.com.mo/zh-hant/live?Channel=8&type=tv",
+      "http://61.244.22.5/ch3/ch3.live/index.m3u8",
+      "http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8",
+      "http://nz171l122.bb60246.ctm.net:8891/bysid/96.m3u8"
+    ]
+  },
+  {
+    "name": "美亚卫视",
+    "groupName": "港澳",
+    "urls": [
+      "http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8"
+    ]
+  },
+  {
     "name": "亚洲卫视",
     "groupName": "卫视",
     "urls": [
       "https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8",
+      "https://www.asiasatv.com/zb",
       "http://timetv.xyz/qita/astv.html"
+    ]
+  },
+  {
+    "name": "环球卫视",
+    "groupName": "港澳",
+    "urls": [
+      "http://zb.xzxwhcb.com:9999/hls/world.m3u8",
+      "http://timetv.xyz/qita/universal.html"
     ]
   },
   {
@@ -635,14 +692,6 @@
     "urls": [
       "https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8",
       "https://yibababa.com/tv/qita/live-china.html"
-    ]
-  },
-  {
-    "name": "都市剧场",
-    "groupName": "卫视",
-    "urls": [
-      "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8",
-      "http://timetv.xyz/qita/city.html"
     ]
   },
 
@@ -2760,17 +2809,8 @@
     "groupName": "港澳",
     "urls": [
       "https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus-avc1_3000000=294.m3u8",
+      "http://www.macaulotustv.cc/index.php/index/live.html",
       "http://www.macaulotustv.cc/"
-    ]
-  },
-  {
-    "name": "澳门卫星",
-    "groupName": "港澳",
-    "urls": [
-      "https://www.tdm.com.mo/zh-hant/live?Channel=8&type=tv",
-      "http://61.244.22.5/ch3/ch3.live/index.m3u8",
-      "http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8",
-      "http://nz171l122.bb60246.ctm.net:8891/bysid/96.m3u8"
     ]
   },
   {
@@ -2808,6 +2848,16 @@
     "groupName": "港澳",
     "urls": [
       "https://www.tdm.com.mo/zh-hant/live?Channel=7&type=tv"
+    ]
+  },
+  {
+    "name": "澳门卫星",
+    "groupName": "港澳",
+    "urls": [
+      "https://www.tdm.com.mo/zh-hant/live?Channel=8&type=tv",
+      "http://61.244.22.5/ch3/ch3.live/index.m3u8",
+      "http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8",
+      "http://nz171l122.bb60246.ctm.net:8891/bysid/96.m3u8"
     ]
   },
   {
