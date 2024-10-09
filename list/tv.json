@@ -1400,7 +1400,7 @@
     "groupName": "江西",
     "urls": [
       "https://www.nctv.net.cn/live",
-      "http://p.123tv.cn/p/jxnc.php?id=ncxw",
+      "http://xbtv.net/index.php?m=content&c=player&catid=130&id=3170&f=mediaurl&n=2",
       "http://xbtv.net/tv/jx/ncxw.html"
     ]
   },
@@ -1408,14 +1408,16 @@
     "name": "南昌都市",
     "groupName": "江西",
     "urls": [
-      "http://p.123tv.cn/p/jxnc.php?id=ncds"
+      "http://p.123tv.cn/p/jxnc.php?id=ncds",
+      "http://xbtv.net/index.php?m=content&c=player&catid=130&id=3169&f=mediaurl&n=2"
     ]
   },
   {
     "name": "南昌资讯",
     "groupName": "江西",
     "urls": [
-      "http://p.123tv.cn/p/jxnc.php?id=nczx"
+      "http://p.123tv.cn/p/jxnc.php?id=nczx",
+      "http://xbtv.net/index.php?m=content&c=player&catid=130&id=3168&f=mediaurl&n=2"
     ]
   },
   {
