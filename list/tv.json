@@ -2152,9 +2152,10 @@
     ]
   },
   {
-    "name": "TVB 无线",
+    "name": "TVB 无线新闻",
     "groupName": "港澳",
     "urls": [
+      "https://news.tvb.com/tc/live/83",
       "https://enx.gdplayertv.to/live-tv/tvb-news/?embed=1"
     ]
   },
@@ -2218,6 +2219,7 @@
     "name": "澳门Macau",
     "groupName": "港澳",
     "urls": [
+      "https://www.tdm.com.mo/zh-hant/live?Channel=8&type=tv",
       "http://61.244.22.5/ch3/ch3.live/index.m3u8",
       "http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8",
       "http://nz171l122.bb60246.ctm.net:8891/bysid/96.m3u8"
@@ -2227,14 +2229,44 @@
     "name": "澳视澳门",
     "groupName": "港澳",
     "urls": [
+      "https://www.tdm.com.mo/zh-hant/live?Channel=1&type=tv",
       "http://61.244.22.5/ch1/ch1.live/index.m3u8"
+    ]
+  },
+  {
+    "name": "澳视葡文",
+    "groupName": "港澳",
+    "urls": [
+      "https://www.tdm.com.mo/zh-hant/live?Channel=2&type=tv"
     ]
   },
   {
     "name": "澳门资讯",
     "groupName": "港澳",
     "urls": [
+      "https://www.tdm.com.mo/zh-hant/live?Channel=5&type=tv",
       "http://61.244.22.5/ch5/info_ch5.live/master.m3u8"
+    ]
+  },
+  {
+    "name": "澳视体育",
+    "groupName": "港澳",
+    "urls": [
+      "https://www.tdm.com.mo/zh-hant/live?Channel=6&type=tv"
+    ]
+  },
+  {
+    "name": "澳视综艺",
+    "groupName": "港澳",
+    "urls": [
+      "https://www.tdm.com.mo/zh-hant/live?Channel=7&type=tv"
+    ]
+  },
+  {
+    "name": "澳视立法会",
+    "groupName": "港澳",
+    "urls": [
+      "https://www.tdm.com.mo/zh-hant/live?Channel=9&type=tv"
     ]
   },
   
@@ -3965,6 +3997,14 @@
   },
   {
     "name": "测试频道05",
+    "groupName": "其他",
+    "urls": [
+      "https://m.tiantianzhibo.net/gangaotai/dongsenyouyou_yoyo_tv.html",
+      "https://m.tiantianzhibo.net/tv_player/clappr.php?url=https://stream.bookmarkmanager.net/live/tv?id=bd6fFGa_XYbqw7bU7Xrq1_ZuJDIdBbJACwp1xJAUEeZzvZGTmNNo88Xii5eDglKJlDUeR3rFr4edtE8FSQHNeMc4fP-cM02yPFXhrgTie9z5Moxv_Ymz1IbvPXb1qfRFNbiW2FBMG-jzhzRhixz4SJKhFIzOfpbI7sFk6e4h2aPlv56O_w&idp=5ccbnWeoMeEN5SPKhQcacK1yuO5566nIyxVPKuS5nasUlzhT2Hwsiw"
+    ]
+  },
+  {
+    "name": "测试频道06",
     "groupName": "其他",
     "urls": [
       "https://www.youtube.com/watch?v=TCnaIE_SAtM",
