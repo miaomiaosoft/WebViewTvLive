@@ -259,6 +259,7 @@
     "groupName": "央视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600014550",
+      "https://www.cgtn.com/tv",
       "https://enx.gdplayertv.to/live-tv/cgtn/?embed=1"
     ]
   },
@@ -266,28 +267,32 @@
     "name": "CGTN（法语）",
     "groupName": "央视",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600084704"
+      "https://www.yangshipin.cn/tv/home?pid\u003d600084704",
+      "https://francais.cgtn.com/channel"
     ]
   },
   {
     "name": "CGTN（俄语）",
     "groupName": "央视",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600084758"
+      "https://www.yangshipin.cn/tv/home?pid\u003d600084758",
+      "https://russian.cgtn.com/channel"
     ]
   },
   {
     "name": "CGTN（阿拉伯）",
     "groupName": "央视",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600084782"
+      "https://www.yangshipin.cn/tv/home?pid\u003d600084782",
+      "https://arabic.cgtn.com/channel"
     ]
   },
   {
     "name": "CGTN（西班牙）",
     "groupName": "央视",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600084744"
+      "https://www.yangshipin.cn/tv/home?pid\u003d600084744",
+      "https://espanol.cgtn.com/en-directo"
     ]
   },
   {
@@ -295,7 +300,15 @@
     "groupName": "央视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600084781",
+      "https://www.cgtn.com/channel/documentary",
       "https://enx.gdplayertv.to/live-tv/cgtn-documentary/?embed=1"
+    ]
+  },
+  {
+    "name": "优购物",
+    "groupName": "央视",
+    "urls": [
+      "https://www.huimai.com.cn/tvList/"
     ]
   },
 
@@ -609,14 +622,6 @@
     ]
   },
   {
-    "name": "环球电视",
-    "groupName": "卫视",
-    "urls": [
-      "http://zb.xzxwhcb.com:9999/hls/world.m3u8",
-      "http://timetv.xyz/qita/universal.html"
-    ]
-  },
-  {
     "name": "中国天气",
     "groupName": "卫视",
     "urls": [
@@ -755,6 +760,27 @@
     "groupName": "湖南",
     "urls": [
       "https://live.mgtv.com/?channelId\u003d267"
+    ]
+  },
+  {
+    "name": "郴州综合",
+    "groupName": "湖南",
+    "urls": [
+      "https://www.ngcz.tv/folder83/folder86"
+    ]
+  },
+  {
+    "name": "邵阳综合",
+    "groupName": "湖南",
+    "urls": [
+      "https://www.sytv.net.cn/folder2188/folder2190"
+    ]
+  },
+  {
+    "name": "娄底综合",
+    "groupName": "湖南",
+    "urls": [
+      "https://www.ldntv.cn/folder51/folder154/folder171"
     ]
   },
 
@@ -2518,11 +2544,19 @@
     ]
   },
   {
-    "name": "GOOD TV",
+    "name": "GOOD TV1",
     "groupName": "台湾",
     "urls": [
       "https://live.streamingfast.net/osmflivech1.m3u8",
+      "https://www.goodtv.tv/tv-channel?ch=1",
       "https://tv2.wfuapp.com/2019/12/sindagmp-tv-live.html"
+    ]
+  },
+  {
+    "name": "GOOD TV2",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.goodtv.tv/tv-channel?ch=2"
     ]
   },
     
@@ -2661,6 +2695,21 @@
     ]
   },
   {
+    "name": "环球卫视",
+    "groupName": "港澳",
+    "urls": [
+      "http://zb.xzxwhcb.com:9999/hls/world.m3u8",
+      "http://timetv.xyz/qita/universal.html"
+    ]
+  },
+  {
+    "name": "创世卫视",
+    "groupName": "港澳",
+    "urls": [
+      "https://cdn.deepcore.online/ctv_hk/"
+    ]
+  },
+  {
     "name": "美亚卫视",
     "groupName": "港澳",
     "urls": [
@@ -2685,7 +2734,8 @@
     "name": "澳门莲花",
     "groupName": "港澳",
     "urls": [
-      "https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus-avc1_3000000=294.m3u8"
+      "https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus-avc1_3000000=294.m3u8",
+      "http://www.macaulotustv.cc/"
     ]
   },
   {
@@ -2722,21 +2772,21 @@
     ]
   },
   {
-    "name": "澳视体育",
+    "name": "澳门体育",
     "groupName": "港澳",
     "urls": [
       "https://www.tdm.com.mo/zh-hant/live?Channel=6&type=tv"
     ]
   },
   {
-    "name": "澳视综艺",
+    "name": "澳门综艺",
     "groupName": "港澳",
     "urls": [
       "https://www.tdm.com.mo/zh-hant/live?Channel=7&type=tv"
     ]
   },
   {
-    "name": "澳视立法会",
+    "name": "澳门立法会",
     "groupName": "港澳",
     "urls": [
       "https://www.tdm.com.mo/zh-hant/live?Channel=9&type=tv"
@@ -2922,6 +2972,7 @@
     "groupName": "海外",
     "urls": [
       "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8",
+      "https://www3.nhk.or.jp/nhkworld/common/player/tv/cclive/embed/embed.html?movie=truel&lang=zh",
       "https://www.youtube.com/embed/f0lYkdA-Gtw?autoplay=1",
       "https://tv2.wfuapp.com/2020/01/nhk.html"
     ]
