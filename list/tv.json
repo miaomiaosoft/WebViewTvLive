@@ -4104,11 +4104,55 @@
       "https://icedwatermelonjuice.github.io/Online-Player/?url=https://pull.kktv8.com/livekktv/128600025.flv"
     ]
   },
+  
   {
     "name": "B站 西游记后传",
     "groupName": "其他",
     "urls": [
       "https://live.bilibili.com/30937742"
+    ]
+  },
+  {
+    "name": "B站 武林外传",
+    "groupName": "其他",
+    "urls": [
+      "https://live.bilibili.com/9275042"
+    ]
+  },
+  {
+    "name": "B站 美食下饭",
+    "groupName": "其他",
+    "urls": [
+      "https://live.bilibili.com/27761872"
+    ]
+  },
+  {
+    "name": "B站 灵异事件",
+    "groupName": "其他",
+    "urls": [
+      "https://live.bilibili.com/32006855"
+    ]
+  },
+  {
+    "name": "B站 沙雕动画",
+    "groupName": "其他",
+    "urls": [
+      "https://live.bilibili.com/1839980222"
+    ]
+  },
+  
+  {
+    "name": "斗鱼 影院",
+    "groupName": "其他",
+    "urls": [
+      "https://www.douyu.com/12192607"
+    ]
+  },
+  {
+    "name": "斗鱼 黑镖客梦回",
+    "groupName": "其他",
+    "urls": [
+      "https://www.douyu.com/8896151"
     ]
   },
   {
