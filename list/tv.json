@@ -322,8 +322,8 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002309",
-      "https://www.brtn.cn/btv/btvsy_index",
-      "https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8"
+      "https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8",
+      "https://www.brtn.cn/btv/btvsy_index"
     ]
   },
   {
@@ -357,7 +357,9 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002475",
-      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8"
+      "http://116.117.105.198:8096/tsfile/live/0128_1.m3u8",
+      "http://119.163.199.98:9901/tsfile/live/0017_1.m3u8",
+      "http://123.182.60.29:9002/hls/30/index.m3u8"
     ]
   },
   {
