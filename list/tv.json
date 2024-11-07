@@ -559,6 +559,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.xjtvs.com.cn/live/xjtv.shtml",
+      "https://www.xjtvs.com.cn/column/tv/434?channelId=1",
       "http://video.qd.sdu.edu.cn/liverespath/d75bf52e702ca0fb44344fc2e86e7675ac112ec7/index.m3u8",
       "http://timetv.xyz/weishi/xinjiang.html"
     ]
@@ -4101,6 +4102,13 @@
     "urls": [
       "https://pull.kktv8.com/livekktv/128600025.flv",
       "https://icedwatermelonjuice.github.io/Online-Player/?url=https://pull.kktv8.com/livekktv/128600025.flv"
+    ]
+  },
+  {
+    "name": "B站 西游记后传",
+    "groupName": "其他",
+    "urls": [
+      "https://live.bilibili.com/30937742"
     ]
   },
   {
