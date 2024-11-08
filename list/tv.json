@@ -22,8 +22,8 @@
     "groupName": "央视",
     "urls": [
       "https://tv.cctv.com/live/cctv3/",
-      "https://enx.gdplayertv.to/live-tv/cctv3/?embed=1",
-      "https://www.hndyjyfw.gov.cn/livePlay.html?u=2"
+      "https://www.hndyjyfw.gov.cn/livePlay.html?u=2",
+      "https://idx.gdplayertv.to/live-tv/cctv3/?embed=1"
     ]
   },
   {
@@ -54,7 +54,7 @@
     "urls": [
       "https://tv.cctv.com/live/cctv5/",
       "https://www.hndyjyfw.gov.cn/livePlay.html?u=3",
-      "https://enx.gdplayertv.to/live-tv/cctv3/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/cctv3/?embed=1"
     ]
   },
   {
@@ -201,7 +201,6 @@
     "name": "CHC 动作电影",
     "groupName": "央视",
     "urls": [
-      "http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8",
       "http://timetv.xyz/chc/chc-action.html"
     ]
   },
@@ -209,7 +208,6 @@
     "name": "CHC 家庭影院",
     "groupName": "央视",
     "urls": [
-      "http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8",
       "http://timetv.xyz/chc/chc-family.html"
     ]
   },
@@ -217,7 +215,6 @@
     "name": "CHC 影迷电影",
     "groupName": "央视",
     "urls": [
-      "http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8",
       "http://timetv.xyz/chc/chc-fan.html"
     ]
   },
@@ -239,7 +236,6 @@
     "name": "CETV-3",
     "groupName": "央视",
     "urls": [
-      "http://video.qd.sdu.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/index.m3u8",
       "http://timetv.xyz/qita/cetv3.html"
     ]
   },
@@ -249,7 +245,6 @@
     "urls": [
       "https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html",
       "https://edu.cctv.com/cetv/index.shtml",
-      "http://video.qd.sdu.edu.cn/liverespath/d9fd740848ee6bc5d883832bba7cafb90524390e/index.m3u8",
       "http://timetv.xyz/qita/cetv4.html"
     ]
   },
@@ -259,7 +254,7 @@
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600014550",
       "https://www.cgtn.com/tv",
-      "https://enx.gdplayertv.to/live-tv/cgtn/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/cgtn/?embed=1"
     ]
   },
   {
@@ -300,7 +295,7 @@
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600084781",
       "https://www.cgtn.com/channel/documentary",
-      "https://enx.gdplayertv.to/live-tv/cgtn-documentary/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/cgtn-documentary/?embed=1"
     ]
   },
   {
@@ -659,10 +654,8 @@
     "name": "凤凰卫视",
     "groupName": "卫视",
     "urls": [
-      "https://www.youtube.com/embed/HFib76ySpbU?autoplay=1",
       "https://www.tiantianzhibo.net/player/index?id=2ebdwLm9MTTaexTxDZ4tKMDJ6BPIdNzWd_Llh8kstmEg934ubQ",
-      "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw",
-      "https://tv2.wfuapp.com/2019/08/phoenix-media.html"
+      "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw"
     ]
   },
   {
@@ -1833,7 +1826,7 @@
     "name": "东森 新闻",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/ebc-news-tv/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/ebc-news-tv/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=d7c9cqojVv8HhOKJ21KwZvsYwApfnEiecpCVhysKZsYsWnGGTw",
       "https://news.ebc.net.tw/video"
     ]
@@ -1842,7 +1835,7 @@
     "name": "东森 综合",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/ebc-variety-tv/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/ebc-variety-tv/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=f352Z9Iib4gt-4o-2JdjxD-Lcal2DNVSdFv8_KgVIpNEjBnMBA"
     ]
   },
@@ -1950,7 +1943,7 @@
     "name": "中天 娱乐",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/cti-entertainment-tv?embed=1",
+      "https://idx.gdplayertv.to/live-tv/cti-entertainment-tv?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=c0b48SyLZO0ITIxnAjZwlNytpWAvza6SJb8tSMHexU3GloSNYQ",
       "http://61.221.215.25:8800/hls/47/index.m3u8"
     ]
@@ -1979,7 +1972,7 @@
     "name": "三立 都会",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/set-metro-tv?embed=1",
+      "https://idx.gdplayertv.to/live-tv/set-metro-tv?embed=1",
       "https://www.ofiii.com/channel/watch/iNEWS"
     ]
   },
@@ -1987,7 +1980,7 @@
     "name": "三立 台湾",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/set-taiwan-tv?embed=1",
+      "https://idx.gdplayertv.to/live-tv/set-taiwan-tv?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=beaboI08jrb2BhfEzJNSdYSb0Uzapj5FsNDSchHjiakNerKoYA"
     ]
   },
@@ -1995,7 +1988,7 @@
     "name": "三立 戏剧",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/set-theatre-tv?embed=1",
+      "https://idx.gdplayertv.to/live-tv/set-theatre-tv?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=f02dX2iCKmiUdWXnkdIP_kip1bimjQhDBTO7ovlvquhal5oEHQ"
     ]
   },
@@ -2003,7 +1996,7 @@
     "name": "三立 综合",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/set-variety-tv/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/set-variety-tv/?embed=1"
     ]
   },
   
@@ -2015,7 +2008,7 @@
     "urls": [
       "https://www.4gtv.tv/channel/4gtv-4gtv040?set\u003d4\u0026ch\u003d4",
       "https://www.ofiii.com/channel/watch/4gtv-4gtv040",
-      "https://enx.gdplayertv.to/live-tv/ctv/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/ctv/?embed=1"
     ]
   },
   {
@@ -2071,7 +2064,7 @@
     "name": "公视",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/public-tv-tw/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/public-tv-tw/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=c595CFh_U2iJFZvoQT-6PYydQGd6ig9tmOOQwodkpM6XOiwrDA"
     ]
   },
@@ -2097,7 +2090,7 @@
     "name": "台视",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/taiwan-tv/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/taiwan-tv/?embed=1",
       "https://www.ofiii.com/channel/watch/4gtv-4gtv066"
     ]
   },
@@ -2118,7 +2111,7 @@
     "groupName": "台湾",
     "urls": [
       "https://www.4gtv.tv/channel/4gtv-4gtv041?set\u003d4\u0026ch\u003d6",
-      "https://enx.gdplayertv.to/live-tv/cts-tv/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/cts-tv/?embed=1"
     ]
   },
   {
@@ -2136,7 +2129,7 @@
     "name": "GTV 综合",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/gtv-variety/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/gtv-variety/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=bd5arjf54cM_PQ-eOE_G8UGvGpY3oSQAgpLtOxXeSwbgQ_ZMzg"
     ]
   },
@@ -2144,7 +2137,7 @@
     "name": "GTV 第一",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/gtv-one/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/gtv-one/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=4904rq3sRq5JJaCiE4YxB2kHQ4S55Zg93mXeCTFgvIbSSDz2Mg"
     ]
   },
@@ -2152,7 +2145,7 @@
     "name": "GTV 戏剧",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/gtv-drama/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/gtv-drama/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=6743w7w3M8CiwLXGPskU7cKmiOkl9UkgRXjBaZY95wsh8i9LPA"
     ]
   },
@@ -2163,7 +2156,7 @@
     "name": "TVBS",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/tvbs/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/tvbs/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=ab60w7_p7ftzmMkWv7OW9MiV6_5Tii9Ol48Pfji7jhqMu9i4EA"
     ]
   },
@@ -2171,7 +2164,7 @@
     "name": "TVBS 新闻",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/tvbs-news/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/tvbs-news/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=6023fEr-K5AqJnRMLI4Ryix9X_mCm_a0muZmXf6bQkSKbwwfDQ",
       "https://tv2.wfuapp.com/2019/12/tvbs-news-live.html"
     ]
@@ -2180,7 +2173,7 @@
     "name": "TVBS 欢乐",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/tvbs-entertainment/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/tvbs-entertainment/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=18bd-d811G4r-773r0Rk9jONsDApcTaYBvoBqDrylBvsEDzbBg"
     ]
   },
@@ -2188,7 +2181,7 @@
     "name": "TVBS ASIA",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/tvbs-asia/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/tvbs-asia/?embed=1"
     ]
   },
   
@@ -2198,7 +2191,7 @@
     "name": "纬来 综合",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/videoland-ontv/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/videoland-ontv/?embed=1"
     ]
   },
   {
@@ -2213,7 +2206,7 @@
     "name": "纬来 日本",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/videoland-japan/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/videoland-japan/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=dae8sWbkoObd6ktJGMPD1spsi3vMzZ-oHzHx323cEulKCiTb1Q"
     ]
   },
@@ -2221,7 +2214,7 @@
     "name": "纬来 体育",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/videoland-sports/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/videoland-sports/?embed=1"
     ]
   },
 
@@ -2246,7 +2239,7 @@
     "name": "龙华 戏剧",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/ltv-drama/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/ltv-drama/?embed=1",
       "https://www.ofiii.com/channel/watch/litv-longturn18"
     ]
   },
@@ -2261,7 +2254,7 @@
     "name": "龙华 偶像",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/ltv-idol/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/ltv-idol/?embed=1",
       "https://www.ofiii.com/channel/watch/litv-longturn12"
     ]
   },
@@ -2286,14 +2279,14 @@
     "name": "EYE 戏剧",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/eye-tv-drama/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/eye-tv-drama/?embed=1"
     ]
   },
   {
     "name": "EYE 旅游",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/eye-tv-travel/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/eye-tv-travel/?embed=1"
     ]
   },
   
@@ -2303,7 +2296,7 @@
     "name": "年代 新闻",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/era-news/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/era-news/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=0c771kC3czYydY-9dMP-8087HfO99F_8NiDCWRdINHu9FLGGSQ"
     ]
   },
@@ -2311,7 +2304,7 @@
     "name": "非凡 新闻",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/unique-business-news/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/unique-business-news/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=0fc62kOTORsyvwYCjktvSYuw260tWwoL3QViHQ_IDpE2r7pmOA"
     ]
   },  
@@ -2342,7 +2335,7 @@
     "name": "靖天卡通",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/golden-tv/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/golden-tv/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=e407byADA9aLRyQCOHeS__8Zk4-goUHk6Dr0fOLnkifdOO9qVg"
     ]
   },
@@ -2552,21 +2545,21 @@
     "name": "Cartoon Network",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/cartoon-network-asia?embed=1"
+      "https://idx.gdplayertv.to/live-tv/cartoon-network-asia?embed=1"
     ]
   },
   {
     "name": "Cartoonito TV",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/cartoonito-tv/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/cartoonito-tv/?embed=1"
     ]
   },
   {
     "name": "Discovery",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/discovery-tw/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/discovery-tw/?embed=1",
       "http://45.159.74.14/DiscoveryChannel/index.m3u8"
     ]
   },
@@ -2574,7 +2567,7 @@
     "name": "Discovery Asia",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/discovery-asia-tw/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/discovery-asia-tw/?embed=1",
       "http://61.221.215.25:8800/hls/50/index.m3u8"
     ]
   },
@@ -2605,7 +2598,7 @@
     "name": "Hollywood Movie",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/hollywood-movie/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/hollywood-movie/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=026dA-mJrwvI7B5JJyqVT6tIrZL7bG1vgmJTD0Y_dwxasHwSLQ"
     ]
   },
@@ -2627,28 +2620,28 @@
     "name": "My Cinema Europe",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/my-cinema-europe/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/my-cinema-europe/?embed=1"
     ]
   },
   {
     "name": "Food Planet",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/food-planet/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/food-planet/?embed=1"
     ]
   },
   {
     "name": "Asia Food Network",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/asian-food-channel/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/asian-food-channel/?embed=1"
     ]
   },
   {
     "name": "Asia Travel Channel",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/asia-travel-channel/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/asia-travel-channel/?embed=1",
       "https://www.ofiii.com/channel/watch/litv-longturn17"
     ]
   },
@@ -2663,7 +2656,7 @@
     "name": "AXN TV",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/axn-tw/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/axn-tw/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=9121N-rEuuIcI4zreVa-uj2EmzFkOK5nuZNK3ZJ-Mxd2U16GULM"
     ]
   },
@@ -2678,7 +2671,7 @@
     "name": "MTV Taiwan",
     "groupName": "台湾",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/mtv-tw/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/mtv-tw/?embed=1"
     ]
   },
   {
@@ -2769,7 +2762,7 @@
     "name": "TVB 翡翠",
     "groupName": "港澳",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/tvb-jade/?embed=1",
+      "https://idx.gdplayertv.to/live-tv/tvb-jade/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=714fQdFOPs7fA2to6CG0UroN9l0YvCP5kVSLYnbvT654w1jlNQ"
     ]
   },
@@ -2777,7 +2770,7 @@
     "name": "TVB 娱乐",
     "groupName": "港澳",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/tvb-entertainment-news/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/tvb-entertainment-news/?embed=1"
     ]
   },
   {
@@ -2786,7 +2779,7 @@
     "urls": [
       "https://news.tvb.com/tc/live/83",
       "https://www.tiantianzhibo.net/player/index?id=5e2avMI8JXyPe9rVuDSxwiCvsqAqCrPBqPsUSWrXDKN2L9rIzA",
-      "https://enx.gdplayertv.to/live-tv/tvb-news/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/tvb-news/?embed=1"
     ]
   },
   {
@@ -2815,7 +2808,7 @@
     "name": "Viu TV",
     "groupName": "港澳",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/viu-tv/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/viu-tv/?embed=1"
     ]
   },
   {
@@ -2865,7 +2858,7 @@
     "name": "美亚娱乐",
     "groupName": "港澳",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/mei-ah-entertainment/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/mei-ah-entertainment/?embed=1"
     ]
   },
   {
@@ -2978,35 +2971,35 @@
     "name": "BBC One",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/bbc-one/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/bbc-one/?embed=1"
     ]
   },
   {
     "name": "BBC Two",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/bbc-two/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/bbc-two/?embed=1"
     ]
   },
   {
     "name": "BBC Three",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/bbc-three/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/bbc-three/?embed=1"
     ]
   },
   {
     "name": "BBC Four",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/bbc-four/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/bbc-four/?embed=1"
     ]
   },
   {
     "name": "BBC America",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/bbc-america/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/bbc-america/?embed=1"
     ]
   },
   {
@@ -3182,21 +3175,21 @@
     "name": "Disney",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/disney-channel/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/disney-channel/?embed=1"
     ]
   },
   {
     "name": "Disney Junior",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/disney-junior/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/disney-junior/?embed=1"
     ]
   },
   {
     "name": "LEGO Kids",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/lego-kids-tv/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/lego-kids-tv/?embed=1"
     ]
   },
   {
@@ -3210,14 +3203,14 @@
     "name": "BabyTV",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/babytv/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/babytv/?embed=1"
     ]
   },
   {
     "name": "EBS Kids",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/ebs-kids/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/ebs-kids/?embed=1"
     ]
   },
   {
@@ -3238,161 +3231,161 @@
     "name": "Discovery Science",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/discovery-science/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/discovery-science/?embed=1"
     ]
   },
   {
     "name": "Discovery Turbo",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/discovery-turbo/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/discovery-turbo/?embed=1"
     ]
   },
   {
     "name": "Investigation Discovery",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/investigation-discovery-tv/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/investigation-discovery-tv/?embed=1"
     ]
   },
   {
     "name": "Animal Planet Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/animal-planet-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/animal-planet-my/?embed=1"
     ]
   },
   {
     "name": "Rock Action",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/rock-action/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/rock-action/?embed=1"
     ]
   },
   {
     "name": "Rock Entertainment",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/rock-entertainment/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/rock-entertainment/?embed=1"
     ]
   },
   {
     "name": "Lifetime Movie Network",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/lmn-tv/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/lmn-tv/?embed=1"
     ]
   },
   {
     "name": "ZooMoo",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/zoomoo/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/zoomoo/?embed=1"
     ]
   },
   {
     "name": "ITV1",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/itv1/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/itv1/?embed=1"
     ]
   },
   {
     "name": "ITV2",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/itv2/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/itv2/?embed=1"
     ]
   },
   {
     "name": "ITV3",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/itv3/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/itv3/?embed=1"
     ]
   },
   {
     "name": "ITV4",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/itv4/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/itv4/?embed=1"
     ]
   },
   {
     "name": "NOW 70s",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/now-70s/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/now-70s/?embed=1"
     ]
   },
   {
     "name": "NOW 80s",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/now-80s/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/now-80s/?embed=1"
     ]
   },
   {
     "name": "NOW Rock",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/now-rock/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/now-rock/?embed=1"
     ]
   },
   {
     "name": "MTV Classic",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/mtv-classic/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/mtv-classic/?embed=1"
     ]
   },
   {
     "name": "MTV Live",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/mtv-live/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/mtv-live/?embed=1"
     ]
   },
   {
     "name": "Vevo",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/vevo-tv/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/vevo-tv/?embed=1"
     ]
   },
   {
     "name": "Vevo '70s",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/vevo-70s-tv/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/vevo-70s-tv/?embed=1"
     ]
   },
   {
     "name": "Vevo '80s",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/vevo-80s-tv/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/vevo-80s-tv/?embed=1"
     ]
   },
   {
     "name": "Vevo '90s",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/vevo-90s-tv/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/vevo-90s-tv/?embed=1"
     ]
   },
   {
     "name": "Vevo Pop",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/vevo-pop-tv/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/vevo-pop-tv/?embed=1"
     ]
   },
   {
     "name": "Vevo Retro Rock",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/vevo-retro-rock-tv?embed=1"
+      "https://idx.gdplayertv.to/live-tv/vevo-retro-rock-tv?embed=1"
     ]
   },
   {
@@ -3483,336 +3476,336 @@
     "name": "CCM Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/ccm-my?embed=1"
+      "https://idx.gdplayertv.to/live-tv/ccm-my?embed=1"
     ]
   },
   {
     "name": "Celestial Movies Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/celestial-movies-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/celestial-movies-my/?embed=1"
     ]
   },
   {
     "name": "Discovery Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/discovery-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/discovery-my/?embed=1"
     ]
   },
   {
     "name": "Discovery Asia Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/discovery-asia-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/discovery-asia-my/?embed=1"
     ]
   },
   {
     "name": "HBO Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/hbo-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/hbo-my/?embed=1"
     ]
   },
   {
     "name": "HBO Hits Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/hbo-hits-my?embed=1"
+      "https://idx.gdplayertv.to/live-tv/hbo-hits-my?embed=1"
     ]
   },
   {
     "name": "HBO Family Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/hbo-family-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/hbo-family-my/?embed=1"
     ]
   },
   {
     "name": "Hits Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/hits-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/hits-my/?embed=1"
     ]
   },
   {
     "name": "HITS Movies Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/hits-movies-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/hits-movies-my/?embed=1"
     ]
   },
   {
     "name": "TVB Classic Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/tvb-classic-my?embed=1"
+      "https://idx.gdplayertv.to/live-tv/tvb-classic-my?embed=1"
     ]
   },
   {
     "name": "AXN Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/axn-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/axn-my/?embed=1"
     ]
   },
   {
     "name": "Cinemax Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/cinemax-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/cinemax-my/?embed=1"
     ]
   },
   {
     "name": "DMAX Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/dmax-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/dmax-my/?embed=1"
     ]
   },
   {
     "name": "tvN Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/tvn-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/tvn-my/?embed=1"
     ]
   },
   {
     "name": "tvN Movies Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/tvn-movies-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/tvn-movies-my/?embed=1"
     ]
   },
   {
     "name": "Moonbug Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/moonbug-tv-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/moonbug-tv-my/?embed=1"
     ]
   },
   {
     "name": "Warner Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/warner-tv-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/warner-tv-my/?embed=1"
     ]
   },
   {
     "name": "WWE Network Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/wwe-network-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/wwe-network-my/?embed=1"
     ]
   },
   {
     "name": "TLC Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/tlc-my?embed=1"
+      "https://idx.gdplayertv.to/live-tv/tlc-my?embed=1"
     ]
   },
   {
     "name": "MTV Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/mtv-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/mtv-my/?embed=1"
     ]
   },
   {
     "name": "History Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/history-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/history-my/?embed=1"
     ]
   },
   {
     "name": "Cartoon Network Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/cartoon-network-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/cartoon-network-my/?embed=1"
     ]
   },
   {
     "name": "BBC Earth Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/bbc-earth-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/bbc-earth-my/?embed=1"
     ]
   },
   {
     "name": "BBC Lifestyle Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/bbc-lifestyle-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/bbc-lifestyle-my/?embed=1"
     ]
   },
   {
     "name": "Asian Food Network Malaysia",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/asian-food-network-my/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/asian-food-network-my/?embed=1"
     ]
   },
   {
     "name": "Astro AEC",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-aec/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-aec/?embed=1"
     ]
   },
   {
     "name": "Astro Arena",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-arena/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-arena/?embed=1"
     ]
   },
   {
     "name": "Astro Arena 2",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-arena-2/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-arena-2/?embed=1"
     ]
   },
   {
     "name": "Astro Aura",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-aura/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-aura/?embed=1"
     ]
   },
   {
     "name": "Astro Awani",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-awani/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-awani/?embed=1"
     ]
   },
   {
     "name": "Astro BOO",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-boo/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-boo/?embed=1"
     ]
   },
   {
     "name": "Astro Ceria",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-ceria/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-ceria/?embed=1"
     ]
   },
   {
     "name": "Astro Cricket",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-cricket/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-cricket/?embed=1"
     ]
   },
   {
     "name": "Astro Hua Hee Dai",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-hua-hee-dai/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-hua-hee-dai/?embed=1"
     ]
   },
   {
     "name": "Astro iQiyi",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-iqiyi/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-iqiyi/?embed=1"
     ]
   },
   {
     "name": "Astro Oasis",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-oasis/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-oasis/?embed=1"
     ]
   },
   {
     "name": "Astro Premier",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-premier/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-premier/?embed=1"
     ]
   },
   {
     "name": "Astro QJ",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-qj/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-qj/?embed=1"
     ]
   },
   {
     "name": "Astro Rania",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-rania/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-rania/?embed=1"
     ]
   },
   {
     "name": "Astro Supersport1",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-supersport/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-supersport/?embed=1"
     ]
   },
   {
     "name": "Astro Supersport2",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-supersport-2/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-supersport-2/?embed=1"
     ]
   },
   {
     "name": "Astro Supersport3",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-supersport-3/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-supersport-3/?embed=1"
     ]
   },
   {
     "name": "Astro Supersport4",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-supersport-4/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-supersport-4/?embed=1"
     ]
   },
   {
     "name": "Astro Vaanavil",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-vaanavil/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-vaanavil/?embed=1"
     ]
   },
   {
     "name": "Astro Vellithirai",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-vellithirai/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-vellithirai/?embed=1"
     ]
   },
   {
     "name": "Astro Wah Lai Toi",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-wah-lai-toi/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-wah-lai-toi/?embed=1"
     ]
   },
   {
     "name": "Astro Warna",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/astro-warna/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/astro-warna/?embed=1"
     ]
   },
   {
     "name": "TV Okey",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/tv-okey/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/tv-okey/?embed=1"
     ]
   },
   
@@ -3822,7 +3815,7 @@
     "name": "Nat Geo Japan",
     "groupName": "海外",
     "urls": [
-      "https://enx.gdplayertv.to/live-tv/nat-geo-jp/?embed=1"
+      "https://idx.gdplayertv.to/live-tv/nat-geo-jp/?embed=1"
     ]
   },
   
