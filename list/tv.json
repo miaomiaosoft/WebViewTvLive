@@ -5,7 +5,7 @@
     "urls": [
       "https://tv.cctv.com/live/cctv1/",
       "https://www.yangshipin.cn/tv/home?pid\u003d600001859",
-      "https://media.hndyjyfw.gov.cn/live/jz-cctv-1/live.m3u8",
+      "https://www.hndyjyfw.gov.cn/livePlay.html?u=1",
       "https://www.xttv.com.cn/index/channel/index/id/155.html"
     ]
   },
@@ -23,7 +23,7 @@
     "urls": [
       "https://tv.cctv.com/live/cctv3/",
       "https://enx.gdplayertv.to/live-tv/cctv3/?embed=1",
-      "https://media.hndyjyfw.gov.cn/live/jz-cctv-3/live.m3u8"
+      "https://www.hndyjyfw.gov.cn/livePlay.html?u=2"
     ]
   },
   {
@@ -53,9 +53,8 @@
     "groupName": "央视",
     "urls": [
       "https://tv.cctv.com/live/cctv5/",
-      "http://video.qd.sdu.edu.cn/liverespath/3f76badfb3a23d95f26ff573a93902bbdb8b8e98/index.m3u8",
-      "https://enx.gdplayertv.to/live-tv/cctv3/?embed=1",
-      "https://media.hndyjyfw.gov.cn/live/jz-cctv-5/live.m3u8"
+      "https://www.hndyjyfw.gov.cn/livePlay.html?u=3",
+      "https://enx.gdplayertv.to/live-tv/cctv3/?embed=1"
     ]
   },
   {
@@ -72,9 +71,8 @@
     "groupName": "央视",
     "urls": [
       "https://tv.cctv.com/live/cctv6/",
-      "https://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8",
       "https://www.yangshipin.cn/tv/home?pid%5Cu003d600001814&pid=600108442",
-      "https://media.hndyjyfw.gov.cn/live/jz-cctv-6/live.m3u8"
+      "https://www.hndyjyfw.gov.cn/livePlay.html?u=4"
     ]
   },
   {
@@ -83,7 +81,7 @@
     "urls": [
       "https://tv.cctv.com/live/cctv7/",
       "https://www.yangshipin.cn/tv/home?pid\u003d600004092",
-      "https://media.hndyjyfw.gov.cn/live/jz-cctv-7/live.m3u8"
+      "https://www.hndyjyfw.gov.cn/livePlay.html?u=5"
     ]
   },
   {
@@ -100,7 +98,7 @@
     "urls": [
       "https://tv.cctv.com/live/cctvjilu/",
       "https://www.yangshipin.cn/tv/home?pid\u003d600004078",
-      "https://media.hndyjyfw.gov.cn/live/jz-cctv-9/live.m3u8"
+      "https://www.hndyjyfw.gov.cn/livePlay.html?u=6"
     ]
   },
   {
@@ -109,7 +107,7 @@
     "urls": [
       "https://tv.cctv.com/live/cctv10/",
       "https://www.yangshipin.cn/tv/home?pid\u003d600001805",
-      "https://media.hndyjyfw.gov.cn/live/jz-cctv-10/live.m3u8"
+      "https://www.hndyjyfw.gov.cn/livePlay.html?u=7"
     ]
   },
   {
@@ -118,7 +116,7 @@
     "urls": [
       "https://tv.cctv.com/live/cctv11/",
       "https://www.yangshipin.cn/tv/home?pid\u003d600001806",
-      "https://media.hndyjyfw.gov.cn/live/jz-cctv-11/live.m3u8"
+      "https://www.hndyjyfw.gov.cn/livePlay.html?u=8"
     ]
   },
   {
@@ -127,7 +125,7 @@
     "urls": [
       "https://tv.cctv.com/live/cctv12/",
       "https://www.yangshipin.cn/tv/home?pid\u003d600001807",
-      "https://media.hndyjyfw.gov.cn/live/jz-cctv-12/live.m3u8"
+      "https://www.hndyjyfw.gov.cn/livePlay.html?u=9"
     ]
   },
   {
@@ -136,7 +134,7 @@
     "urls": [
       "https://tv.cctv.com/live/cctv13/",
       "https://www.yangshipin.cn/tv/home?pid\u003d600001811",
-      "https://media.hndyjyfw.gov.cn/live/jz-cctv-13/live.m3u8"
+      "https://www.hndyjyfw.gov.cn/livePlay.html?u=10"
     ]
   },
   {
@@ -322,7 +320,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002309",
-      "https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8",
+      "https://www.hndyjyfw.gov.cn/livePlay.html?u=11",
       "https://www.brtn.cn/btv/btvsy_index"
     ]
   },
@@ -349,7 +347,7 @@
       "https://www.yangshipin.cn/tv/home?pid\u003d600002520",
       "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
       "https://cn.tingfm.com/tv/1039?lang=zh_CN",
-      "https://media.hndyjyfw.gov.cn/live/jz-zhejiangweishi/live.m3u8"
+      "https://www.hndyjyfw.gov.cn/livePlay.html?u=12"
     ]
   },
   {
@@ -442,7 +440,7 @@
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002525",
       "https://static.hntv.tv/kds/#/",
-      "https://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8"
+      "https://www.hndyjyfw.gov.cn/livePlay.html?u=14"
     ]
   },
   {
