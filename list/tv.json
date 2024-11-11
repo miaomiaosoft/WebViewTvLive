@@ -3409,7 +3409,7 @@
     "name": "凤凰卫视",
     "groupName": "港澳",
     "urls": [
-      "https://www.youtube.com/embed/HFib76ySpbU?autoplay=1",
+      "http://dispatch.fengshows.cn:8484/live/0701pcc48.flv?txSecret=e3d4609f19db4d41e36e30b00d622157&txTime=673284be",
       "https://www.tiantianzhibo.net/player/index?id=2ebdwLm9MTTaexTxDZ4tKMDJ6BPIdNzWd_Llh8kstmEg934ubQ",
       "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw",
       "https://tv2.wfuapp.com/2019/08/phoenix-media.html"
@@ -4839,131 +4839,130 @@
   },
   
   {
-    "name": "斗鱼 影院",
+    "name": "斗鱼 高清影院",
     "groupName": "其他",
     "urls": [
       "https://www.douyu.com/12192607"
     ]
   },
   {
-    "name": "斗鱼 黑镖客梦回",
+    "name": "斗鱼 镖客梦回",
     "groupName": "其他",
     "urls": [
       "https://www.douyu.com/8896151"
     ]
   },
   {
-    "name": "斗鱼 电影8",
+    "name": "斗鱼 科幻动作",
     "groupName": "其他",
     "urls": [
-      "http://epg.112114.xyz/douyu/4332"
+      "https://www.douyu.com/4332"
     ]
   },
   {
-    "name": "斗鱼 电影9",
+    "name": "斗鱼 漫威电影",
     "groupName": "其他",
     "urls": [
-      "http://epg.112114.xyz/douyu/6140589"
+      "https://www.douyu.com/6140589"
     ]
   },
   {
-    "name": "斗鱼 电影15",
+    "name": "斗鱼 史上最佳",
     "groupName": "其他",
     "urls": [
-      "http://epg.112114.xyz/douyu/8770422",
-      "https://live.fanmingming.com/player/?vurl=http://epg.112114.xyz/douyu/8770422"
+      "https://www.douyu.com/8770422"
     ]
   },
   {
-    "name": "斗鱼 电影19",
+    "name": "斗鱼 蓝光原画",
     "groupName": "其他",
     "urls": [
-      "http://epg.112114.xyz/douyu/747764",
+      "https://www.douyu.com/747764",
       "https://bharadwajpro.github.io/m3u8-player/player/#http://epg.112114.xyz/douyu/747764"
     ]
   },
   {
-    "name": "斗鱼 电影20",
+    "name": "斗鱼 豆瓣高分",
     "groupName": "其他",
     "urls": [
-      "http://epg.112114.xyz/douyu/52787"
+      "https://www.douyu.com/52787"
     ]
   },
   {
-    "name": "斗鱼 电影24",
+    "name": "斗鱼 小众电影",
     "groupName": "其他",
     "urls": [
-      "http://epg.112114.xyz/douyu/36337"
+      "https://www.douyu.com/36337"
     ]
   },
   {
-    "name": "斗鱼 电影25",
+    "name": "斗鱼 霍格沃茨",
     "groupName": "其他",
     "urls": [
-      "http://epg.112114.xyz/douyu/8814650"
+      "https://www.douyu.com/8814650"
     ]
   },
   {
-    "name": "斗鱼 电影28",
+    "name": "斗鱼 灾难恐怖",
     "groupName": "其他",
     "urls": [
-      "http://epg.112114.xyz/douyu/263824"
+      "https://www.douyu.com/263824"
     ]
   },
   {
-    "name": "斗鱼 电影44",
+    "name": "斗鱼 小宇高清",
     "groupName": "其他",
     "urls": [
-      "http://epg.112114.xyz/douyu/323876"
+      "https://www.douyu.com/323876"
     ]
   },
   {
     "name": "斗鱼 林正英",
     "groupName": "其他",
     "urls": [
-      "http://epg.112114.xyz/douyu/218859"
+      "https://www.douyu.com/218859"
     ]
   },
   {
     "name": "斗鱼 欧美大片1",
     "groupName": "其他",
     "urls": [
-      "http://epg.112114.xyz/douyu/20415"
+      "https://www.douyu.com/20415"
     ]
   },
   {
     "name": "斗鱼 欧美大片2",
     "groupName": "其他",
     "urls": [
-      "http://epg.112114.xyz/douyu/2793084"
+      "https://www.douyu.com/2793084"
     ]
   },
   {
     "name": "斗鱼 欧美大片3",
     "groupName": "其他",
     "urls": [
-      "http://epg.112114.xyz/douyu/9249162"
+      "https://www.douyu.com/9249162"
     ]
   },
   {
     "name": "斗鱼 粤语电影2",
     "groupName": "其他",
     "urls": [
-      "http://epg.112114.xyz/douyu/6566671"
+      "https://www.douyu.com/6566671"
     ]
   },
   {
     "name": "斗鱼 粤语电影3",
     "groupName": "其他",
     "urls": [
-      "http://epg.112114.xyz/douyu/1226741"
+      "https://www.douyu.com/1226741"
     ]
   },
   {
     "name": "斗鱼 贝爷影厅",
     "groupName": "其他",
     "urls": [
-      "http://epg.112114.xyz/douyu/252802"
+      "https://www.douyu.com/252802"
     ]
   },
   
