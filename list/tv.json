@@ -1962,6 +1962,181 @@
   },
 
 
+  {
+    "name": "徐州-1",
+    "groupName": "江苏",
+    "urls": [
+      "http://www.wifixz.com/tv",
+      "https://live.fanmingming.com/player/?vurl=https://pull.nicewifi.cn/live/xztv01.flv"
+    ]
+  },
+  {
+    "name": "徐州-2",
+    "groupName": "江苏",
+    "urls": [
+      "http://www.wifixz.com/tv",
+      "https://live.fanmingming.com/player/?vurl=https://pull.nicewifi.cn/live/xztv02.flv"
+    ]
+  },
+  {
+    "name": "徐州-3",
+    "groupName": "江苏",
+    "urls": [
+      "http://www.wifixz.com/tv",
+      "https://live.fanmingming.com/player/?vurl=https://pull.nicewifi.cn/live/xztv03.flv"
+    ]
+  },
+  {
+    "name": "徐州-4",
+    "groupName": "江苏",
+    "urls": [
+      "http://www.wifixz.com/tv",
+      "https://live.fanmingming.com/player/?vurl=https://pull.nicewifi.cn/live/xztv04.flv"
+    ]
+  },
+
+
+
+  {
+    "name": "常州新闻",
+    "groupName": "江苏",
+    "urls": [
+      "http://www.cztv.tv//channel.html",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jsxztv=1"
+    ]
+  },
+  {
+    "name": "常州都市",
+    "groupName": "江苏",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?jsxztv=2",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jsxztv=2"
+    ]
+  },
+  {
+    "name": "常州生活",
+    "groupName": "江苏",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?jsxztv=3",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jsxztv=3"
+    ]
+  },
+  {
+    "name": "常州公共",
+    "groupName": "江苏",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?jsxztv=4",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jsxztv=4"
+    ]
+  },
+
+
+  
+  {
+    "name": "常州武进新闻",
+    "groupName": "江苏",
+    "urls": [
+      "https://live.wjyanghu.com/live/CH1.m3u8",
+      "https://live.fanmingming.com/player/?vurl=https://live.wjyanghu.com/live/CH1.m3u8"
+    ]
+  },
+  {
+    "name": "常州武进生活",
+    "groupName": "江苏",
+    "urls": [
+      "https://live.wjyanghu.com/live/CH2.m3u8",
+      "https://live.fanmingming.com/player/?vurl=https://live.wjyanghu.com/live/CH2.m3u8"
+    ]
+  },
+
+
+
+  {
+    "name": "南通综合",
+    "groupName": "江苏",
+    "urls": [
+      "https://mob.nttv.cn/broadcastTvs.html?menuCode=ntw005",
+      "https://mob.nttv.cn/broadcastTvs.html?menuCode=ntw005&channelId=ff8081818bcbe7c2018bcc9bf4f20015"
+    ]
+  },
+  {
+    "name": "南通社教",
+    "groupName": "江苏",
+    "urls": [
+      "https://mob.nttv.cn/broadcastTvs.html?menuCode=ntw005",
+      "https://mob.nttv.cn/broadcastTvs.html?menuCode=ntw005&channelId=ff8081818bcbe7c2018bcc9cb7390018"
+    ]
+  },
+  {
+    "name": "南通公共",
+    "groupName": "江苏",
+    "urls": [
+      "https://mob.nttv.cn/broadcastTvs.html?menuCode=ntw005",
+      "https://mob.nttv.cn/broadcastTvs.html?menuCode=ntw005&channelId=ff8081818bcbe7c2018bcc9d12f0001b"
+    ]
+  },
+
+
+  {
+    "name": "淮安综合",
+    "groupName": "江苏",
+    "urls": [
+      "https://glive.habctv.com/tv/803?uin=1610"
+    ]
+  },
+  {
+    "name": "淮安公共",
+    "groupName": "江苏",
+    "urls": [
+      "https://glive.habctv.com/tv/808?uin=1610"
+    ]
+  },
+  {
+    "name": "淮安影视",
+    "groupName": "江苏",
+    "urls": [
+      "https://glive.habctv.com/tv/902?uin=1610"
+    ]
+  },
+
+
+  {
+    "name": "盐城-1",
+    "groupName": "江苏",
+    "urls": [
+      "https://www.0515yc.cn/folder147/folder148/folder156/folder245/",
+      "https://live1yc.0515yc.cn/sd/sd/live.m3u8"
+    ]
+  },
+  {
+    "name": "盐城-2",
+    "groupName": "江苏",
+    "urls": [
+      "https://www.0515yc.cn/folder147/folder148/folder156/folder245/",
+      "https://live1yc.0515yc.cn/hd/sd/live.m3u8"
+    ]
+  },
+  {
+    "name": "盐城-3",
+    "groupName": "江苏",
+    "urls": [
+      "https://www.0515yc.cn/folder147/folder148/folder156/folder245/",
+      "https://live1yc.0515yc.cn/sdd/sd/live.m3u8"
+    ]
+  },
+
+
+
+  {
+    "name": "邳州综合",
+    "groupName": "江苏",
+    "urls": [
+      "https://www.pznews.com/live/",
+      "https://live1yc.0515yc.cn/sd/sd/live.m3u8"
+    ]
+  },
+
+
 
 
   
