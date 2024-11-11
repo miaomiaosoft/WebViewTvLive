@@ -828,21 +828,56 @@
     "name": "郴州综合",
     "groupName": "湖南",
     "urls": [
-      "https://www.ngcz.tv/folder83/folder86"
+      "https://www.ngcz.tv/folder83/folder86",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org?hncztv=1"
     ]
   },
   {
-    "name": "邵阳综合",
+    "name": "郴州公共",
     "groupName": "湖南",
     "urls": [
-      "https://www.sytv.net.cn/folder2188/folder2190"
+      "https://www.ngcz.tv/folder83/folder86",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org?hncztv=2"
+    ]
+  },
+  {
+    "name": "邵阳新闻综合",
+    "groupName": "湖南",
+    "urls": [
+      "https://www.sytv.net.cn/folder2188/folder2190",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org?hnsytv=1"
+    ]
+  },
+  {
+    "name": "邵阳文旅民生",
+    "groupName": "湖南",
+    "urls": [
+      "https://www.sytv.net.cn/folder2188/folder2190",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org?hnsytv=2"
     ]
   },
   {
     "name": "娄底综合",
     "groupName": "湖南",
     "urls": [
-      "https://www.ldntv.cn/folder51/folder154/folder171"
+      "https://www.ldntv.cn/folder51/folder154/folder171",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org?hnldtv=1"
+    ]
+  },
+  {
+    "name": "娄底快乐购",
+    "groupName": "湖南",
+    "urls": [
+      "https://www.ldntv.cn/folder51/folder154/folder171",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org?hnldtv=2"
+    ]
+  },
+  {
+    "name": "娄底嘉丽购",
+    "groupName": "湖南",
+    "urls": [
+      "https://www.ldntv.cn/folder51/folder154/folder171",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org?hnldtv=3"
     ]
   },
 
@@ -1127,7 +1162,48 @@
     "name": "广州综合",
     "groupName": "广东",
     "urls": [
-      "https://www.gztv.com/#/channel"
+      "https://www.gztv.com/#/channel",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org?gdgztv=1"
+    ]
+  },
+  {
+    "name": "广州新闻",
+    "groupName": "广东",
+    "urls": [
+      "https://www.gztv.com/#/channel",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org?gdgztv=2"
+    ]
+  },
+  {
+    "name": "广州法治",
+    "groupName": "广东",
+    "urls": [
+      "https://www.gztv.com/#/channel",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org?gdgztv=3"
+    ]
+  },
+  {
+    "name": "广州竞赛",
+    "groupName": "广东",
+    "urls": [
+      "https://www.gztv.com/#/channel",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org?gdgztv=4"
+    ]
+  },
+  {
+    "name": "广州影视",
+    "groupName": "广东",
+    "urls": [
+      "https://www.gztv.com/#/channel",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org?gdgztv=5"
+    ]
+  },
+  {
+    "name": "广州南国都市",
+    "groupName": "广东",
+    "urls": [
+      "https://www.gztv.com/#/channel",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org?gdgztv=6"
     ]
   },
 
@@ -1464,7 +1540,7 @@
     "groupName": "江西",
     "urls": [
       "https://www.nctv.net.cn/live",
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?nctv=1",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jxnctv=1",
       "http://xbtv.net/index.php?m=content&c=player&catid=130&id=3170&f=mediaurl&n=2",
       "http://xbtv.net/tv/jx/ncxw.html"
     ]
@@ -1474,7 +1550,7 @@
     "groupName": "江西",
     "urls": [
       "http://p.123tv.cn/p/jxnc.php?id=ncds",
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?nctv=2",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jxnctv=2",
       "http://xbtv.net/index.php?m=content&c=player&catid=130&id=3169&f=mediaurl&n=2"
     ]
   },
@@ -1483,7 +1559,7 @@
     "groupName": "江西",
     "urls": [
       "http://p.123tv.cn/p/jxnc.php?id=nczx",
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?nctv=3",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jxnctv=3",
       "http://xbtv.net/index.php?m=content&c=player&catid=130&id=3168&f=mediaurl&n=2"
     ]
   },
