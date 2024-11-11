@@ -4889,5 +4889,13 @@
       "https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?source=pc&t=173128973090654&token=6125ebfcde94325b39e038e7763ecac4",
       "http://tool.liumingye.cn/m3u8/#https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?source=pc&t=173128973090654&token=6125ebfcde94325b39e038e7763ecac4"
     ]
+  },
+  {
+    "name": "测试频道07",
+    "groupName": "其他",
+    "urls": [
+      "https://cdi.ofiii.com/ocean/video/playlist/jarXe-EtsBs/master.m3u8",
+      "http://tool.liumingye.cn/m3u8/#https://cdi.ofiii.com/ocean/video/playlist/jarXe-EtsBs/master.m3u8"
+    ]
   }
 ]
