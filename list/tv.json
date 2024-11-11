@@ -5049,8 +5049,8 @@
     "name": "测试频道08",
     "groupName": "其他",
     "urls": [
-      "http://live.nbs.cn/channels/njtv/xwpdb/m3u8:nbs06",
-      "https://icedwatermelonjuice.github.io/Online-Player/?url=https://pull.kktv8.com/livekktv/128600025.flv"
+      "https://live.fanmingming.com/player/?vurl=https://pull.nicewifi.cn/live/xztv01.flv",
+      "https://icedwatermelonjuice.github.io/Online-Player/?url=https://pull.nicewifi.cn/live/xztv01.flv"
     ]
   }
 ]
