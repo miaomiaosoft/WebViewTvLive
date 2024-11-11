@@ -1845,6 +1845,83 @@
   
   
 
+
+  {
+    "name": "江苏卫视",
+    "groupName": "江苏",
+    "urls": [
+      "https://live.jstv.com/",
+      "https://live.jstv.com/?channelId=534"
+    ]
+  },
+  {
+    "name": "江苏城市",
+    "groupName": "江苏",
+    "urls": [
+      "https://live.jstv.com/",
+      "https://live.jstv.com/?channelId=535"
+    ]
+  },
+  {
+    "name": "江苏综艺",
+    "groupName": "江苏",
+    "urls": [
+      "https://live.jstv.com/",
+      "https://live.jstv.com/?channelId=556"
+    ]
+  },
+  {
+    "name": "江苏影视",
+    "groupName": "江苏",
+    "urls": [
+      "https://live.jstv.com/",
+      "https://live.jstv.com/?channelId=542"
+    ]
+  },
+  {
+    "name": "江苏新闻",
+    "groupName": "江苏",
+    "urls": [
+      "https://live.jstv.com/",
+      "https://live.jstv.com/?channelId=536"
+    ]
+  },
+  {
+    "name": "江苏教育",
+    "groupName": "江苏",
+    "urls": [
+      "https://live.jstv.com/",
+      "https://live.jstv.com/?channelId=545"
+    ]
+  },
+  {
+    "name": "江苏体育",
+    "groupName": "江苏",
+    "urls": [
+      "https://live.jstv.com/",
+      "https://live.jstv.com/?channelId=537"
+    ]
+  },
+  {
+    "name": "江苏国际",
+    "groupName": "江苏",
+    "urls": [
+      "https://live.jstv.com/",
+      "https://live.jstv.com/?channelId=544"
+    ]
+  },
+  {
+    "name": "优漫卡通",
+    "groupName": "江苏",
+    "urls": [
+      "https://live.jstv.com/",
+      "https://live.jstv.com/?channelId=543"
+    ]
+  },
+
+
+
+
   
   {
     "name": "民視",
@@ -1929,14 +2006,6 @@
       "https://www.youtube.com/embed/AEBeWMM1atA?autoplay=1",
       "https://fnc.ebc.net.tw/",
       "https://www.tiantianzhibo.net/player/index?id=5440lDG41CDeziB7SsRoChqYyIiSs14oznWXOe6Pw3W09l32yA"
-    ]
-  },
-  {
-    "name": "东森 娱乐",
-    "groupName": "台湾",
-    "urls": [
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii32",
-      "https://www.ofiii.com/channel/watch/ofiii32"
     ]
   },
   {
@@ -2290,14 +2359,6 @@
       "https://idx.gdplayertv.to/live-tv/tvbs-asia/?embed=1"
     ]
   },
-  {
-    "name": "TVBS 食尚玩家",
-    "groupName": "台湾",
-    "urls": [
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii31",
-      "https://www.ofiii.com/channel/watch/ofiii31"
-    ]
-  },
   
 
   
@@ -2429,22 +2490,6 @@
     ]
   },
   {
-    "name": "非凡 娱乐",
-    "groupName": "台湾",
-    "urls": [
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii47",
-      "https://www.ofiii.com/channel/watch/ofiii47"
-    ]
-  },
-  {
-    "name": "掏掏新闻",
-    "groupName": "台湾",
-    "urls": [
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii50",
-      "https://www.ofiii.com/channel/watch/ofiii50"
-    ]
-  },
-  {
     "name": "镜 新闻",
     "groupName": "台湾",
     "urls": [
@@ -2546,22 +2591,6 @@
     ]
   },
   {
-    "name": "Focus 风采戏剧",
-    "groupName": "台湾",
-    "urls": [
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii1048",
-      "https://www.ofiii.com/channel/watch/ofiii1048"
-    ]
-  },
-  {
-    "name": "Focus 探索新知",
-    "groupName": "台湾",
-    "urls": [
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii82",
-      "https://www.ofiii.com/channel/watch/ofiii82"
-    ]
-  },
-  {
     "name": "经典电影",
     "groupName": "台湾",
     "urls": [
@@ -2608,46 +2637,6 @@
     "groupName": "台湾",
     "urls": [
       "https://www.4gtv.tv/channel/4gtv-live006?set=4&ch=244"
-    ]
-  },
-  {
-    "name": "周星弛台",
-    "groupName": "台湾",
-    "urls": [
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii73",
-      "https://www.ofiii.com/channel/watch/ofiii73"
-    ]
-  },
-  {
-    "name": "欧飞电影",
-    "groupName": "台湾",
-    "urls": [
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii74",
-      "https://www.ofiii.com/channel/watch/ofiii74"
-    ]
-  },
-  {
-    "name": "欧飞喜剧",
-    "groupName": "台湾",
-    "urls": [
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii75",
-      "https://www.ofiii.com/channel/watch/ofiii75"
-    ]
-  },
-  {
-    "name": "哆啦Ａ梦1",
-    "groupName": "台湾",
-    "urls": [
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii22",
-      "https://www.ofiii.com/channel/watch/ofiii22"
-    ]
-  },
-  {
-    "name": "哆啦Ａ梦2",
-    "groupName": "台湾",
-    "urls": [
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii23",
-      "https://www.ofiii.com/channel/watch/ofiii23"
     ]
   },
   {
@@ -5012,6 +5001,14 @@
     "urls": [
       "https://cdi.ofiii.com/ocean/video/playlist/jarXe-EtsBs/master.m3u8",
       "http://tool.liumingye.cn/m3u8/#https://cdi.ofiii.com/ocean/video/playlist/jarXe-EtsBs/master.m3u8"
+    ]
+  },
+  {
+    "name": "测试频道08",
+    "groupName": "其他",
+    "urls": [
+      "http://live.nbs.cn/channels/njtv/xwpdb/m3u8:nbs06",
+      "http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8"
     ]
   }
 ]
