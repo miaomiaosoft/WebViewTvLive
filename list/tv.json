@@ -2081,21 +2081,24 @@
     "name": "淮安综合",
     "groupName": "江苏",
     "urls": [
-      "https://glive.habctv.com/tv/803?uin=1610"
+      "https://glive.habctv.com/tv/803?uin=1610",
+      "http://live1.habctv.com/hatv_xwzh/playlist.m3u8"
     ]
   },
   {
     "name": "淮安公共",
     "groupName": "江苏",
     "urls": [
-      "https://glive.habctv.com/tv/808?uin=1610"
+      "https://glive.habctv.com/tv/808?uin=1610",
+      "http://live1.habctv.com/ggpdsl/sd/live.m3u8"
     ]
   },
   {
     "name": "淮安影视",
     "groupName": "江苏",
     "urls": [
-      "https://glive.habctv.com/tv/902?uin=1610"
+      "https://glive.habctv.com/tv/902?uin=1610",
+      "http://live1.habctv.com/ysylsl/playlist.m3u8"
     ]
   },
 
@@ -2133,6 +2136,302 @@
     "urls": [
       "https://www.pznews.com/live/",
       "https://live1yc.0515yc.cn/sd/sd/live.m3u8"
+    ]
+  },
+
+
+
+
+
+  {
+    "name": "山东卫视",
+    "groupName": "山东",
+    "urls": [
+      "http://v.iqilu.com/live/sdtv/"
+    ]
+  },
+  {
+    "name": "山东齐鲁",
+    "groupName": "山东",
+    "urls": [
+      "http://v.iqilu.com/live/qlpd/"
+    ]
+  },
+  {
+    "name": "山东体育",
+    "groupName": "山东",
+    "urls": [
+      "http://v.iqilu.com/live/typd/"
+    ]
+  },
+  {
+    "name": "山东生活",
+    "groupName": "山东",
+    "urls": [
+      "http://v.iqilu.com/live/shpd/"
+    ]
+  },
+  {
+    "name": "山东综艺",
+    "groupName": "山东",
+    "urls": [
+      "http://v.iqilu.com/live/zypd/"
+    ]
+  },
+  {
+    "name": "山东新闻",
+    "groupName": "山东",
+    "urls": [
+      "http://v.iqilu.com/live/ggpd/"
+    ]
+  },
+  {
+    "name": "山东农科",
+    "groupName": "山东",
+    "urls": [
+      "http://v.iqilu.com/live/nkpd/"
+    ]
+  },
+  {
+    "name": "山东文旅",
+    "groupName": "山东",
+    "urls": [
+      "http://v.iqilu.com/live/yspd/"
+    ]
+  },
+  {
+    "name": "山东少儿",
+    "groupName": "山东",
+    "urls": [
+      "http://v.iqilu.com/live/sepd/"
+    ]
+  },
+
+
+
+  {
+    "name": "青岛-1",
+    "groupName": "山东",
+    "urls": [
+      "http://www.qtv.com.cn/live/tv/index.shtml",
+      "http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8"
+    ]
+  },
+  {
+    "name": "青岛-2",
+    "groupName": "山东",
+    "urls": [
+      "http://www.qtv.com.cn/live/tv/tv_qtv2.shtml";
+      "http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8"
+    ]
+  },
+  {
+    "name": "青岛-3",
+    "groupName": "山东",
+    "urls": [
+      "http://www.qtv.com.cn/live/tv/tv_qtv3.shtml",
+      "http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8"
+    ]
+  },
+  {
+    "name": "青岛-4",
+    "groupName": "山东",
+    "urls": [
+      "http://www.qtv.com.cn/live/tv/tv_qtv4.shtml",
+      "http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8"
+    ]
+  },
+  {
+    "name": "青岛-5",
+    "groupName": "山东",
+    "urls": [
+      "http://www.qtv.com.cn/live/tv/tv_qtv5.shtml",
+      "http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8"
+    ]
+  },
+  {
+    "name": "青岛-6",
+    "groupName": "山东",
+    "urls": [
+      "http://www.qtv.com.cn/live/tv/tv_qtv6.shtml",
+      "http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8"
+    ]
+  },
+
+
+  {
+    "name": "济南新闻",
+    "groupName": "山东",
+    "urls": [
+      "https://ijntv.cn/live/"
+    ]
+  },
+
+  
+  {
+    "name": "菏泽-1",
+    "groupName": "山东",
+    "urls": [
+      "http://www.hznet.tv/soms4/web/jwzt/player/live_program_list/live_program_list.jsp?channel_id=103",
+      "http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8",
+      "http://www.hznet.tv/live/"
+    ]
+  },
+  {
+    "name": "菏泽-2",
+    "groupName": "山东",
+    "urls": [
+      "http://www.hznet.tv/soms4/web/jwzt/player/live_program_list/live_program_list.jsp?channel_id=104",
+      "http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8"
+    ]
+  },
+  {
+    "name": "菏泽-3",
+    "groupName": "山东",
+    "urls": [
+      "http://www.hznet.tv/soms4/web/jwzt/player/live_program_list/live_program_list.jsp?channel_id=105",
+      "http://live.hznet.tv:1935/live/live3/500k/tzwj_video.m3u8"
+    ]
+  },
+
+
+  {
+    "name": "潍坊新闻综合",
+    "groupName": "山东",
+    "urls": [
+      "http://www.wfcmw.cn/wfrtv_pdLive.html",
+      "https://miaotunnel.flashcs6.eu.org/?sdwftv=1"
+    ]
+  },
+  {
+    "name": "潍坊经济生活",
+    "groupName": "山东",
+    "urls": [
+      "http://www.wfcmw.cn/wfrtv_pdLive.html",
+      "https://miaotunnel.flashcs6.eu.org/?sdwftv=2"
+    ]
+  },
+  {
+    "name": "潍坊影视综艺",
+    "groupName": "山东",
+    "urls": [
+      "http://www.wfcmw.cn/wfrtv_pdLive.html",
+      "https://miaotunnel.flashcs6.eu.org/?sdwftv=3"
+    ]
+  },
+  {
+    "name": "潍坊科教文旅",
+    "groupName": "山东",
+    "urls": [
+      "http://www.wfcmw.cn/wfrtv_pdLive.html",
+      "https://miaotunnel.flashcs6.eu.org/?sdwftv=4"
+    ]
+  },
+  {
+    "name": "潍坊奎文频道",
+    "groupName": "山东",
+    "urls": [
+      "http://www.wfcmw.cn/live/index.html",
+      "https://wfrtv-live-tz.wfcmw.cn:81/live/52-xsq-wfkuiwen.m3u8"
+    ]
+  },
+
+
+  {
+    "name": "东营综合",
+    "groupName": "山东",
+    "urls": [
+      "https://www.hhek.cn/folder4/folder3228/",
+      "https://stream.hhek.cn//xwzh//playlist.m3u8",
+      "https://www.dongyingnews.cn/v/tv/?id=0"
+    ]
+  },
+  {
+    "name": "东营公共",
+    "groupName": "山东",
+    "urls": [
+      "https://www.hhek.cn/folder4/folder38/",
+      "https://stream.hhek.cn/ggpd/playlist.m3u8",
+      "https://www.dongyingnews.cn/v/tv/?id=1"
+    ]
+  },
+  {
+    "name": "东营科教",
+    "groupName": "山东",
+    "urls": [
+      "https://www.hhek.cn/folder4/folder39/",
+      "https://stream.hhek.cn/dyjy/playlist.m3u8",
+      "https://www.dongyingnews.cn/v/tv/?id=2"
+    ]
+  },
+
+
+  {
+    "name": "日照综合",
+    "groupName": "山东",
+    "urls": [
+      "https://www.rzw.com.cn/folder247/folder2217",
+      "https://miaotunnel.flashcs6.eu.org/?sdrztv=1"
+    ]
+  },
+  {
+    "name": "日照科教",
+    "groupName": "山东",
+    "urls": [
+      "https://www.rzw.com.cn/folder247/folder2217",
+      "https://miaotunnel.flashcs6.eu.org/?sdrztv=2"
+    ]
+  },
+  {
+    "name": "日照公共",
+    "groupName": "山东",
+    "urls": [
+      "https://www.rzw.com.cn/folder247/folder2217",
+      "https://miaotunnel.flashcs6.eu.org/?sdrztv=3"
+    ]
+  },
+
+
+  {
+    "name": "枣庄新闻综合",
+    "groupName": "山东",
+    "urls": [
+      "http://www.sdzzwm.com/zhibo/show.php?itemid=1",
+      "http://stream.zztvzd.com/1/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "枣庄经济生活",
+    "groupName": "山东",
+    "urls": [
+      "http://www.sdzzwm.com/zhibo/show.php?itemid=2",
+      "http://stream.zztvzd.com/2/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "枣庄公共频道",
+    "groupName": "山东",
+    "urls": [
+      "http://www.sdzzwm.com/zhibo/show.php?itemid=3",
+      "http://stream.zztvzd.com/3/playlist.m3u8"
+    ]
+  },
+
+
+  {
+    "name": "聊城综合",
+    "groupName": "山东",
+    "urls": [
+      "http://www.lcxw.cn/kands/",
+      "http://file.lcxw.cn/nmip-media/channellive/channel101173/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "聊城民生",
+    "groupName": "山东",
+    "urls": [
+      "http://www.lcxw.cn/kands/",
+      "http://file.lcxw.cn/nmip-media/channellive/channel101246/playlist.m3u8"
     ]
   },
 
