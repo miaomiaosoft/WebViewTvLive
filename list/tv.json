@@ -554,7 +554,7 @@
     "name": "西藏卫视",
     "groupName": "卫视",
     "urls": [
-      "https://www.tiantianzhibo.net/player/play?id=5080aDfC19A_c3PkvJhEZzxOLvgPFTt8RgL5wdDZzb2Ntfk",
+      "http://php.jdshipin.com:8880/xztv.php?id=ws",
       "http://timetv.xyz/weishi/xizang.html"
     ]
   },
@@ -4805,8 +4805,8 @@
     "name": "测试频道06",
     "groupName": "其他",
     "urls": [
-      "https://www.youtube.com/watch?v=TCnaIE_SAtM",
-      "https://proxy.flashcs6.eu.org/web/https/watch.plex.tv/live-tv/channel/usa-today-news"
+      "https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?source=pc&t=173128973090654&token=6125ebfcde94325b39e038e7763ecac4",
+      "http://tool.liumingye.cn/m3u8/#https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?source=pc&t=173128973090654&token=6125ebfcde94325b39e038e7763ecac4"
     ]
   }
 ]
