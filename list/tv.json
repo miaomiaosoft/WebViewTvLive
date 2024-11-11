@@ -1383,7 +1383,8 @@
     "groupName": "江西",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002503",
-      "https://www.jxntv.cn/live/#/"
+      "https://www.jxntv.cn/live/#/",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jxtv=1"
     ]
   },
   {
@@ -1391,7 +1392,7 @@
     "groupName": "江西",
     "urls": [
       "https://www.jxntv.cn/live/#/jxtv2",
-      "https://miaotunnel.flashcs6.eu.org/?tv=jxtv2"
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jxtv=2"
     ]
   },
   {
@@ -1399,7 +1400,7 @@
     "groupName": "江西",
     "urls": [
       "https://www.jxntv.cn/live/#/jxtv3",
-      "https://miaotunnel.flashcs6.eu.org/?tv=jxtv3"
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jxtv=3"
     ]
   },
   {
@@ -1407,7 +1408,7 @@
     "groupName": "江西",
     "urls": [
       "https://www.jxntv.cn/live/#/jxtv4",
-      "https://miaotunnel.flashcs6.eu.org/?tv=jxtv4"
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jxtv=4"
     ]
   },
   {
@@ -1415,7 +1416,7 @@
     "groupName": "江西",
     "urls": [
       "https://www.jxntv.cn/live/#/jxtv5",
-      "https://miaotunnel.flashcs6.eu.org/?tv=jxtv5"
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jxtv=5"
     ]
   },
   {
@@ -1423,7 +1424,7 @@
     "groupName": "江西",
     "urls": [
       "https://www.jxntv.cn/live/#/jxtv6",
-      "https://miaotunnel.flashcs6.eu.org/?tv=jxtv6"
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jxtv=6"
     ]
   },
   {
@@ -1431,7 +1432,7 @@
     "groupName": "江西",
     "urls": [
       "https://www.jxntv.cn/live/#/jxtv7",
-      "https://miaotunnel.flashcs6.eu.org/?tv=jxtv7"
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jxtv=7"
     ]
   },
   {
@@ -1439,7 +1440,7 @@
     "groupName": "江西",
     "urls": [
       "https://www.jxntv.cn/live/#/jxtv8",
-      "https://miaotunnel.flashcs6.eu.org/?tv=jxtv8"
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jxtv=8"
     ]
   },
   {
@@ -1447,7 +1448,7 @@
     "groupName": "江西",
     "urls": [
       "https://www.jxntv.cn/live/#/tcpd",
-      "https://miaotunnel.flashcs6.eu.org/?tv=jxtv9"
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jxtv=9"
     ]
   },
   {
@@ -1455,7 +1456,7 @@
     "groupName": "江西",
     "urls": [
       "https://www.jxntv.cn/live/#/fsgw",
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?tv=jxtv10"
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jxtv=10"
     ]
   },
   {
