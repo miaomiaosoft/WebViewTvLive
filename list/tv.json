@@ -1932,6 +1932,14 @@
     ]
   },
   {
+    "name": "东森 娱乐",
+    "groupName": "台湾",
+    "urls": [
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii32",
+      "https://www.ofiii.com/channel/watch/ofiii32"
+    ]
+  },
+  {
     "name": "东森 戏剧",
     "groupName": "台湾",
     "urls": [
@@ -2013,6 +2021,7 @@
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/cti-asia-tv/?embed=1",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii36",
       "https://www.tiantianzhibo.net/player/index?id=d544E5VceRuK-8IR-R3AThSRc7hQRyb6EkxkfTtKkWHO3pcf_Q"
     ]
   },
@@ -2165,6 +2174,14 @@
     ]
   },
   {
+    "name": "公视 金奖",
+    "groupName": "台湾",
+    "urls": [
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii13",
+      "https://www.ofiii.com/channel/watch/ofiii13"
+    ]
+  },
+  {
     "name": "公视 Taiwan Plus",
     "groupName": "台湾",
     "urls": [
@@ -2271,6 +2288,14 @@
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/tvbs-asia/?embed=1"
+    ]
+  },
+  {
+    "name": "TVBS 食尚玩家",
+    "groupName": "台湾",
+    "urls": [
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii31",
+      "https://www.ofiii.com/channel/watch/ofiii31"
     ]
   },
   
@@ -2402,7 +2427,23 @@
       "https://idx.gdplayertv.to/live-tv/unique-business-news/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=0fc62kOTORsyvwYCjktvSYuw260tWwoL3QViHQ_IDpE2r7pmOA"
     ]
-  },  
+  },
+  {
+    "name": "非凡 娱乐",
+    "groupName": "台湾",
+    "urls": [
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii47",
+      "https://www.ofiii.com/channel/watch/ofiii47"
+    ]
+  },
+  {
+    "name": "掏掏新闻",
+    "groupName": "台湾",
+    "urls": [
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii50",
+      "https://www.ofiii.com/channel/watch/ofiii50"
+    ]
+  },
   {
     "name": "镜 新闻",
     "groupName": "台湾",
@@ -2455,6 +2496,23 @@
     ]
   },
   {
+    "name": "好消息1",
+    "groupName": "台湾",
+    "urls": [
+      "https://live.streamingfast.net/osmflivech1.m3u8",
+      "https://www.goodtv.tv/tv-channel?ch=1",
+      "https://tv2.wfuapp.com/2019/12/sindagmp-tv-live.html"
+    ]
+  },
+  {
+    "name": "好消息2",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.goodtv.tv/tv-channel?ch=2",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-ftv17"
+    ]
+  },
+  {
     "name": "阿里郎",
     "groupName": "台湾",
     "urls": [
@@ -2485,6 +2543,22 @@
     "urls": [
       "https://www.ofiii.com/channel/watch/litv-longturn22",
       "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-longturn22"
+    ]
+  },
+  {
+    "name": "Focus 风采戏剧",
+    "groupName": "台湾",
+    "urls": [
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii1048",
+      "https://www.ofiii.com/channel/watch/ofiii1048"
+    ]
+  },
+  {
+    "name": "Focus 探索新知",
+    "groupName": "台湾",
+    "urls": [
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii82",
+      "https://www.ofiii.com/channel/watch/ofiii82"
     ]
   },
   {
@@ -2537,17 +2611,59 @@
     ]
   },
   {
+    "name": "周星弛台",
+    "groupName": "台湾",
+    "urls": [
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii73",
+      "https://www.ofiii.com/channel/watch/ofiii73"
+    ]
+  },
+  {
+    "name": "欧飞电影",
+    "groupName": "台湾",
+    "urls": [
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii74",
+      "https://www.ofiii.com/channel/watch/ofiii74"
+    ]
+  },
+  {
+    "name": "欧飞喜剧",
+    "groupName": "台湾",
+    "urls": [
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii75",
+      "https://www.ofiii.com/channel/watch/ofiii75"
+    ]
+  },
+  {
+    "name": "哆啦Ａ梦1",
+    "groupName": "台湾",
+    "urls": [
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii22",
+      "https://www.ofiii.com/channel/watch/ofiii22"
+    ]
+  },
+  {
+    "name": "哆啦Ａ梦2",
+    "groupName": "台湾",
+    "urls": [
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii23",
+      "https://www.ofiii.com/channel/watch/ofiii23"
+    ]
+  },
+  {
     "name": "台湾国会1",
     "groupName": "台湾",
     "urls": [
-      "https://www.4gtv.tv/channel/4gtv-4gtv084?set=4&ch=170"
+      "https://www.4gtv.tv/channel/4gtv-4gtv084?set=4&ch=170",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=4gtv-4gtv084"
     ]
   },
   {
     "name": "台湾国会2",
     "groupName": "台湾",
     "urls": [
-      "https://www.4gtv.tv/channel/4gtv-4gtv085?set=4&ch=171"
+      "https://www.4gtv.tv/channel/4gtv-4gtv085?set=4&ch=171",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=4gtv-4gtv085"
     ]
   },
   {
@@ -2772,22 +2888,7 @@
       "https://idx.gdplayertv.to/live-tv/mtv-tw/?embed=1"
     ]
   },
-  {
-    "name": "GOOD TV1",
-    "groupName": "台湾",
-    "urls": [
-      "https://live.streamingfast.net/osmflivech1.m3u8",
-      "https://www.goodtv.tv/tv-channel?ch=1",
-      "https://tv2.wfuapp.com/2019/12/sindagmp-tv-live.html"
-    ]
-  },
-  {
-    "name": "GOOD TV2",
-    "groupName": "台湾",
-    "urls": [
-      "https://www.goodtv.tv/tv-channel?ch=2"
-    ]
-  },
+
     
 
 
