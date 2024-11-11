@@ -1464,6 +1464,7 @@
     "groupName": "江西",
     "urls": [
       "https://www.nctv.net.cn/live",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?nctv=1",
       "http://xbtv.net/index.php?m=content&c=player&catid=130&id=3170&f=mediaurl&n=2",
       "http://xbtv.net/tv/jx/ncxw.html"
     ]
@@ -1473,6 +1474,7 @@
     "groupName": "江西",
     "urls": [
       "http://p.123tv.cn/p/jxnc.php?id=ncds",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?nctv=2",
       "http://xbtv.net/index.php?m=content&c=player&catid=130&id=3169&f=mediaurl&n=2"
     ]
   },
@@ -1481,6 +1483,7 @@
     "groupName": "江西",
     "urls": [
       "http://p.123tv.cn/p/jxnc.php?id=nczx",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?nctv=3",
       "http://xbtv.net/index.php?m=content&c=player&catid=130&id=3168&f=mediaurl&n=2"
     ]
   },
