@@ -1920,6 +1920,48 @@
   },
 
 
+  {
+    "name": "南京综合",
+    "groupName": "江苏",
+    "urls": [
+      "http://www.nbs.cn/live/",
+      "http://live.nbs.cn/channels/njtv/xwpdb/m3u8:nbs06"
+    ]
+  },
+  {
+    "name": "南京生活",
+    "groupName": "江苏",
+    "urls": [
+      "http://live.nbs.cn/channels/njtv/sbsh/m3u8:nbs24",
+      "http://live.nbs.cn/channels/njtv/sbsh/nbs24.m3u8"
+    ]
+  },
+  {
+    "name": "南京教科",
+    "groupName": "江苏",
+    "urls": [
+      "http://live.nbs.cn/channels/njtv/jkpd/m3u8:nbs06",
+      "http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8"
+    ]
+  },
+  {
+    "name": "南京纪录",
+    "groupName": "江苏",
+    "urls": [
+      "http://live.nbs.cn/channels/njtv/wljl/m3u8:nbs24",
+      "http://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8"
+    ]
+  },
+  {
+    "name": "南京少儿",
+    "groupName": "江苏",
+    "urls": [
+      "http://live.nbs.cn/channels/njtv/sepd/m3u8:nbs23",
+      "http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8"
+    ]
+  },
+
+
 
 
   
@@ -5008,7 +5050,7 @@
     "groupName": "其他",
     "urls": [
       "http://live.nbs.cn/channels/njtv/xwpdb/m3u8:nbs06",
-      "http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8"
+      "http://61.155.203.93:5021/live/1?random=1731331426457&needkeyframeinfo=1"
     ]
   }
 ]
