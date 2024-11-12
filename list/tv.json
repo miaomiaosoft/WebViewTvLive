@@ -5799,5 +5799,13 @@
       "https://live.fanmingming.com/player/?vurl=https://pull.nicewifi.cn/live/xztv01.flv",
       "https://icedwatermelonjuice.github.io/Online-Player/?url=https://pull.nicewifi.cn/live/xztv01.flv"
     ]
+  },
+  {
+    "name": "测试频道09",
+    "groupName": "其他",
+    "urls": [
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCnBeKp96tQ0DD6s6D6BZGig",
+      "https://icedwatermelonjuice.github.io/Online-Player/?url=https://pull.nicewifi.cn/live/xztv01.flv"
+    ]
   }
 ]
