@@ -5123,35 +5123,35 @@
     "name": "B站 西游记后传",
     "groupName": "其他",
     "urls": [
-      "https://live.bilibili.com/30937742"
+      "https://live.bilibili.com/h5/30937742"
     ]
   },
   {
     "name": "B站 武林外传",
     "groupName": "其他",
     "urls": [
-      "https://live.bilibili.com/9275042"
+      "https://live.bilibili.com/h5/9275042"
     ]
   },
   {
     "name": "B站 美食下饭",
     "groupName": "其他",
     "urls": [
-      "https://live.bilibili.com/27761872"
+      "https://live.bilibili.com/h5/27761872"
     ]
   },
   {
     "name": "B站 灵异事件",
     "groupName": "其他",
     "urls": [
-      "https://live.bilibili.com/32006855"
+      "https://live.bilibili.com/h5/32006855"
     ]
   },
   {
     "name": "B站 沙雕动画",
     "groupName": "其他",
     "urls": [
-      "https://live.bilibili.com/1839980222"
+      "https://live.bilibili.com/h5/1839980222"
     ]
   },
 
@@ -5161,43 +5161,42 @@
     "name": "斗鱼 高清影院",
     "groupName": "其他",
     "urls": [
-      "https://www.douyu.com/12192607",
-      "https://m.douyu.com/12192607?dyshid=0-2ea14434fc0a45767f9ff437000517p1&dyshci=208"
+      "https://m.douyu.com/12192607"
     ]
   },
   {
     "name": "斗鱼 镖客梦回",
     "groupName": "其他",
     "urls": [
-      "https://www.douyu.com/8896151"
+      "https://m.douyu.com/8896151"
     ]
   },
   {
     "name": "斗鱼 科幻动作",
     "groupName": "其他",
     "urls": [
-      "https://www.douyu.com/4332"
+      "https://m.douyu.com/4332"
     ]
   },
   {
     "name": "斗鱼 漫威电影",
     "groupName": "其他",
     "urls": [
-      "https://www.douyu.com/6140589"
+      "https://m.douyu.com/6140589"
     ]
   },
   {
     "name": "斗鱼 史上最佳",
     "groupName": "其他",
     "urls": [
-      "https://www.douyu.com/8770422"
+      "https://m.douyu.com/8770422"
     ]
   },
   {
     "name": "斗鱼 蓝光原画",
     "groupName": "其他",
     "urls": [
-      "https://www.douyu.com/747764",
+      "https://m.douyu.com/747764",
       "https://bharadwajpro.github.io/m3u8-player/player/#http://epg.112114.xyz/douyu/747764"
     ]
   },
@@ -5205,84 +5204,84 @@
     "name": "斗鱼 豆瓣高分",
     "groupName": "其他",
     "urls": [
-      "https://www.douyu.com/52787"
+      "https://m.douyu.com/52787"
     ]
   },
   {
     "name": "斗鱼 小众电影",
     "groupName": "其他",
     "urls": [
-      "https://www.douyu.com/36337"
+      "https://m.douyu.com/36337"
     ]
   },
   {
     "name": "斗鱼 霍格沃茨",
     "groupName": "其他",
     "urls": [
-      "https://www.douyu.com/8814650"
+      "https://m.douyu.com/8814650"
     ]
   },
   {
     "name": "斗鱼 灾难恐怖",
     "groupName": "其他",
     "urls": [
-      "https://www.douyu.com/263824"
+      "https://m.douyu.com/263824"
     ]
   },
   {
     "name": "斗鱼 小宇高清",
     "groupName": "其他",
     "urls": [
-      "https://www.douyu.com/323876"
+      "https://m.douyu.com/323876"
     ]
   },
   {
     "name": "斗鱼 林正英",
     "groupName": "其他",
     "urls": [
-      "https://www.douyu.com/218859"
+      "https://m.douyu.com/218859"
     ]
   },
   {
     "name": "斗鱼 欧美大片1",
     "groupName": "其他",
     "urls": [
-      "https://www.douyu.com/20415"
+      "https://m.douyu.com/20415"
     ]
   },
   {
     "name": "斗鱼 欧美大片2",
     "groupName": "其他",
     "urls": [
-      "https://www.douyu.com/2793084"
+      "https://m.douyu.com/2793084"
     ]
   },
   {
     "name": "斗鱼 欧美大片3",
     "groupName": "其他",
     "urls": [
-      "https://www.douyu.com/9249162"
+      "https://m.douyu.com/9249162"
     ]
   },
   {
     "name": "斗鱼 粤语电影2",
     "groupName": "其他",
     "urls": [
-      "https://www.douyu.com/6566671"
+      "https://m.douyu.com/6566671"
     ]
   },
   {
     "name": "斗鱼 粤语电影3",
     "groupName": "其他",
     "urls": [
-      "https://www.douyu.com/1226741"
+      "https://m.douyu.com/1226741"
     ]
   },
   {
     "name": "斗鱼 贝爷影厅",
     "groupName": "其他",
     "urls": [
-      "https://www.douyu.com/252802"
+      "https://m.douyu.com/252802"
     ]
   },
   
