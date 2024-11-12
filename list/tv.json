@@ -2851,7 +2851,6 @@
     "name": "东森财经",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/AEBeWMM1atA?autoplay=1",
       "https://fnc.ebc.net.tw/",
       "https://www.tiantianzhibo.net/player/index?id=5440lDG41CDeziB7SsRoChqYyIiSs14oznWXOe6Pw3W09l32yA"
     ]
@@ -2921,7 +2920,7 @@
     "name": "中天新闻1",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/oIgbl7t0S_w?autoplay=1",
+      "https://www.youtube.com/embed/vr3XyVCR4T0?autoplay=1",
       "https://tv2.wfuapp.com/2019/12/ctitv-news-live.html"
     ]
   },
@@ -2929,7 +2928,7 @@
     "name": "中天新闻2",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/WPfPjbOLNfE?autoplay=1",
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCwbtZdhuhANYFNRPa99-16Q",
       "https://tv2.wfuapp.com/2019/12/ctitv-news-live.html"
     ]
   },
@@ -3028,7 +3027,7 @@
     "name": "中视新闻",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/TCnaIE_SAtM?autoplay=1",
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCmH4q-YjeazayYCVHHkGAMA",
       "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=4gtv-4gtv074",
       "https://www.ofiii.com/channel/watch/4gtv-4gtv074",
       "https://tv2.wfuapp.com/2019/12/ctv-news-live.html"
@@ -3086,7 +3085,7 @@
     "name": "公视新闻",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/quwqlazU-c8?autoplay=1",
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCexpzYDEnfmAvPSfG4xbcjA",
       "https://tv2.wfuapp.com/2023/07/pts-news-live.html"
     ]
   },
@@ -3351,7 +3350,7 @@
     "name": "Now新闻",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/hzwhJwHJFik?autoplay=1",
+      "https://www.youtube.com/embed/wxvqQIPnPh4?autoplay=1",
       "https://tv2.wfuapp.com/2024/07/nownews-ai-live.html"
     ]
   },
@@ -3359,7 +3358,7 @@
     "name": "镜新闻",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/5n0y6b0Q25o?autoplay=1",
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UC4LjkybVKXCDlneVXlKAbmw",
       "https://tv2.wfuapp.com/2022/02/mnews-live.html"
     ]
   },
@@ -3372,6 +3371,7 @@
     "groupName": "台湾",
     "urls": [
       "https://www.youtube.com/embed/MIqUplvSRWA?autoplay=1",
+      "https://pulltv1.wanfudaluye.com/live/tv1.m3u8",
       "https://www.tiantianzhibo.net/gangaotai/daai1tai.html",
       "https://www.4gtv.tv/channel/4gtv-live007?set\u003d4\u0026ch\u003d209"
     ]
@@ -3381,6 +3381,7 @@
     "groupName": "台湾",
     "urls": [
       "https://www.youtube.com/embed/DTNkEm6jaqQ?autoplay=1",
+      "https://pulltv2.wanfudaluye.com/live/tv2.m3u8",
       "https://tv2.wfuapp.com/2019/12/daai-2.html"
     ]
   },
@@ -3397,6 +3398,7 @@
     "name": "好消息2",
     "groupName": "台湾",
     "urls": [
+      "https://live.streamingfast.net/osmflivech2.m3u8",
       "https://www.goodtv.tv/tv-channel?ch=2",
       "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-ftv17"
     ]
@@ -3500,7 +3502,7 @@
     ]
   },
   {
-    "name": "台湾立法",
+    "name": "台湾立法院",
     "groupName": "台湾",
     "urls": [
       "https://www.youtube.com/embed/tDg3bJFYLzI?autoplay=1",
@@ -3522,7 +3524,7 @@
     "name": "信大电视",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/AyMuf10q5us?autoplay=1",
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCZIvbuuP-xGgMG-_0tLLadg",
       "https://tv2.wfuapp.com/2019/12/sindagmp-tv-live.html"
     ]
   },
@@ -3531,14 +3533,14 @@
     "groupName": "台湾",
     "urls": [
       "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
-      "https://tv2.wfuapp.com/2019/12/sindagmp-tv-live.html"
+      "http://www.dalitv.com.tw/?PAGE=live"
     ]
   },
   {
     "name": "诚心电视",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/NayHMzsMLyg?autoplay=1",
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCiqQ09Js9wGNUo3QNNaiYgg",
       "https://tv2.wfuapp.com/2019/12/chengsin-tv-live.html"
     ]
   },
@@ -3546,7 +3548,7 @@
     "name": "海豚综合",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/nll0myKS3vU?autoplay=1",
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCUz3LiE7QuRGDGZ2DYciIuA",
       "https://tv2.wfuapp.com/2019/12/dolphin-tv-live.html"
     ]
   },
@@ -3554,7 +3556,7 @@
     "name": "双子卫视",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/wK6UTmRyZXU?autoplay=1",
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCsx_6Y6TZ4aA8F1LEGBRcow",
       "https://tv2.wfuapp.com/?title=%E9%9B%99%E5%AD%90%E8%A1%9B%E8%A6%96%E9%9B%BB%E8%A6%96%E5%8F%B0(%E7%9B%B4%E6%92%AD)&channel=UCsx_6Y6TZ4aA8F1LEGBRcow&group=%E7%B6%9C%E5%90%88"
     ]
   },
@@ -3562,7 +3564,7 @@
     "name": "桐瑛虎尾",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/Bfg6ehChLbI?autoplay=1",
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCwDxsoF4QrpBSyDLfFQfXXw",
       "https://tv2.wfuapp.com/?title=%E6%A1%90%E7%91%9B%E8%99%8E%E5%B0%BE%E9%9B%BB%E8%A6%96%E8%87%BA(%E7%9B%B4%E6%92%AD)&channel=UCwDxsoF4QrpBSyDLfFQfXXw&group=%E7%B6%9C%E5%90%88"
     ]
   },
@@ -3570,7 +3572,7 @@
     "name": "桐瑛台南",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/m6c1wVvXEwE?autoplay=1",
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCnBeKp96tQ0DD6s6D6BZGig",
       "https://tv2.wfuapp.com/?title=%E6%A1%90%E7%91%9B%E5%8F%B0%E5%8D%97%E9%9B%BB%E8%A6%96%E8%87%BA(%E7%9B%B4%E6%92%AD)&channel=UCnBeKp96tQ0DD6s6D6BZGig&group=%E7%B6%9C%E5%90%88"
     ]
   },
@@ -3578,6 +3580,7 @@
     "name": "地震监测",
     "groupName": "台湾",
     "urls": [
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCa32OtZqhDqDqCHeWO477qg",
       "https://www.youtube.com/embed/Owke6Quk7T0?autoplay=1"
     ]
   },
@@ -3748,7 +3751,7 @@
     "name": "凤凰资讯",
     "groupName": "港澳",
     "urls": [
-      "https://www.youtube.com/embed/bGIIO3HuNyI?autoplay=1",
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCd9dPMYgV9-IQaZG491TaRw",
       "https://tv2.wfuapp.com/2019/08/phoenix-media.html",
       "https://www.fengshows.com/live"
     ]
@@ -4054,7 +4057,7 @@
     "name": "ABC NEWS",
     "groupName": "海外",
     "urls": [
-      "https://www.youtube.com/embed/mvUkiILTqI?autoplay=1",
+      "https://www.youtube.com/embed/-mvUkiILTqI?autoplay=1",
       "https://tv2.wfuapp.com/2020/04/abc-news-live.html"
     ]
   },
@@ -4078,7 +4081,7 @@
     "name": "NBC NEWS",
     "groupName": "海外",
     "urls": [
-      "https://www.youtube.com/embed/EBlBuTVomao?autoplay=1",
+      "https://www.youtube.com/embed/-62KsrYPLGk?autoplay=1",
       "https://tv2.wfuapp.com/2020/11/nbc-news-live.html"
     ]
   },
@@ -4086,7 +4089,7 @@
     "name": "CNA NEWS",
     "groupName": "海外",
     "urls": [
-      "https://www.youtube.com/embed/XWq5kBlakcQ?autoplay=1",
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UC83jt4dlz1Gjl58fzQrrKZg",
       "https://tv2.wfuapp.com/2019/12/cna-news-live.html"
     ]
   },
@@ -4102,7 +4105,7 @@
     "name": "Bloomberg",
     "groupName": "海外",
     "urls": [
-      "https://www.youtube.com/embed/iyOq8DhaMYw?autoplay=1",
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCIALMKvObZNtJ6AmdCLP7Lg",
       "https://tv2.wfuapp.com/2019/12/bloomberg-news-live.html"
     ]
   },
@@ -4110,7 +4113,7 @@
     "name": "Euronews",
     "groupName": "海外",
     "urls": [
-      "https://www.youtube.com/embed/pykpO5kQJ98?autoplay=1",
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCSrZ3UV4jOidv8ppoVuvW9Q",
       "https://tv2.wfuapp.com/2019/12/euronews-live.html"
     ]
   },
@@ -4118,7 +4121,7 @@
     "name": "FRANCE 24",
     "groupName": "海外",
     "urls": [
-      "https://www.youtube.com/embed/Ap-UM1O9RBU?autoplay=1",
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCQfwfsi5VrQ8yKZ-UWmAEFg",
       "https://tv2.wfuapp.com/2020/05/france-24-live.html"
     ]
   },
@@ -4126,7 +4129,7 @@
     "name": "Al Jazeera",
     "groupName": "海外",
     "urls": [
-      "https://www.youtube.com/embed/gCNeDWCI0vo?autoplay=1",
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCNye-wNBqNL5ZzHSJj3l8Bg",
       "https://tv2.wfuapp.com/2006/11/al-jazeera-english.html"
     ]
   },
@@ -4135,8 +4138,8 @@
     "groupName": "海外",
     "urls": [
       "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8",
+      "https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/zh/playlist.m3u8",
       "https://www3.nhk.or.jp/nhkworld/common/player/tv/cclive/embed/embed.html?movie=truel&lang=zh",
-      "https://www.youtube.com/embed/f0lYkdA-Gtw?autoplay=1",
       "https://tv2.wfuapp.com/2020/01/nhk.html"
     ]
   },
@@ -4160,7 +4163,7 @@
     "name": "NTV NEWS",
     "groupName": "海外",
     "urls": [
-      "https://www.youtube.com/embed/VDhPBOOSDlw?autoplay=1",
+      "https://www.youtube.com/embed/L6h5VKq7ZV0?autoplay=1",
       "https://tv2.wfuapp.com/2024/08/ntv-news.html"
     ]
   },
@@ -4183,7 +4186,7 @@
     "name": "YTN NEWS",
     "groupName": "海外",
     "urls": [
-      "https://www.youtube.com/embed/jm6XDO2LQbY?autoplay=1",
+      "https://www.youtube.com/embed/uCXxf0a8x30?autoplay=1",
       "https://tv2.wfuapp.com/2019/12/ytn-news-live.html"
     ]
   },
@@ -4191,7 +4194,7 @@
     "name": "KBS NEWS",
     "groupName": "海外",
     "urls": [
-      "https://www.youtube.com/embed/CzzT5NlpzPw?autoplay=1",
+      "https://www.youtube.com/embed/9yK3OHkE5yM?autoplay=1",
       "https://tv2.wfuapp.com/2021/10/kbs-world-tv.html"
     ]
   },
