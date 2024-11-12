@@ -2899,16 +2899,34 @@
     "name": "东森购物1",
     "groupName": "台湾",
     "urls": [
-      "https://www.ofiii.com/channel/watch/4gtv-4gtv102",
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=4gtv-4gtv102"
+      "https://www.youtube.com/embed/ViJ3XiN6Q3M?autoplay=1",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=4gtv-4gtv102",
+      "https://www.ofiii.com/channel/watch/4gtv-4gtv102"
     ]
   },
   {
     "name": "东森购物2",
     "groupName": "台湾",
     "urls": [
-      "https://www.ofiii.com/channel/watch/4gtv-4gtv103",
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=4gtv-4gtv103"
+      "https://www.youtube.com/embed/_Vlzn9qAHD4?autoplay=1",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=4gtv-4gtv102"
+    ]
+  },
+  {
+    "name": "东森购物3",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/Z50JFuNgvB0?autoplay=1",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=4gtv-4gtv103",
+      "https://www.ofiii.com/channel/watch/4gtv-4gtv103"
+    ]
+  },
+  {
+    "name": "东森购物5",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/u0NYyH3ZesE?autoplay=1",
+      "https://tv2.wfuapp.com/2019/12/ehs-shopping-live-ch60.html"
     ]
   },
   
@@ -3171,7 +3189,9 @@
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/tvbs/?embed=1",
-      "https://www.tiantianzhibo.net/player/index?id=ab60w7_p7ftzmMkWv7OW9MiV6_5Tii9Ol48Pfji7jhqMu9i4EA"
+      "https://www.tiantianzhibo.net/player/index?id=ab60w7_p7ftzmMkWv7OW9MiV6_5Tii9Ol48Pfji7jhqMu9i4EA",
+      "https://www.youtube.com/embed/o_-hSMgpAzs?autoplay=1",
+      "https://tv2.wfuapp.com/2020/10/tvbs-56-live.html"
     ]
   },
   {
@@ -3180,6 +3200,7 @@
     "urls": [
       "https://idx.gdplayertv.to/live-tv/tvbs-news/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=6023fEr-K5AqJnRMLI4Ryix9X_mCm_a0muZmXf6bQkSKbwwfDQ",
+      "https://www.youtube.com/embed/m_dhMSvUCIc?autoplay=1",
       "https://tv2.wfuapp.com/2019/12/tvbs-news-live.html"
     ]
   },
@@ -3329,7 +3350,7 @@
   },
   
   
-  
+
   {
     "name": "年代新闻",
     "groupName": "台湾",
@@ -3360,6 +3381,14 @@
     "urls": [
       "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UC4LjkybVKXCDlneVXlKAbmw",
       "https://tv2.wfuapp.com/2022/02/mnews-live.html"
+    ]
+  },
+  {
+    "name": "壹新闻",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UC6hWBu1hfbNNk8Yeokd5aZQ",
+      "https://tv2.wfuapp.com/2019/12/weekly-program-rank.html"
     ]
   },
 
@@ -3577,11 +3606,27 @@
     ]
   },
   {
+    "name": "番薯电视",
+    "groupName": "台湾",
+    "urls": [
+      "http://www.fanstv.tw/fans.html",
+      "https://tv2.wfuapp.com/2019/12/fans-tv-live.html"
+    ]
+  },
+  {
     "name": "地震监测",
     "groupName": "台湾",
     "urls": [
       "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCa32OtZqhDqDqCHeWO477qg",
       "https://www.youtube.com/embed/Owke6Quk7T0?autoplay=1"
+    ]
+  },
+  {
+    "name": "小猪佩奇",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCRi0sw4PDw-C2C7fS9hrx5Q",
+      "https://tv2.wfuapp.com/2020/11/peppa-pig-live.html"
     ]
   },
   {
@@ -5116,7 +5161,8 @@
     "name": "斗鱼 高清影院",
     "groupName": "其他",
     "urls": [
-      "https://www.douyu.com/12192607"
+      "https://www.douyu.com/12192607",
+      "https://m.douyu.com/12192607?dyshid=0-2ea14434fc0a45767f9ff437000517p1&dyshci=208"
     ]
   },
   {
