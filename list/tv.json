@@ -5123,6 +5123,7 @@
     "name": "B站 西游记后传",
     "groupName": "其他",
     "urls": [
+      "https://live.bilibili.com/30937742",
       "https://live.bilibili.com/h5/30937742"
     ]
   },
@@ -5130,28 +5131,108 @@
     "name": "B站 武林外传",
     "groupName": "其他",
     "urls": [
-      "https://live.bilibili.com/h5/9275042"
+      "https://live.bilibili.com/9275042"
+    ]
+  },
+  {
+    "name": "B站 爱情公寓",
+    "groupName": "其他",
+    "urls": [
+      "https://live.bilibili.com/1898937177"
+    ]
+  },
+  {
+    "name": "B站 还珠格格",
+    "groupName": "其他",
+    "urls": [
+      "https://live.bilibili.com/22822868"
+    ]
+  },
+  {
+    "name": "B站 包青天",
+    "groupName": "其他",
+    "urls": [
+      "https://live.bilibili.com/32224311"
+    ]
+  },
+  {
+    "name": "B站 狄仁杰",
+    "groupName": "其他",
+    "urls": [
+      "https://live.bilibili.com/22705963",
+      "https://live.bilibili.com/30897925"
+    ]
+  },
+  {
+    "name": "B站 弹幕猜歌",
+    "groupName": "其他",
+    "urls": [
+      "https://live.bilibili.com/1820708691"
+    ]
+  },
+  {
+    "name": "B站 喵喵点歌",
+    "groupName": "其他",
+    "urls": [
+      "https://live.bilibili.com/324298"
+    ]
+  },
+  {
+    "name": "B站 韩舞点播",
+    "groupName": "其他",
+    "urls": [
+      "https://live.bilibili.com/27365321",
+      "https://live.bilibili.com/32390151"
+    ]
+  },
+  {
+    "name": "B站 弹幕种田",
+    "groupName": "其他",
+    "urls": [
+      "https://live.bilibili.com/23585545"
     ]
   },
   {
     "name": "B站 美食下饭",
     "groupName": "其他",
     "urls": [
-      "https://live.bilibili.com/h5/27761872"
+      "https://live.bilibili.com/27761872"
     ]
   },
   {
     "name": "B站 灵异事件",
     "groupName": "其他",
     "urls": [
-      "https://live.bilibili.com/h5/32006855"
+      "https://live.bilibili.com/32006855"
     ]
   },
   {
     "name": "B站 沙雕动画",
     "groupName": "其他",
     "urls": [
-      "https://live.bilibili.com/h5/1839980222"
+      "https://live.bilibili.com/1839980222"
+    ]
+  },
+  {
+    "name": "B站 海绵宝宝",
+    "groupName": "其他",
+    "urls": [
+      "https://live.bilibili.com/26863308"
+    ]
+  },
+  {
+    "name": "B站 植物大战僵尸杂交版",
+    "groupName": "其他",
+    "urls": [
+      "https://live.bilibili.com/26502285"
+    ]
+  },
+  {
+    "name": "B站 防守僵尸多人合作版",
+    "groupName": "其他",
+    "urls": [
+      "https://live.bilibili.com/1091450",
+      "https://live.bilibili.com/31164234"
     ]
   },
 
@@ -5161,7 +5242,8 @@
     "name": "斗鱼 高清影院",
     "groupName": "其他",
     "urls": [
-      "https://m.douyu.com/12192607"
+      "https://m.douyu.com/12192607",
+      "https://m.douyu.com/12192607?dyshid=0-2ea14434fc0a45767f9ff437000517p1&dyshci=208"
     ]
   },
   {
@@ -5169,6 +5251,20 @@
     "groupName": "其他",
     "urls": [
       "https://m.douyu.com/8896151"
+    ]
+  },
+  {
+    "name": "斗鱼 僵尸灾难1",
+    "groupName": "其他",
+    "urls": [
+      "https://m.douyu.com/310926"
+    ]
+  },
+  {
+    "name": "斗鱼 僵尸灾难2",
+    "groupName": "其他",
+    "urls": [
+      "https://m.douyu.com/6091425"
     ]
   },
   {
@@ -5222,10 +5318,24 @@
     ]
   },
   {
-    "name": "斗鱼 灾难恐怖",
+    "name": "斗鱼 灾难恐怖1",
     "groupName": "其他",
     "urls": [
       "https://m.douyu.com/263824"
+    ]
+  },
+  {
+    "name": "斗鱼 灾难恐怖2",
+    "groupName": "其他",
+    "urls": [
+      "https://m.douyu.com/12068394"
+    ]
+  },
+  {
+    "name": "斗鱼 灾难恐怖3",
+    "groupName": "其他",
+    "urls": [
+      "https://m.douyu.com/1165374"
     ]
   },
   {
@@ -5236,10 +5346,17 @@
     ]
   },
   {
-    "name": "斗鱼 林正英",
+    "name": "斗鱼 林正英1",
     "groupName": "其他",
     "urls": [
       "https://m.douyu.com/218859"
+    ]
+  },
+  {
+    "name": "斗鱼 林正英2",
+    "groupName": "其他",
+    "urls": [
+      "https://m.douyu.com/8009547"
     ]
   },
   {
@@ -5282,6 +5399,55 @@
     "groupName": "其他",
     "urls": [
       "https://m.douyu.com/252802"
+    ]
+  },
+  {
+    "name": "斗鱼 童年神剧",
+    "groupName": "其他",
+    "urls": [
+      "https://m.douyu.com/1006179"
+    ]
+  },
+  {
+    "name": "斗鱼 动漫合集",
+    "groupName": "其他",
+    "urls": [
+      "https://m.douyu.com/7620081"
+    ]
+  },
+  {
+    "name": "斗鱼 沙雕动画",
+    "groupName": "其他",
+    "urls": [
+      "https://m.douyu.com/11184164"
+    ]
+  },
+  {
+    "name": "斗鱼 海绵宝宝1",
+    "groupName": "其他",
+    "urls": [
+      "https://m.douyu.com/3949681"
+    ]
+  },
+  {
+    "name": "斗鱼 海绵宝宝2",
+    "groupName": "其他",
+    "urls": [
+      "https://m.douyu.com/7528160"
+    ]
+  },
+  {
+    "name": "斗鱼 成龙历险",
+    "groupName": "其他",
+    "urls": [
+      "https://m.douyu.com/2287949"
+    ]
+  },
+  {
+    "name": "斗鱼 侦探柯南",
+    "groupName": "其他",
+    "urls": [
+      "https://m.douyu.com/1783144"
     ]
   },
   
