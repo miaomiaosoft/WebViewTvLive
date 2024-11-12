@@ -597,6 +597,14 @@
     ]
   },
   {
+    "name": "黄河卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/4tlze0m.m3u8",
+      "https://www.sxrtv.com/tv/index.shtml"
+    ]
+  },
+  {
     "name": "农林卫视",
     "groupName": "卫视",
     "urls": [
@@ -631,6 +639,7 @@
     "groupName": "卫视",
     "urls": [
       "http://tv.hnntv.cn/live/sslive/",
+      "https://live.douyin.com/317636109251",
       "http://timetv.xyz/weishi/sansha.html"
     ]
   },
