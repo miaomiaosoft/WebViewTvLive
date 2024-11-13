@@ -2468,7 +2468,7 @@
     "groupName": "山东",
     "urls": [
       "https://www.rzw.com.cn/folder247/folder2217",
-      "https://miaotunnel.flashcs6.eu.org/?sdrztv=1"
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?sdrztv=1"
     ]
   },
   {
@@ -2476,7 +2476,7 @@
     "groupName": "山东",
     "urls": [
       "https://www.rzw.com.cn/folder247/folder2217",
-      "https://miaotunnel.flashcs6.eu.org/?sdrztv=2"
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?sdrztv=2"
     ]
   },
   {
@@ -2484,7 +2484,7 @@
     "groupName": "山东",
     "urls": [
       "https://www.rzw.com.cn/folder247/folder2217",
-      "https://miaotunnel.flashcs6.eu.org/?sdrztv=3"
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?sdrztv=3"
     ]
   },
 
@@ -3850,7 +3850,7 @@
     "name": "DMAX",
     "groupName": "台湾",
     "urls": [
-      "https://www.parsatv.com/embed.php?name=DMAX&auto=false",
+      "https://www.parsatv.com/embed.php?name=DMAX&auto=true",
       "https://www.tiantianzhibo.net/player/index?id=94afxFOHiDSJSuNlsPwiRRtx3zf29RqtOLYdJIxNa0azkfIrKw"
     ]
   },
