@@ -2892,6 +2892,7 @@
     "groupName": "台湾",
     "urls": [
       "https://www.tiantianzhibo.net/player/index?id=8d89ITGSf0YWWa2GH1gY2jel3z4ciyTwW2dZKbQq43ZUD73YCg",
+      "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165147&pathid=1",
       "https://tv2.wfuapp.com/2019/12/yoyo-tv-live.html"
     ]
   },
@@ -3348,6 +3349,32 @@
       "https://www.tiantianzhibo.net/player/index?id=e407byADA9aLRyQCOHeS__8Zk4-goUHk6Dr0fOLnkifdOO9qVg"
     ]
   },
+
+
+  {
+    "name": "Now新闻1",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/wxvqQIPnPh4?autoplay=1",
+      "https://tv2.wfuapp.com/2024/07/nownews-ai-live.html"
+    ]
+  },
+  {
+    "name": "Now新闻2",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/5PzflKT_OkM?autoplay=1",
+      "https://tv2.wfuapp.com/2024/07/nownews-ai-live.html"
+    ]
+  },
+  {
+    "name": "Now新闻3",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/F7U8ci-6RWs?autoplay=1",
+      "https://tv2.wfuapp.com/2024/07/nownews-ai-live.html"
+    ]
+  },
   
   
 
@@ -3365,14 +3392,6 @@
     "urls": [
       "https://idx.gdplayertv.to/live-tv/unique-business-news/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=0fc62kOTORsyvwYCjktvSYuw260tWwoL3QViHQ_IDpE2r7pmOA"
-    ]
-  },
-  {
-    "name": "Now新闻",
-    "groupName": "台湾",
-    "urls": [
-      "https://www.youtube.com/embed/wxvqQIPnPh4?autoplay=1",
-      "https://tv2.wfuapp.com/2024/07/nownews-ai-live.html"
     ]
   },
   {
@@ -3805,7 +3824,6 @@
     "name": "凤凰香港",
     "groupName": "港澳",
     "urls": [
-      "http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8",
       "https://tv2.wfuapp.com/2019/08/phoenix-media.html",
       "https://www.fengshows.com/hongkongv"
     ]
