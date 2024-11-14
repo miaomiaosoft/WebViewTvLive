@@ -2067,6 +2067,36 @@
   },
 
 
+  {
+    "name": "扬州-1",
+    "groupName": "江苏",
+    "urls": [
+      "https://pc.96189.com/maintab/livel?cid=235&lid="
+    ]
+  },
+  {
+    "name": "扬州-2",
+    "groupName": "江苏",
+    "urls": [
+      "https://pc.96189.com/maintab/livel?cid=291&lid="
+    ]
+  },
+  {
+    "name": "扬州-3",
+    "groupName": "江苏",
+    "urls": [
+      "https://pc.96189.com/maintab/livel?cid=236&lid="
+    ]
+  },
+  {
+    "name": "扬州邗江",
+    "groupName": "江苏",
+    "urls": [
+      "https://pc.96189.com/maintab/livel?cid=292&lid="
+    ]
+  },
+
+
 
   {
     "name": "徐州-1",
@@ -2108,7 +2138,7 @@
     "groupName": "江苏",
     "urls": [
       "http://www.cztv.tv//channel.html",
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jsxztv=1"
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jscztv=1"
     ]
   },
   {
@@ -2116,7 +2146,7 @@
     "groupName": "江苏",
     "urls": [
       "https://miaotunnel.flashcs6.eu.org/?jsxztv=2",
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jsxztv=2"
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jscztv=2"
     ]
   },
   {
@@ -2124,7 +2154,7 @@
     "groupName": "江苏",
     "urls": [
       "https://miaotunnel.flashcs6.eu.org/?jsxztv=3",
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jsxztv=3"
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jscztv=3"
     ]
   },
   {
@@ -2132,7 +2162,7 @@
     "groupName": "江苏",
     "urls": [
       "https://miaotunnel.flashcs6.eu.org/?jsxztv=4",
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jsxztv=4"
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jscztv=4"
     ]
   },
 
@@ -2764,6 +2794,55 @@
     "urls": [
       "http://live.cztv.cc:85/live/sjpd.m3u8",
       "http://cztv.cc/Live/index?liveid=3"
+    ]
+  },
+
+
+
+  {
+    "name": "北京卫视",
+    "groupName": "北京",
+    "urls": [
+      "https://www.btime.com/btv/btvsy_index",
+      "https://www.yangshipin.cn/tv/home?pid=600002309",
+      "https://www.123iptv.tv/player/play?id=f0d01tPU9dKeB9oLF1Dt_FrAq-vIkzCViJe7yLyQZWtR",
+      "https://www.brtn.cn/btv/btvsy_index"
+    ]
+  },
+  {
+    "name": "北京文艺",
+    "groupName": "北京",
+    "urls": [
+      "https://www.tiantianzhibo.net/player/index?id=014cAVhzGF9hlvfKzCNjTrfovQESt5OTwzVg6Z8i8ii4Oh0",
+      "https://www.123iptv.tv/player/index?id=6e08FxLSODn2kl7cgrAV-RRDZAq6aaXJEifQaxn5ltsp",
+      "https://www.brtn.cn/btv/btvsy_index"
+    ]
+  },
+  {
+    "name": "北京财经",
+    "groupName": "北京",
+    "urls": [
+      "https://www.tiantianzhibo.net/player/index?id=73b4e92K1N3-ONnxD1IsnVVnjIpw0RL8RpUEztiRtz1eJac",
+      "https://www.123iptv.tv/player/index?id=2e7dUd7pIzqa-gqwiLR0SvAPEyaW2_vcw-doAdpRvGYr",
+      "https://www.brtn.cn/btv/btvsy_index"
+    ]
+  },
+  {
+    "name": "北京生活",
+    "groupName": "北京",
+    "urls": [
+      "https://www.tiantianzhibo.net/player/index?id=b35cwLLnqGhtMk_lQMPcCyVVuN4BX5thmD9DO1k5_MCW6Ps",
+      "https://www.123iptv.tv/player/index?id=313ew2yeatp2DpLFOQvs3uW-ML9ydw5pOU_LRmVSOCRK",
+      "https://www.brtn.cn/btv/btvsy_index"
+    ]
+  },
+  {
+    "name": "卡酷少儿",
+    "groupName": "北京",
+    "urls": [
+      "https://www.tiantianzhibo.net/player/index?id=5000uf_5ZaBiYBL3HMo4mM79lECkairmnC2nR5AVjxn4eAc",
+      "https://www.123iptv.tv/player/index?id=6d3ci3DBuqeMlgasFv8Db1u865QCGfkqZNG_3AN76PH0",
+      "https://www.brtn.cn/btv/btvsy_index"
     ]
   },
 
