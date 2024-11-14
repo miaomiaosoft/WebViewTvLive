@@ -3773,6 +3773,37 @@
     ]
   },
   {
+    "name": "动物星球",
+    "groupName": "台湾",
+    "urls": [
+      "http://61.221.215.25:8800/hls/57/index.m3u8",
+      "http://cookies.elementfx.com/ublive/ublive.php?id=367"
+    ]
+  },
+  {
+    "name": "美食星球",
+    "groupName": "台湾",
+    "urls": [
+      "https://idx.gdplayertv.to/live-tv/food-planet/?embed=1"
+    ]
+  },
+  {
+    "name": "亚洲美食",
+    "groupName": "台湾",
+    "urls": [
+      "https://idx.gdplayertv.to/live-tv/asian-food-channel/?embed=1"
+    ]
+  },
+  {
+    "name": "亚洲旅游",
+    "groupName": "台湾",
+    "urls": [
+      "https://idx.gdplayertv.to/live-tv/asia-travel-channel/?embed=1",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-longturn17",
+      "https://www.ofiii.com/channel/watch/litv-longturn17"
+    ]
+  },
+  {
     "name": "MomoKids",
     "groupName": "台湾",
     "urls": [
@@ -3812,14 +3843,6 @@
     ]
   },
   {
-    "name": "AnimalPlanet",
-    "groupName": "台湾",
-    "urls": [
-      "http://61.221.215.25:8800/hls/57/index.m3u8",
-      "http://cookies.elementfx.com/ublive/ublive.php?id=367"
-    ]
-  },
-  {
     "name": "CatchPlay",
     "groupName": "台湾",
     "urls": [
@@ -3850,6 +3873,7 @@
     "groupName": "台湾",
     "urls": [
       "https://www.tiantianzhibo.net/player/index?id=d6d1j8dJXU24utsjCnhwK9aKsFPgglstLIhHZ20P2TW5r1c9Xg",
+      "https://www.123iptv.tv/player/index?id=a5f9mPaFd8BbNkdpi6oCnwbN62_LA_ka32Y-AKMQdli-vVw&time=1731627776",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165093&pathid=0",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490570&pathid=0"
     ]
@@ -3883,29 +3907,6 @@
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/my-cinema-europe/?embed=1"
-    ]
-  },
-  {
-    "name": "FoodPlanet",
-    "groupName": "台湾",
-    "urls": [
-      "https://idx.gdplayertv.to/live-tv/food-planet/?embed=1"
-    ]
-  },
-  {
-    "name": "AsiaFoodNetwork",
-    "groupName": "台湾",
-    "urls": [
-      "https://idx.gdplayertv.to/live-tv/asian-food-channel/?embed=1"
-    ]
-  },
-  {
-    "name": "AsiaTravelChannel",
-    "groupName": "台湾",
-    "urls": [
-      "https://idx.gdplayertv.to/live-tv/asia-travel-channel/?embed=1",
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-longturn17",
-      "https://www.ofiii.com/channel/watch/litv-longturn17"
     ]
   },
   {
@@ -4073,6 +4074,14 @@
     "urls": [
       "https://www.tiantianzhibo.net/player/index?id=8836AJ7tZzxx97HkhwqYsYMb7__9WKvDm-1rb8_pB2Cq_L6WCQ",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=55&pathid=0"
+    ]
+  },
+  {
+    "name": "开电视",
+    "groupName": "港澳",
+    "urls": [
+      "http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8",
+      "https://www.123iptv.tv/player/index?id=2b81QVyMXLt-XL6bA-i5onUdv7f0jKrV_V3t96OYccseMSM&time=1731627997"
     ]
   },
   {
@@ -5799,6 +5808,41 @@
     "name": "优酷 中国通史",
     "groupName": "其他",
     "urls": ["https://vku.youku.com/live/ilproom?id=8175819"]
+  },
+  {
+    "name": "优酷 CSGO职业联赛S2",
+    "groupName": "其他",
+    "urls": ["https://vku.youku.com/live/ilproom?id=8100872"]
+  },
+  {
+    "name": "优酷 永劫无间春季赛",
+    "groupName": "其他",
+    "urls": ["https://vku.youku.com/live/ilproom?id=8167616"]
+  },
+  {
+    "name": "优酷 绝地求生2021.PGC总决赛",
+    "groupName": "其他",
+    "urls": ["https://vku.youku.com/live/ilproom?id=8136725"]
+  },
+  {
+    "name": "优酷 绝地求生2021.PCL春季赛",
+    "groupName": "其他",
+    "urls": ["https://vku.youku.com/live/ilproom?id=8129550"]
+  },
+  {
+    "name": "优酷 2022坦克世界大洋邀请赛",
+    "groupName": "其他",
+    "urls": ["https://vku.youku.com/live/ilproom?id=8139990"]
+  },
+  {
+    "name": "优酷 2021和平精英PEI亚洲邀请赛",
+    "groupName": "其他",
+    "urls": ["https://vku.youku.com/live/ilproom?id=8137460"]
+  },
+  {
+    "name": "优酷 我的世界块乐大挑战",
+    "groupName": "其他",
+    "urls": ["https://vku.youku.com/live/ilproom?id=8144050"]
   },
 
 
