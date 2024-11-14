@@ -5652,7 +5652,15 @@
     "groupName": "其他",
     "urls": [
       "https://liveshare.huya.com/iframe/11342412",
+      "https://www.huya.com/11342412",
       "https://m.huya.com/11342412"
+    ]
+  },
+  {
+    "name": "虎牙 曾小咸",
+    "groupName": "其他",
+    "urls": [
+      "https://liveshare.huya.com/iframe/11336726"
     ]
   },
   
