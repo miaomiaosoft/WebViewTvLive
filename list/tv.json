@@ -5648,11 +5648,11 @@
 
 
   {
-    "name": "虎牙 周星星",
+    "name": "虎牙 周星星1",
     "groupName": "其他",
     "urls": [
-      "https://liveshare.huya.com/iframe/11342412",
       "https://www.huya.com/11342412",
+      "https://liveshare.huya.com/iframe/11342412",
       "https://m.huya.com/11342412"
     ]
   },
@@ -5660,9 +5660,148 @@
     "name": "虎牙 曾小咸",
     "groupName": "其他",
     "urls": [
-      "https://liveshare.huya.com/iframe/11336726"
+      "https://www.huya.com/11336726"
     ]
   },
+  {
+    "name": "虎牙 李云龙",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/30080238"]
+  },
+  {
+    "name": "虎牙 港风导演",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/11602058"]
+  },
+  {
+    "name": "虎牙 新水浒",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/11342384"]
+  },
+  {
+    "name": "虎牙 柯南剧场",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/30080236"]
+  },
+  {
+    "name": "虎牙 林正英1",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/25256065"]
+  },
+  {
+    "name": "虎牙 沈腾",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/11601968"]
+  },
+  {
+    "name": "虎牙 国产喜剧",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/26058097"]
+  },
+  {
+    "name": "虎牙 林正英2",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/29551429"]
+  },
+  {
+    "name": "虎牙 林正英3",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/11342421"]
+  },
+  {
+    "name": "虎牙 铁齿铜牙纪晓岚",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/11342396"]
+  },
+  {
+    "name": "虎牙 成龙",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/11342386"]
+  },
+  {
+    "name": "虎牙 鹿鼎记",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/23865080"]
+  },
+  {
+    "name": "虎牙 周星星2",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/23177366"]
+  },
+  {
+    "name": "虎牙 乡村爱情",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/30080255"]
+  },
+  {
+    "name": "虎牙 春晚小品",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/11602068"]
+  },
+  {
+    "name": "虎牙 天龙八部",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/23903123"]
+  },
+  {
+    "name": "虎牙 康熙微服出巡",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/11342418"]
+  },
+  {
+    "name": "虎牙 狄仁杰",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/30250949","https://www.huya.com/11352958"]
+  },
+  {
+    "name": "虎牙 经典港剧",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/11352965"]
+  },
+  {
+    "name": "虎牙 陈翔六点半",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/cxldb"]
+  },
+  {
+    "name": "虎牙 征服",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/11601970"]
+  },
+  {
+    "name": "虎牙 超级交通站",
+    "groupName": "其他",
+    "urls": ["https://www.huya.com/11342433"]
+  },
+
+
+  {
+    "name": "优酷 卫视热播",
+    "groupName": "其他",
+    "urls": ["https://vku.youku.com/live/ilproom?id=8175820"]
+  },
+  {
+    "name": "优酷 经典随心看",
+    "groupName": "其他",
+    "urls": ["https://vku.youku.com/live/ilproom?id=8147812"]
+  },
+  {
+    "name": "优酷 影视主题MV播不停",
+    "groupName": "其他",
+    "urls": ["https://vku.youku.com/live/ilproom?id=8153655"]
+  },
+  {
+    "name": "优酷 新歌速递MV播不停",
+    "groupName": "其他",
+    "urls": ["https://vku.youku.com/live/ilproom?id=8147559"]
+  },
+  {
+    "name": "优酷 中国通史",
+    "groupName": "其他",
+    "urls": ["https://vku.youku.com/live/ilproom?id=8175819"]
+  },
+
+
   
 
 
