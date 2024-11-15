@@ -5669,14 +5669,14 @@
     "groupName": "其他",
     "urls": [
       "https://miaotunnel.flashcs6.eu.org/?test=1",
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?test=1"
+      "https://miaotunnel.flashcs6.eu.org/?test=1"
     ]
   },
   {
     "name": "测试跳转02",
     "groupName": "其他",
     "urls": [
-      "http://live.fanmingming.com/player/?vurl=https://miaotunnel.flashcs6.eu.org/?test=1",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?test=1",
       "https://live.fanmingming.com/player/?vurl=https://miaotunnel.flashcs6.eu.org/?test=1"
     ]
   },
