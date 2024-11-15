@@ -908,6 +908,34 @@
       "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org?hnldtv=3"
     ]
   },
+  {
+    "name": "岳阳新闻",
+    "groupName": "湖南",
+    "urls": [
+      "https://web.guangdianyun.tv/tv/1699?spm=zm5082-001.0.0.1.Bhzxh8&uin=2193"
+    ]
+  },
+  {
+    "name": "岳阳公共",
+    "groupName": "湖南",
+    "urls": [
+      "https://web.guangdianyun.tv/tv/1701?spm=zm5082-001.0.0.2.Bhzxh8&uin=2193"
+    ]
+  },
+  {
+    "name": "株州新闻综合",
+    "groupName": "湖南",
+    "urls": [
+      "https://web.guangdianyun.tv/tv/2053?uin=1366"
+    ]
+  },
+  {
+    "name": "株州公共频道",
+    "groupName": "湖南",
+    "urls": [
+      "https://web.guangdianyun.tv/tv/2134?uin=1366"
+    ]
+  },
 
 
 
@@ -1385,18 +1413,53 @@
 
   
   {
-    "name": "百色综合",
+    "name": "梧州新闻综合",
     "groupName": "广西",
     "urls": [
-      "https://live.gxrb.com.cn/tv/bstv_zh/index.m3u8",
-      "https://app.baisenews.net/mag/livevideo/v1/video/wapVideoView?id=1231"
+      "http://live.wzrtv.cn/xwzh1/playlist.m3u8",
+      "http://www.wzrtv.cn/folder80/folder83/folder134"
     ]
   },
+  {
+    "name": "梧州公共频道",
+    "groupName": "广西",
+    "urls": [
+      "http://live.wzrtv.cn/ggpd1/playlist.m3u8",
+      "http://www.wzrtv.cn/folder80/folder83/folder134"
+    ]
+  },
+  {
+    "name": "梧州教育生活",
+    "groupName": "广西",
+    "urls": [
+      "http://live.wzrtv.cn/jysh1/playlist.m3u8",
+      "http://www.wzrtv.cn/folder80/folder83/folder134"
+    ]
+  },
+  {
+    "name": "梧州可视广播",
+    "groupName": "广西",
+    "urls": [
+      "http://live.wzrtv.cn/kshgb/playlist.m3u8",
+      "http://www.wzrtv.cn/folder80/folder83/folder134"
+    ]
+  },
+  
+
+  
   {
     "name": "北海新闻综合",
     "groupName": "广西",
     "urls": [
       "https://www.tiantianzhibo.net/player/index?id=b5a59CADub1NMjW1Pphk2F7jFY7QUmvDm-IuFmsaleH5LDU13g"
+    ]
+  },
+  {
+    "name": "百色综合",
+    "groupName": "广西",
+    "urls": [
+      "https://live.gxrb.com.cn/tv/bstv_zh/index.m3u8",
+      "https://app.baisenews.net/mag/livevideo/v1/video/wapVideoView?id=1231"
     ]
   },
 
@@ -1476,6 +1539,29 @@
     "groupName": "福建",
     "urls": [
       "https://live.fjtv.net/hxtv/"
+    ]
+  },
+
+
+  {
+    "name": "福州新闻综合",
+    "groupName": "福建",
+    "urls": [
+      "http://www.zohi.tv/app/tv/804"
+    ]
+  },
+  {
+    "name": "福州生活频道",
+    "groupName": "福建",
+    "urls": [
+      "http://www.zohi.tv/app/tv/801"
+    ]
+  },
+  {
+    "name": "福州少儿频道",
+    "groupName": "福建",
+    "urls": [
+      "http://www.zohi.tv/app/tv/795"
     ]
   },
 
@@ -1622,7 +1708,7 @@
     "name": "南昌新闻综合",
     "groupName": "江西",
     "urls": [
-      "https://www.nctv.net.cn/live",
+      "https://www.nctv.net.cn/live?channel=1",
       "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jxnctv=1",
       "http://xbtv.net/index.php?m=content&c=player&catid=130&id=3170&f=mediaurl&n=2",
       "http://xbtv.net/tv/jx/ncxw.html"
@@ -1632,6 +1718,7 @@
     "name": "南昌都市",
     "groupName": "江西",
     "urls": [
+      "https://www.nctv.net.cn/live?channel=2",
       "http://p.123tv.cn/p/jxnc.php?id=ncds",
       "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jxnctv=2",
       "http://xbtv.net/index.php?m=content&c=player&catid=130&id=3169&f=mediaurl&n=2"
@@ -1641,6 +1728,7 @@
     "name": "南昌资讯",
     "groupName": "江西",
     "urls": [
+      "https://www.nctv.net.cn/live?channel=3",
       "http://p.123tv.cn/p/jxnc.php?id=nczx",
       "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jxnctv=3",
       "http://xbtv.net/index.php?m=content&c=player&catid=130&id=3168&f=mediaurl&n=2"
@@ -1685,6 +1773,20 @@
     "groupName": "江西",
     "urls": [
       "https://www.jjntv.cn/live?id=jjfz"
+    ]
+  },
+  {
+    "name": "宜春新闻综合",
+    "groupName": "江西",
+    "urls": [
+      "http://live2.ycstv.com/hles/ycstv1.m3u8"
+    ]
+  },
+  {
+    "name": "宜春法制频道",
+    "groupName": "江西",
+    "urls": [
+      "http://live2.ycstv.com/hles/ycstv2.m3u8"
     ]
   },
   
@@ -1910,6 +2012,13 @@
     ]
   },
   {
+    "name": "上海教视",
+    "groupName": "上海",
+    "urls": [
+      "https://www.setv.sh.cn/#/tvshow"
+    ]
+  },
+  {
     "name": "东方卫视",
     "groupName": "上海",
     "urls": [
@@ -1918,10 +2027,18 @@
     ]
   },
   {
+    "name": "东方财经",
+    "groupName": "上海",
+    "urls": [
+      "https://www.yicai.com/tv/#dfcj"
+    ]
+  },
+  {
     "name": "第一财经",
     "groupName": "上海",
     "urls": [
-      "https://live.kankanews.com/huikan?id=5"
+      "https://live.kankanews.com/huikan?id=5",
+      "https://www.yicai.com/tv/"
     ]
   },
   {
@@ -1943,6 +2060,21 @@
     "groupName": "上海",
     "urls": [
       "https://live.kankanews.com/"
+    ]
+  },
+  {
+    "name": "东方购物",
+    "groupName": "上海",
+    "urls": [
+      "https://www.ocj.com.cn/tv.html#/tvLives"
+    ]
+  },
+  {
+    "name": "魔都眼",
+    "groupName": "上海",
+    "urls": [
+      "https://www.shanghaieye.cn/Live",
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCaxIsKnhxr6bfaJFQc67-rg"
     ]
   },
   
@@ -2561,6 +2693,171 @@
       "http://file.lcxw.cn/nmip-media/channellive/channel101246/playlist.m3u8"
     ]
   },
+  {
+    "name": "威海新闻综合",
+    "groupName": "山东",
+    "urls": [
+      "http://lv.weihai.tv/live_13705e35636b2136b590e5a015bb801c.html"
+    ]
+  },
+  {
+    "name": "威海都市生活",
+    "groupName": "山东",
+    "urls": [
+      "http://lv.weihai.tv/live_8bfc704cbba598e76540f5d4f61a0e03.html"
+    ]
+  },
+  {
+    "name": "威海海洋频道",
+    "groupName": "山东",
+    "urls": [
+      "http://lv.weihai.tv/live_6dffaf124b89957024f9f31de302d183.html"
+    ]
+  },
+  {
+    "name": "淄博民生",
+    "groupName": "山东",
+    "urls": [
+      "https://www.cbbn.net/folder253/folder337?channel_id=9"
+    ]
+  },
+  {
+    "name": "淄博文旅",
+    "groupName": "山东",
+    "urls": [
+      "https://www.cbbn.net/folder253/folder337?channel_id=41"
+    ]
+  },
+
+
+  {
+    "name": "德州新闻综合",
+    "groupName": "山东",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?sddztv=1"
+    ]
+  },
+  {
+    "name": "德州经济生活",
+    "groupName": "山东",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?sddztv=2"
+    ]
+  },
+  {
+    "name": "德州图文频道",
+    "groupName": "山东",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?sddztv=3"
+    ]
+  },
+
+
+  {
+    "name": "德州夏津综合",
+    "groupName": "山东",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?sddztv=4"
+    ]
+  },
+  {
+    "name": "德州夏津公共",
+    "groupName": "山东",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?sddztv=5"
+    ]
+  },
+  {
+    "name": "德州齐河综合",
+    "groupName": "山东",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?sddztv=6"
+    ]
+  },
+  {
+    "name": "德州平原综合",
+    "groupName": "山东",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?sddztv=7"
+    ]
+  },
+  {
+    "name": "德州陵城综合",
+    "groupName": "山东",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?sddztv=8"
+    ]
+  },
+  {
+    "name": "德州禹城综合",
+    "groupName": "山东",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?sddztv=9"
+    ]
+  },
+  {
+    "name": "德州禹城综艺",
+    "groupName": "山东",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?sddztv=10"
+    ]
+  },
+  {
+    "name": "德州临邑综合",
+    "groupName": "山东",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?sddztv=11"
+    ]
+  },
+  {
+    "name": "德州武城综合",
+    "groupName": "山东",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?sddztv=12"
+    ]
+  },
+  {
+    "name": "德州武城综艺",
+    "groupName": "山东",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?sddztv=13"
+    ]
+  },
+  {
+    "name": "德州宁津综合",
+    "groupName": "山东",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?sddztv=14"
+    ]
+  },
+  {
+    "name": "德州庆云综合",
+    "groupName": "山东",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?sddztv=15"
+    ]
+  },
+  {
+    "name": "德州庆云生活",
+    "groupName": "山东",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?sddztv=16"
+    ]
+  },
+  {
+    "name": "德州乐陵综合",
+    "groupName": "山东",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?sddztv=17"
+    ]
+  },
+  {
+    "name": "德州乐陵生活",
+    "groupName": "山东",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?sddztv=18"
+    ]
+  },
 
 
 
@@ -2978,6 +3275,7 @@
     "groupName": "台湾",
     "urls": [
       "https://www.tiantianzhibo.net/player/index?id=8d89ITGSf0YWWa2GH1gY2jel3z4ciyTwW2dZKbQq43ZUD73YCg",
+      "https://www.youtube.com/@yoyotvebc/live",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165147&pathid=0",
       "https://tv2.wfuapp.com/2019/12/yoyo-tv-live.html"
     ]
@@ -3683,7 +3981,44 @@
   },
 
 
-  
+
+  {
+    "name": "正德电视",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCEaOL55dVM5xg-oX-Gs0DlQ"
+    ]
+  },
+  {
+    "name": "生命电视",
+    "groupName": "台湾",
+    "urls": [
+      "http://www.lifetv.org.tw/a_date/live.htm"
+    ]
+  },
+  {
+    "name": "华藏卫视",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UC0D4u31or8aGenc86eMB6wA"
+    ]
+  },
+  {
+    "name": "唯心电视",
+    "groupName": "台湾",
+    "urls": [
+      "https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8",
+      "https://wxtv.com.tw/public/"
+    ]
+  },
+  {
+    "name": "希望电视",
+    "groupName": "台湾",
+    "urls": [
+      "https://embed.jetstream.studio/embed/jsl:nGL7123If9H/jsp:PA39Owb5kkR",
+      "https://chinesehope.tv/live.php/0"
+    ]
+  },
   {
     "name": "信大电视",
     "groupName": "台湾",
@@ -3698,6 +4033,13 @@
     "urls": [
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165110&pathid=0",
       "https://www.chaojidianshi.net/zhibo/gangtaizhibo/huanyucaijing.html"
+    ]
+  },
+  {
+    "name": "三大一台",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCHycXkewR3NXQE59t3hhlaQ"
     ]
   },
   {
@@ -5326,7 +5668,7 @@
     "name": "测试跳转01",
     "groupName": "其他",
     "urls": [
-      "https://miaotunnel.flashcs6.eu.org/?test=1&test.m3u8",
+      "https://miaotunnel.flashcs6.eu.org/?test=1",
       "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?test=1"
     ]
   },
