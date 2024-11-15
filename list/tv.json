@@ -5322,7 +5322,54 @@
 
 
 
-
+  {
+    "name": "测试跳转01",
+    "groupName": "其他",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?test=1&test.m3u8",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?test=1"
+    ]
+  },
+  {
+    "name": "测试跳转02",
+    "groupName": "其他",
+    "urls": [
+      "http://live.fanmingming.com/player/?vurl=https://miaotunnel.flashcs6.eu.org/?test=1",
+      "https://live.fanmingming.com/player/?vurl=https://miaotunnel.flashcs6.eu.org/?test=1"
+    ]
+  },
+  {
+    "name": "测试跳转03",
+    "groupName": "其他",
+    "urls": [
+      "http://icedwatermelonjuice.github.io/Online-Player/?url=https://miaotunnel.flashcs6.eu.org/?test=1",
+      "https://icedwatermelonjuice.github.io/Online-Player/?url=https://miaotunnel.flashcs6.eu.org/?test=1"
+    ]
+  },
+  {
+    "name": "测试跳转04",
+    "groupName": "其他",
+    "urls": [
+      "http://app.bookmarkmanager.net/tv_player/clappr.php?url=https://miaotunnel.flashcs6.eu.org/?test=1",
+      "https://app.bookmarkmanager.net/tv_player/clappr.php?url=https://miaotunnel.flashcs6.eu.org/?test=1"
+    ]
+  },
+  {
+    "name": "测试跳转05",
+    "groupName": "其他",
+    "urls": [
+      "http://www.123iptv.tv/tv_player/ckplayer.php?url=https://miaotunnel.flashcs6.eu.org/?test=1",
+      "https://www.123iptv.tv/tv_player/ckplayer.php?url=https://miaotunnel.flashcs6.eu.org/?test=1"
+    ]
+  },
+  {
+    "name": "测试跳转06",
+    "groupName": "其他",
+    "urls": [
+      "http://lzw.me/x/m3u8-player/?url=https://miaotunnel.flashcs6.eu.org/?test=1",
+      "https://lzw.me/x/m3u8-player/?url=https://miaotunnel.flashcs6.eu.org/?test=1"
+    ]
+  },
   {
     "name": "B站 西游记后传",
     "groupName": "其他",
@@ -6343,14 +6390,6 @@
     "urls": [
       "https://www.youtube.com/embed/g_L1Ay8P244?autoplay=1",
       "https://tv2.wfuapp.com/2017/12/explore-nature.html"
-    ]
-  },
-  {
-    "name": "测试跳转",
-    "groupName": "其他",
-    "urls": [
-      "https://miaotunnel.flashcs6.eu.org/?test=1",
-      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?test=1"
     ]
   },
   {
