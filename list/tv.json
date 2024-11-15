@@ -2145,7 +2145,7 @@
     "name": "常州都市",
     "groupName": "江苏",
     "urls": [
-      "https://miaotunnel.flashcs6.eu.org/?jsxztv=2",
+      "https://miaotunnel.flashcs6.eu.org/?jscztv=2",
       "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jscztv=2"
     ]
   },
@@ -2153,7 +2153,7 @@
     "name": "常州生活",
     "groupName": "江苏",
     "urls": [
-      "https://miaotunnel.flashcs6.eu.org/?jsxztv=3",
+      "https://miaotunnel.flashcs6.eu.org/?jscztv=3",
       "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jscztv=3"
     ]
   },
@@ -2161,7 +2161,7 @@
     "name": "常州公共",
     "groupName": "江苏",
     "urls": [
-      "https://miaotunnel.flashcs6.eu.org/?jsxztv=4",
+      "https://miaotunnel.flashcs6.eu.org/?jscztv=4",
       "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?jscztv=4"
     ]
   },
@@ -6343,6 +6343,14 @@
     "urls": [
       "https://www.youtube.com/embed/g_L1Ay8P244?autoplay=1",
       "https://tv2.wfuapp.com/2017/12/explore-nature.html"
+    ]
+  },
+  {
+    "name": "测试跳转",
+    "groupName": "其他",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?test=1",
+      "http://tool.liumingye.cn/m3u8/#https://miaotunnel.flashcs6.eu.org/?test=1"
     ]
   },
   {
