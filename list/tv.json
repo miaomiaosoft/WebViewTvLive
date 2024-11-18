@@ -3433,6 +3433,7 @@
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/cti-entertainment-tv?embed=1",
+      "http://61.221.215.25:8800/hls/47/index.m3u8",
       "https://www.tiantianzhibo.net/player/index?id=c0b48SyLZO0ITIxnAjZwlNytpWAvza6SJb8tSMHexU3GloSNYQ",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165076&pathid=0",
       "http://61.221.215.25:8800/hls/47/index.m3u8"
@@ -3482,6 +3483,7 @@
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/set-theatre-tv?embed=1",
+      "http://61.221.215.25:8800/hls/41/index.m3u8",
       "https://www.tiantianzhibo.net/player/index?id=f02dX2iCKmiUdWXnkdIP_kip1bimjQhDBTO7ovlvquhal5oEHQ",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165100&pathid=0"
     ]
@@ -3634,6 +3636,7 @@
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/gtv-variety/?embed=1",
+      "http://61.221.215.25:8800/hls/56/index.m3u8",
       "https://www.tiantianzhibo.net/player/index?id=bd5arjf54cM_PQ-eOE_G8UGvGpY3oSQAgpLtOxXeSwbgQ_ZMzg",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165090&pathid=0"
     ]
@@ -3643,6 +3646,7 @@
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/gtv-one/?embed=1",
+      "http://61.221.215.25:8800/hls/55/index.m3u8",
       "https://www.tiantianzhibo.net/player/index?id=4904rq3sRq5JJaCiE4YxB2kHQ4S55Zg93mXeCTFgvIbSSDz2Mg",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165089&pathid=0"
     ]
@@ -3652,6 +3656,7 @@
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/gtv-drama/?embed=1",
+      "http://61.221.215.25:8800/hls/39/index.m3u8",
       "https://www.tiantianzhibo.net/player/index?id=6743w7w3M8CiwLXGPskU7cKmiOkl9UkgRXjBaZY95wsh8i9LPA",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165091&pathid=0"
     ]
@@ -3675,6 +3680,7 @@
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/tvbs-news/?embed=1",
+      "http://61.221.215.25:8800/hls/9/index.m3u8",
       "https://www.tiantianzhibo.net/player/index?id=6023fEr-K5AqJnRMLI4Ryix9X_mCm_a0muZmXf6bQkSKbwwfDQ",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165072&pathid=0",
       "https://www.youtube.com/embed/m_dhMSvUCIc?autoplay=1",
@@ -3731,6 +3737,13 @@
     "urls": [
       "https://idx.gdplayertv.to/live-tv/videoland-sports/?embed=1",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165124&pathid=0"
+    ]
+  },
+  {
+    "name": "纬来精采",
+    "groupName": "台湾",
+    "urls": [
+      "http://61.221.215.25:8800/hls/48/index.m3u8"
     ]
   },
 
@@ -4202,6 +4215,27 @@
     ]
   },
   {
+    "name": "中华小家",
+    "groupName": "台湾",
+    "urls": [
+      "http://61.221.215.25:8800/hls/40/index.m3u8"
+    ]
+  },
+  {
+    "name": "音乐电视1",
+    "groupName": "台湾",
+    "urls": [
+      "http://61.221.215.25:8800/hls/49/index.m3u8"
+    ]
+  },
+  {
+    "name": "音乐电视2",
+    "groupName": "台湾",
+    "urls": [
+      "http://61.221.215.25:8800/hls/58/index.m3u8"
+    ]
+  },
+  {
     "name": "动物星球",
     "groupName": "台湾",
     "urls": [
@@ -4266,6 +4300,7 @@
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/discovery-tw/?embed=1",
+      "http://61.221.215.25:8800/hls/1/index.m3u8",
       "http://45.159.74.14/DiscoveryChannel/index.m3u8"
     ]
   },
@@ -4274,8 +4309,8 @@
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/discovery-asia-tw/?embed=1",
-      "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490573&pathid=0",
-      "http://61.221.215.25:8800/hls/50/index.m3u8"
+      "http://61.221.215.25:8800/hls/50/index.m3u8",
+      "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490573&pathid=0"
     ]
   },
   {
@@ -4302,6 +4337,13 @@
       "https://idx.gdplayertv.to/live-tv/hollywood-movie/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=026dA-mJrwvI7B5JJyqVT6tIrZL7bG1vgmJTD0Y_dwxasHwSLQ",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165095&pathid=0"
+    ]
+  },
+  {
+    "name": "AMCMovie",
+    "groupName": "台湾",
+    "urls": [
+      "http://61.221.215.25:8800/hls/43/index.m3u8"
     ]
   },
   {
@@ -4827,6 +4869,7 @@
     "groupName": "海外",
     "urls": [
       "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8",
+      "http://61.221.215.25:8800/hls/51/index.m3u8",
       "https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/zh/playlist.m3u8",
       "https://www3.nhk.or.jp/nhkworld/common/player/tv/cclive/embed/embed.html?movie=truel&lang=zh",
       "https://tv2.wfuapp.com/2020/01/nhk.html"
