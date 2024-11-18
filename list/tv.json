@@ -205,6 +205,14 @@
       "https://www.yangshipin.cn/tv/home?pid%5Cu003d600001814&pid=600099620"
     ]
   },
+  {
+    "name": "CCTV Plus",
+    "groupName": "央视",
+    "urls": [
+      "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8",
+      "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8"
+    ]
+  },
 
 
   
@@ -732,7 +740,7 @@
     ]
   },
   {
-    "name": "中国天气",
+    "name": "中国气象",
     "groupName": "卫视",
     "urls": [
       "http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8",
@@ -946,6 +954,20 @@
     "groupName": "湖南",
     "urls": [
       "https://web.guangdianyun.tv/tv/2134?uin=1366"
+    ]
+  },
+  {
+    "name": "湘潭新闻综合",
+    "groupName": "湖南",
+    "urls": [
+      "http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8"
+    ]
+  },
+  {
+    "name": "湘潭公共频道",
+    "groupName": "湖南",
+    "urls": [
+      "http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8"
     ]
   },
 
@@ -1619,7 +1641,14 @@
     "urls": [
       "https://www.ptbtv.com/live/xyds/"
     ]
-  },  
+  },
+  {
+    "name": "漳州新闻",
+    "groupName": "福建",
+    "urls": [
+      "https://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8"
+    ]
+  },
   {
     "name": "晋江电视",
     "groupName": "福建",
@@ -1906,6 +1935,30 @@
   },
 
 
+  {
+    "name": "绍兴上虞新闻综合",
+    "groupName": "浙江",
+    "urls": [
+      "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8",
+      "http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8"
+    ]
+  },
+  {
+    "name": "绍兴上虞文化影视",
+    "groupName": "浙江",
+    "urls": [
+      "https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8"
+    ]
+  },
+  {
+    "name": "绍兴上虞新商都台",
+    "groupName": "浙江",
+    "urls": [
+      "https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8"
+    ]
+  },
+
+
   
   {
     "name": "杭州综合",
@@ -1982,7 +2035,6 @@
   },
 
 
-  
   {
     "name": "舟山新闻综合",
     "groupName": "浙江",
@@ -3156,6 +3208,15 @@
   },
 
 
+  {
+    "name": "石景山",
+    "groupName": "北京",
+    "urls": [
+      "https://live.sjsrm.com/bjsjs/sd/live.m3u8"
+    ]
+  },
+
+
 
 
   
@@ -3878,6 +3939,13 @@
     ]
   },
   {
+    "name": "好消息3",
+    "groupName": "台湾",
+    "urls": [
+      "https://live.streamingfast.net/osmflivech3.m3u8"
+    ]
+  },
+  {
     "name": "阿里郎",
     "groupName": "台湾",
     "urls": [
@@ -3994,6 +4062,13 @@
 
 
 
+  {
+    "name": "人间卫视",
+    "groupName": "台湾",
+    "urls": [
+      "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"
+    ]
+  },
   {
     "name": "正德电视",
     "groupName": "台湾",
@@ -4177,6 +4252,13 @@
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/cartoonito-tv/?embed=1"
+    ]
+  },
+  {
+    "name": "PetClub",
+    "groupName": "台湾",
+    "urls": [
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8"
     ]
   },
   {
@@ -4579,7 +4661,8 @@
     "name": "VOA NEWS",
     "groupName": "海外",
     "urls": [
-      "https://www.voanews.com/live/video/116"
+      "https://www.voanews.com/live/video/116",
+      "https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8"
     ]
   },
   {
@@ -4709,6 +4792,8 @@
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCIALMKvObZNtJ6AmdCLP7Lg",
+      "https://bloomberg.com/media-manifest/streams/asia.m3u8",
+      "https://bloomberg.com/media-manifest/streams/asia-event.m3u8",
       "https://tv2.wfuapp.com/2019/12/bloomberg-news-live.html"
     ]
   },
@@ -4733,6 +4818,7 @@
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
       "https://tv2.wfuapp.com/2006/11/al-jazeera-english.html"
     ]
   },
@@ -5453,6 +5539,35 @@
     "groupName": "海外",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/nat-geo-jp/?embed=1"
+    ]
+  },
+  {
+    "name": "TV5Monde",
+    "groupName": "海外",
+    "urls": [
+      "https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8"
+    ]
+  },
+  {
+    "name": "TV BRICS",
+    "groupName": "海外",
+    "urls": [
+      "https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "EWTN",
+    "groupName": "海外",
+    "urls": [
+      "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8",
+      "https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "RED BULL",
+    "groupName": "海外",
+    "urls": [
+      "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
     ]
   },
   
