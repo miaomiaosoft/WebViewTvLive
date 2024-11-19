@@ -4691,7 +4691,7 @@
 
 
   {
-    "name": "DW NEWS",
+    "name": "[DE] DW NEWS",
     "groupName": "海外",
     "urls": [
       "https://www.dw.com/zh/live-tv/channel-english",
@@ -4700,7 +4700,7 @@
     ]
   },
   {
-    "name": "VOA NEWS",
+    "name": "[US] VOA NEWS",
     "groupName": "海外",
     "urls": [
       "https://www.voanews.com/live/video/116",
@@ -4708,14 +4708,14 @@
     ]
   },
   {
-    "name": "VOA LIVE",
+    "name": "[US] VOA LIVE",
     "groupName": "海外",
     "urls": [
       "https://www.voanews.com/live/video/126"
     ]
   },
   {
-    "name": "BBC NEWS",
+    "name": "[GB] BBC NEWS",
     "groupName": "海外",
     "urls": [
       "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298",
@@ -4723,7 +4723,7 @@
     ]
   },
   {
-    "name": "BBC NEWS ASIA",
+    "name": "[GB] BBC NEWS ASIA",
     "groupName": "海外",
     "urls": [
       "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8",
@@ -4731,42 +4731,42 @@
     ]
   },
   {
-    "name": "BBC One",
+    "name": "[GB] BBC One",
     "groupName": "海外",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/bbc-one/?embed=1"
     ]
   },
   {
-    "name": "BBC Two",
+    "name": "[GB] BBC Two",
     "groupName": "海外",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/bbc-two/?embed=1"
     ]
   },
   {
-    "name": "BBC Three",
+    "name": "[GB] BBC Three",
     "groupName": "海外",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/bbc-three/?embed=1"
     ]
   },
   {
-    "name": "BBC Four",
+    "name": "[GB] BBC Four",
     "groupName": "海外",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/bbc-four/?embed=1"
     ]
   },
   {
-    "name": "BBC America",
+    "name": "[GB] BBC America",
     "groupName": "海外",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/bbc-america/?embed=1"
     ]
   },
   {
-    "name": "CNN NEWS",
+    "name": "[US] CNN NEWS",
     "groupName": "海外",
     "urls": [
       "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
@@ -4775,14 +4775,14 @@
     ]
   },
   {
-    "name": "CBC NEWS",
+    "name": "[CA] CBC NEWS",
     "groupName": "海外",
     "urls": [
       "https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276"
     ]
   },
   {
-    "name": "ABC NEWS",
+    "name": "[US] ABC NEWS",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/-mvUkiILTqI?autoplay=1",
@@ -4790,7 +4790,7 @@
     ]
   },
   {
-    "name": "FOX NEWS",
+    "name": "[US] FOX NEWS",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/YDfiTGGPYCk?autoplay=1",
@@ -4798,7 +4798,7 @@
     ]
   },
   {
-    "name": "SKY NEWS",
+    "name": "[GB] SKY NEWS",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/oJUvTVdTMyY?autoplay=1",
@@ -4806,7 +4806,7 @@
     ]
   },
   {
-    "name": "NBC NEWS",
+    "name": "[US] NBC NEWS",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/-62KsrYPLGk?autoplay=1",
@@ -4814,7 +4814,7 @@
     ]
   },
   {
-    "name": "CNA NEWS",
+    "name": "[SG] CNA NEWS",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UC83jt4dlz1Gjl58fzQrrKZg",
@@ -4822,7 +4822,7 @@
     ]
   },
   {
-    "name": "8world News",
+    "name": "[SG] 8world News",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/RvSOIM620bA?autoplay=1",
@@ -4830,7 +4830,7 @@
     ]
   },
   {
-    "name": "Bloomberg",
+    "name": "[US] Bloomberg",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCIALMKvObZNtJ6AmdCLP7Lg",
@@ -4840,7 +4840,7 @@
     ]
   },
   {
-    "name": "Euronews",
+    "name": "[FR] Euronews",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCSrZ3UV4jOidv8ppoVuvW9Q",
@@ -4848,7 +4848,7 @@
     ]
   },
   {
-    "name": "FRANCE 24",
+    "name": "[FR] FRANCE 24",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCQfwfsi5VrQ8yKZ-UWmAEFg",
@@ -4856,7 +4856,7 @@
     ]
   },
   {
-    "name": "Al Jazeera",
+    "name": "[QA] Al Jazeera",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCNye-wNBqNL5ZzHSJj3l8Bg",
@@ -4865,7 +4865,7 @@
     ]
   },
   {
-    "name": "NHK WORLD",
+    "name": "[JP] NHK WORLD",
     "groupName": "海外",
     "urls": [
       "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8",
@@ -4876,7 +4876,7 @@
     ]
   },
   {
-    "name": "Kansai NEWS",
+    "name": "[JP] Kansai NEWS",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/sTAqx_1Yrww?autoplay=1",
@@ -4884,7 +4884,7 @@
     ]
   },
   {
-    "name": "TBS NEWS",
+    "name": "[JP] TBS NEWS",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/ohI356mwBp8?autoplay=1",
@@ -4892,7 +4892,7 @@
     ]
   },
   {
-    "name": "NTV NEWS",
+    "name": "[JP] NTV NEWS",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/L6h5VKq7ZV0?autoplay=1",
@@ -4900,7 +4900,7 @@
     ]
   },
   {
-    "name": "Japa NEWS",
+    "name": "[JP] Japa NEWS",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/coYw-eVU0Ks?autoplay=1",
@@ -4908,14 +4908,7 @@
     ]
   },
   {
-    "name": "YAMATO ANIMATION",
-    "groupName": "海外",
-    "urls": [
-      "https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8"
-    ]
-  },
-  {
-    "name": "YTN NEWS",
+    "name": "[KR] YTN NEWS",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/uCXxf0a8x30?autoplay=1",
@@ -4923,7 +4916,7 @@
     ]
   },
   {
-    "name": "KBS NEWS",
+    "name": "[KR] KBS NEWS",
     "groupName": "海外",
     "urls": [
       "https://www.youtube.com/embed/9yK3OHkE5yM?autoplay=1",
