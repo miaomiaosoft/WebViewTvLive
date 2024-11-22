@@ -72,6 +72,7 @@
     "urls": [
       "https://tv.cctv.com/live/cctv6/",
       "https://www.yangshipin.cn/tv/home?pid%5Cu003d600001814&pid=600108442",
+      "http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0",
       "https://www.hndyjyfw.gov.cn/livePlay.html?u=4"
     ]
   },
@@ -247,7 +248,8 @@
     "name": "CETV-1",
     "groupName": "央视",
     "urls": [
-      "https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html"
+      "https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html",
+      "http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=4155"
     ]
   },
   {
@@ -271,6 +273,37 @@
       "https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html",
       "https://edu.cctv.com/cetv/index.shtml",
       "http://timetv.xyz/qita/cetv4.html"
+    ]
+  },
+
+
+
+  {
+    "name": "CECTV-1 汉语文化",
+    "groupName": "央视",
+    "urls": [
+      "http://play.cec-tv.com.cn/channel/cec-tv1.m3u8"
+    ]
+  },
+  {
+    "name": "CECTV-2 国际旅游",
+    "groupName": "央视",
+    "urls": [
+      "http://play.cec-tv.com.cn/channel/cec-tv2.m3u8"
+    ]
+  },
+  {
+    "name": "CECTV-3 国际教育",
+    "groupName": "央视",
+    "urls": [
+      "http://play.cec-tv.com.cn/channel/cec-tv3.m3u8"
+    ]
+  },
+  {
+    "name": "CECTV-4 国际建康",
+    "groupName": "央视",
+    "urls": [
+      "http://play.cec-tv.com.cn/channel/cec-tv4.m3u8"
     ]
   },
 
