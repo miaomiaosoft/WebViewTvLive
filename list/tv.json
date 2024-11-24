@@ -965,20 +965,23 @@
     "name": "岳阳新闻",
     "groupName": "湖南",
     "urls": [
-      "https://web.guangdianyun.tv/tv/1699?spm=zm5082-001.0.0.1.Bhzxh8&uin=2193"
+      "https://miaotunnel.flashcs6.eu.org/?guangdianyun=1699_2193",
+      "https://web.guangdianyun.tv/tv/1699?&uin=2193"
     ]
   },
   {
     "name": "岳阳公共",
     "groupName": "湖南",
     "urls": [
-      "https://web.guangdianyun.tv/tv/1701?spm=zm5082-001.0.0.2.Bhzxh8&uin=2193"
+      "https://miaotunnel.flashcs6.eu.org/?guangdianyun=1701_2193",
+      "https://web.guangdianyun.tv/tv/1701?uin=2193"
     ]
   },
   {
     "name": "株州新闻综合",
     "groupName": "湖南",
     "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?guangdianyun=2053_1366",
       "https://web.guangdianyun.tv/tv/2053?uin=1366"
     ]
   },
@@ -986,6 +989,7 @@
     "name": "株州公共频道",
     "groupName": "湖南",
     "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?guangdianyun=2134_1366",
       "https://web.guangdianyun.tv/tv/2134?uin=1366"
     ]
   },
@@ -1517,6 +1521,7 @@
     "name": "玉林新闻综合",
     "groupName": "广西",
     "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?guangdianyun=3289_4042",
       "https://web.guangdianyun.tv/tv/3289?uin=4042"
     ]
   },
@@ -1524,6 +1529,7 @@
     "name": "玉林公共频道",
     "groupName": "广西",
     "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?guangdianyun=3290_4042",
       "https://web.guangdianyun.tv/tv/3290?uin=4042"
     ]
   },
@@ -4343,7 +4349,8 @@
     "name": "CartoonNetwork",
     "groupName": "台湾",
     "urls": [
-      "https://idx.gdplayertv.to/live-tv/cartoon-network-asia?embed=1"
+      "https://idx.gdplayertv.to/live-tv/cartoon-network-asia?embed=1",
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UC9hVEGaTpAYMVd-bRsOYKwA"
     ]
   },
   {
