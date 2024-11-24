@@ -1511,6 +1511,22 @@
       "http://www.wzrtv.cn/folder80/folder83/folder134"
     ]
   },
+
+
+  {
+    "name": "玉林新闻综合",
+    "groupName": "广西",
+    "urls": [
+      "https://web.guangdianyun.tv/tv/3289?uin=4042"
+    ]
+  },
+  {
+    "name": "玉林公共频道",
+    "groupName": "广西",
+    "urls": [
+      "https://web.guangdianyun.tv/tv/3290?uin=4042"
+    ]
+  },
   
 
   
@@ -1606,6 +1622,22 @@
     "groupName": "福建",
     "urls": [
       "https://live.fjtv.net/hxtv/"
+    ]
+  },
+
+
+  {
+    "name": "厦门-1",
+    "groupName": "福建",
+    "urls": [
+      "https://live1b.kxm.xmtv.cn/xm1bf/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "厦门-2",
+    "groupName": "福建",
+    "urls": [
+      "https://live1b.kxm.xmtv.cn/xm2bf/playlist.m3u8"
     ]
   },
 
