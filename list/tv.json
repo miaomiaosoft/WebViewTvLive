@@ -361,6 +361,24 @@
   },
 
 
+  {
+    "name": "中国气象",
+    "groupName": "央视",
+    "urls": [
+      "http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8",
+      "http://timetv.xyz/qita/china-weather.html"
+    ]
+  },
+  {
+    "name": "直播中国",
+    "groupName": "央视",
+    "urls": [
+      "https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8",
+      "https://yibababa.com/tv/qita/live-china.html"
+    ]
+  },
+
+
   
   {
     "name": "惠买 优购物",
@@ -569,6 +587,7 @@
     "name": "山西卫视",
     "groupName": "卫视",
     "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600190407",
       "https://www.sxrtv.com/tv/index.shtml",
       "http://timetv.xyz/weishi/shanxi.html"
     ]
@@ -577,6 +596,7 @@
     "name": "云南卫视",
     "groupName": "卫视",
     "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600190402",
       "https://www.yntv.cn/live.html",
       "http://timetv.xyz/weishi/yunnan.html"
     ]
@@ -585,6 +605,7 @@
     "name": "天津卫视",
     "groupName": "卫视",
     "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600152137",
       "http://58.19.244.92:1111/tsfile/live/1006_1.m3u8",
       "http://timetv.xyz/weishi/tianjin.html"
     ]
@@ -593,6 +614,7 @@
     "name": "青海卫视",
     "groupName": "卫视",
     "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600190406",
       "http://www.qhbtv.com/new_index/live/folder2646/"
     ]
   },
@@ -600,6 +622,7 @@
     "name": "陕西卫视",
     "groupName": "卫视",
     "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600190400",
       "http://www.sxtvs.com/sxtvs_sxws/index.html",
       "http://live.snrtv.com/star"
     ]
@@ -608,6 +631,7 @@
     "name": "吉林卫视",
     "groupName": "卫视",
     "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600190405",
       "https://www.jlntv.cn/tv?id=104",
       "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226397/index.m3u8$7.9M_1080"
     ]
@@ -625,6 +649,7 @@
     "name": "西藏卫视",
     "groupName": "卫视",
     "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600190403",
       "http://timetv.xyz/weishi/xizang.html",
       "https://www.vtibet.cn/html/CHAL1492477520535104/2021111212835975309/index.shtml"
     ]
@@ -633,6 +658,7 @@
     "name": "内蒙古台",
     "groupName": "卫视",
     "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600190401",
       "https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880",
       "https://www.nmtv.cn/liveTv"
     ]
@@ -641,6 +667,7 @@
     "name": "甘肃卫视",
     "groupName": "卫视",
     "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600190408",
       "https://www.gstv.com.cn/zxc.jhtml",
       "http://timetv.xyz/weishi/gansu.html"
     ]
@@ -649,6 +676,7 @@
     "name": "宁夏卫视",
     "groupName": "卫视",
     "urls": [
+      "https://www.yangshipin.cn/tv/home?pid=600190737",
       "http://timetv.xyz/weishi/ningxia.html"
     ]
   },
@@ -763,29 +791,6 @@
     "urls": [
       "http://zb.xzxwhcb.com:9999/hls/world.m3u8",
       "http://timetv.xyz/qita/universal.html"
-    ]
-  },
-  {
-    "name": "亞太第一",
-    "groupName": "卫视",
-    "urls": [
-      "http://play2.one-tv.com/live/onetv.m3u8"
-    ]
-  },
-  {
-    "name": "中国气象",
-    "groupName": "卫视",
-    "urls": [
-      "http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8",
-      "http://timetv.xyz/qita/china-weather.html"
-    ]
-  },
-  {
-    "name": "直播中国",
-    "groupName": "卫视",
-    "urls": [
-      "https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8",
-      "https://yibababa.com/tv/qita/live-china.html"
     ]
   },
 
@@ -4477,14 +4482,6 @@
     ]
   },
   {
-    "name": "DMAX",
-    "groupName": "台湾",
-    "urls": [
-      "https://www.parsatv.com/embed.php?name=DMAX&auto=true",
-      "https://www.tiantianzhibo.net/player/index?id=94afxFOHiDSJSuNlsPwiRRtx3zf29RqtOLYdJIxNa0azkfIrKw"
-    ]
-  },
-  {
     "name": "SMART",
     "groupName": "台湾",
     "urls": [
@@ -5669,6 +5666,14 @@
     "urls": [
       "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8",
       "https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "DMAX",
+    "groupName": "海外",
+    "urls": [
+      "https://www.parsatv.com/embed.php?name=DMAX&auto=true",
+      "https://www.tiantianzhibo.net/player/index?id=94afxFOHiDSJSuNlsPwiRRtx3zf29RqtOLYdJIxNa0azkfIrKw"
     ]
   },
   {
