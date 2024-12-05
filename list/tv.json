@@ -402,6 +402,13 @@
       "https://yibababa.com/tv/qita/live-china.html"
     ]
   },
+  {
+    "name": "澎湃直播",
+    "groupName": "央视",
+    "urls": [
+      "https://www.thepaper.cn/channel_128409"
+    ]
+  },
 
 
   
@@ -724,6 +731,7 @@
     "name": "三沙卫视",
     "groupName": "卫视",
     "urls": [
+      "https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home",
       "https://www.123iptv.tv/player/index?id=79beCY62_kWt6yTFgYpFuwciakC_o1ZVenw2U0o7SiVG",
       "https://live.douyin.com/317636109251",
       "http://timetv.xyz/weishi/sansha.html",
@@ -3951,32 +3959,13 @@
 
 
   {
-    "name": "Now新闻1",
+    "name": "Now新闻",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/yuYVK7yWL-0?autoplay=1",
+      "https://www.youtube.com/embed/wYzhmfL3Nsk?autoplay=1",
       "https://tv2.wfuapp.com/2024/07/nownews-ai-live.html"
     ]
   },
-  {
-    "name": "Now新闻2",
-    "groupName": "台湾",
-    "urls": [
-      "https://www.youtube.com/embed/5PzflKT_OkM?autoplay=1",
-      "https://tv2.wfuapp.com/2024/07/nownews-ai-live.html"
-    ]
-  },
-  {
-    "name": "Now新闻3",
-    "groupName": "台湾",
-    "urls": [
-      "https://www.youtube.com/embed/F7U8ci-6RWs?autoplay=1",
-      "https://tv2.wfuapp.com/2024/07/nownews-ai-live.html"
-    ]
-  },
-  
-  
-
   {
     "name": "年代新闻",
     "groupName": "台湾",
@@ -3993,6 +3982,13 @@
       "https://idx.gdplayertv.to/live-tv/unique-business-news/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=0fc62kOTORsyvwYCjktvSYuw260tWwoL3QViHQ_IDpE2r7pmOA",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165113&pathid=0"
+    ]
+  },
+  {
+    "name": "运通财经",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCiqm4JC8lbGqgePjHd3Mahw"
     ]
   },
   {
@@ -4554,6 +4550,14 @@
     ]
   },
   {
+    "name": "香港电台",
+    "groupName": "港澳",
+    "urls": [
+      "https://rthkcnews-live.akamaized.net/hls/live/2043518/633065/CNewsLive/720p/720p.m3u8",
+      "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/live-video-news.htm"
+    ]
+  },
+  {
     "name": "RTHK 33",
     "groupName": "港澳",
     "urls": [
@@ -4784,6 +4788,13 @@
 
 
 
+  {
+    "name": "[FR] FRI RADIO",
+    "groupName": "海外",
+    "urls": [
+      "https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3"
+    ]
+  },
   {
     "name": "[DE] DW NEWS",
     "groupName": "海外",
@@ -6894,6 +6905,13 @@
     "groupName": "其他",
     "urls": [
       "https://www.youtube.com/embed/M_W3ppj-Umg?autoplay=1"
+    ]
+  },
+  {
+    "name": "Youtube NCS Arcade - Copyright Free Music Livestream 🎵",
+    "groupName": "其他",
+    "urls": [
+      "https://www.youtube.com/embed/7tNtU5XFwrU?autoplay=1"
     ]
   },
   
