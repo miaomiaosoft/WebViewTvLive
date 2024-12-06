@@ -2664,7 +2664,7 @@
     "name": "青岛-2",
     "groupName": "山东",
     "urls": [
-      "http://www.qtv.com.cn/live/tv/tv_qtv2.shtml";
+      "http://www.qtv.com.cn/live/tv/tv_qtv2.shtml",
       "http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8"
     ]
   },
