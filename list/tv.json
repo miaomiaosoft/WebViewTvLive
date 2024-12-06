@@ -412,6 +412,14 @@
       "https://www.thepaper.cn/channel_128409"
     ]
   },
+  {
+    "name": "每经直播",
+    "groupName": "央视",
+    "urls": [
+      "https://swiftplay.hxkjmedia.com/tv/spbW.m3u8",
+      "http://www.nbd.com.cn/corp/AiTv/index.html"
+    ]
+  },
 
 
   
@@ -632,6 +640,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600190402",
+      "http://nettv.live/player/play.html?url=http://hwzbout.yntv.net/62hdvf/41hse3.flv&t=xg2",
       "https://www.yntv.cn/live.html",
       "http://timetv.xyz/weishi/yunnan.html"
     ]
@@ -719,6 +728,8 @@
     "name": "南方卫视",
     "groupName": "卫视",
     "urls": [
+      "https://k44991.kylintv.tv/live/tvs_iphone.m3u8",
+      "https://hc73k3dhwo5gfkt.wcetv.com/hls/gdtv.m3u8",
       "https://m.gdtv.cn/tvChannelDetail/51",
       "https://m.gdtv.cn/tvChannelDetail/46"
     ]
@@ -753,6 +764,13 @@
     "groupName": "卫视",
     "urls": [
       "https://www.kangbatv.com/zb_22587/"
+    ]
+  },
+  {
+    "name": "安多卫视",
+    "groupName": "卫视",
+    "urls": [
+      "http://www.qhtb.cn/onlin/onlin_tv/"
     ]
   },
   {
@@ -1406,6 +1424,110 @@
   },
 
 
+  {
+    "name": "阳江-1",
+    "groupName": "广东",
+    "urls": [
+      "https://live.yjtvw.com:8081/live/yjtv1.m3u8",
+      "http://nettv.live/guangdong/yangjiang/1332.html"
+    ]
+  },
+  {
+    "name": "阳江-2",
+    "groupName": "广东",
+    "urls": [
+      "https://live.yjtvw.com:8081/live/yjtv2.m3u8",
+      "http://nettv.live/guangdong/yangjiang/1333.html"
+    ]
+  },
+
+  {
+    "name": "肇庆综合",
+    "groupName": "广东",
+    "urls": [
+      "https://zqvlivestream.xjrb.com/zqtlive_slow/eed84230447e4eed917191d72b5d8b73_779.m3u8",
+      "http://nettv.live/guangdong/zhaoqing/1334.html"
+    ]
+  },
+  {
+    "name": "肇庆生活",
+    "groupName": "广东",
+    "urls": [
+      "https://zqvlivestream.xjrb.com/zqtlive_slow/eed84230447e4eed917191d72b5d8b73_786.m3u8",
+      "http://nettv.live/guangdong/zhaoqing/1335.html"
+    ]
+  },
+  {
+    "name": "潮州综合",
+    "groupName": "广东",
+    "urls": [
+      "https://liveshowapp.kanchaozhou.com/web/fslivemobile/index.html?id=1101&domain=https://app.kanchaozhou.com"
+    ]
+  },
+  {
+    "name": "潮州民生",
+    "groupName": "广东",
+    "urls": [
+      "https://liveshowapp.kanchaozhou.com/web/fslivemobile/index.html?id=1102&domain=https://app.kanchaozhou.com"
+    ]
+  },
+  {
+    "name": "云浮综合",
+    "groupName": "广东",
+    "urls": [
+      "https://livestream.oeeee.com/slive/17806.m3u8",
+      "http://nettv.live/guangdong/yunfu/3446.html"
+    ]
+  },
+  {
+    "name": "云浮文旅",
+    "groupName": "广东",
+    "urls": [
+      "https://livestream.oeeee.com/slive/17807.m3u8",
+      "http://nettv.live/guangdong/yunfu/7069.html"
+    ]
+  },
+  {
+    "name": "清远综合",
+    "groupName": "广东",
+    "urls": [
+      "https://zmylivestream.nfnews.com/zmy_slive/25319.m3u8",
+      "http://nettv.live/guangdong/qingyuan/234.html"
+    ]
+  },
+  {
+    "name": "清远文旅",
+    "groupName": "广东",
+    "urls": [
+      "https://zmylivestream.nfnews.com/zmy_slive/25321.m3u8",
+      "http://nettv.live/guangdong/qingyuan/235.html"
+    ]
+  },
+  {
+    "name": "丰顺综合",
+    "groupName": "广东",
+    "urls": [
+      "https://p2.vzan.com/701678271/024926084736123670/live.m3u8",
+      "http://nettv.live/guangdong/meizhou/6873.html"
+    ]
+  },
+  {
+    "name": "番禹综合",
+    "groupName": "广东",
+    "urls": [
+      "http://nettv.live/guangdong/guangzhou/6062.html"
+    ]
+  },
+  {
+    "name": "韶关综合",
+    "groupName": "广东",
+    "urls": [
+      "https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8",
+      "https://www.sgmsw.cn/v/tv"
+    ]
+  },
+
+
 
 
 
@@ -1744,6 +1866,23 @@
     ]
   },
 
+  {
+    "name": "宁德新闻综合",
+    "groupName": "福建",
+    "urls": [
+      "http://nettv.live/embed/ningde.html?id=xwzh",
+      "http://nettv.live/fujian/ningde/4594.html"
+    ]
+  },
+  {
+    "name": "宁德文化旅游",
+    "groupName": "福建",
+    "urls": [
+      "http://nettv.live/embed/ningde.html?id=whly",
+      "http://nettv.live/fujian/ningde/4595.html"
+    ]
+  },
+  
 
   
   {
@@ -1751,6 +1890,14 @@
     "groupName": "福建",
     "urls": [
       "https://www.ptbtv.com/live/xyds/"
+    ]
+  },
+  {
+    "name": "石狮电视",
+    "groupName": "福建",
+    "urls": [
+      "http://nettv.live/embed/shishi.php?id=xwzh",
+      "http://nettv.live/fujian/quanzhou/717.html"
     ]
   },
   {
@@ -1764,10 +1911,19 @@
     "name": "晋江电视",
     "groupName": "福建",
     "urls": [
+      "https://live.ijjnews.com/jjtv/sd/live.m3u8",
       "http://www.jinjiang.tv/live/"
     ]
   },
 
+  {
+    "name": "云宵综合",
+    "groupName": "福建",
+    "urls": [
+      "http://live.zzyxxw.com:85/live/xwzh.m3u8",
+      "http://nettv.live/fujian/zhangzhou/8971.html"
+    ]
+  },
 
 
 
@@ -1886,6 +2042,14 @@
       "http://xbtv.net/index.php?m=content&c=player&catid=130&id=3168&f=mediaurl&n=2"
     ]
   },
+  {
+    "name": "南昌县台",
+    "groupName": "江西",
+    "urls": [
+      "http://nettv.live/embed/nanchang.php?id=9",
+      "http://nettv.live/jiangxi/nanchang/2159.html"
+    ]
+  },
 
 
   
@@ -1904,6 +2068,24 @@
     ]
   },
 
+
+
+  {
+    "name": "萍乡新闻综合",
+    "groupName": "江西",
+    "urls": [
+      "https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8",
+      "http://nettv.live/jiangxi/pingxiang/1215.html"
+    ]
+  },
+  {
+    "name": "萍乡公共频道",
+    "groupName": "江西",
+    "urls": [
+      "https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8",
+      "http://nettv.live/jiangxi/pingxiang/4162.html"
+    ]
+  },
 
   
   {
@@ -1928,21 +2110,103 @@
     ]
   },
   {
-    "name": "宜春新闻综合",
+    "name": "宜春综合",
     "groupName": "江西",
     "urls": [
-      "http://live2.ycstv.com/hles/ycstv1.m3u8"
+      "https://live-yc.newsyc.com/wetef/sd/live.m3u8",
+      "http://live2.ycstv.com/hles/ycstv1.m3u8",
+      "http://nettv.live/jiangxi/yichun/1210.html"
     ]
   },
   {
-    "name": "宜春法制频道",
+    "name": "宜春公共",
+    "groupName": "江西",
+    "urls": [
+      "https://live-yc.newsyc.com/two/sd/live.m3u8",
+      "http://nettv.live/jiangxi/yichun/5378.html"
+    ]
+  },
+  {
+    "name": "宜春法制",
     "groupName": "江西",
     "urls": [
       "http://live2.ycstv.com/hles/ycstv2.m3u8"
     ]
   },
-  
-  
+  {
+    "name": "抚州综合",
+    "groupName": "江西",
+    "urls": [
+      "http://tv.live.fgtxnews.com/fztv/zonghe.m3u8",
+      "http://nettv.live/jiangxi/fuzhou/3303.html"
+    ]
+  },
+  {
+    "name": "抚州公共",
+    "groupName": "江西",
+    "urls": [
+      "http://tv.live.fgtxnews.com/fztv/gonggong.m3u8",
+      "http://nettv.live/jiangxi/fuzhou/3304.html"
+    ]
+  },
+
+  {
+    "name": "瑞金综合",
+    "groupName": "江西",
+    "urls": [
+      "http://nettv.live/jiangxi/ganzhou/803.html"
+    ]
+  },
+  {
+    "name": "新余综合",
+    "groupName": "江西",
+    "urls": [
+      "https://play-live-hls.jxtvcn.com.cn/live-city/tv_xinyu.m3u8",
+      "http://nettv.live/jiangxi/xinyu/327.html"
+    ]
+  },
+  {
+    "name": "贵溪综合",
+    "groupName": "江西",
+    "urls": [
+      "http://guixibc.jxshiju.com/live/guixi.m3u8",
+      "http://nettv.live/jiangxi/yingtan/9285.html"
+    ]
+  },
+  {
+    "name": "新建电视",
+    "groupName": "江西",
+    "urls": [
+      "http://nettv.live/embed/nanchang.php?id=8",
+      "http://nettv.live/jiangxi/nanchang/2200.html"
+    ]
+  },
+  {
+    "name": "进贤电视",
+    "groupName": "江西",
+    "urls": [
+      "http://nettv.live/embed/nanchang.php?id=11",
+      "http://nettv.live/jiangxi/nanchang/7604.html"
+    ]
+  },
+  {
+    "name": "安义电视",
+    "groupName": "江西",
+    "urls": [
+      "http://nettv.live/embed/nanchang.php?id=10",
+      "http://nettv.live/jiangxi/nanchang/2166.html"
+    ]
+  },
+  {
+    "name": "兴国电视",
+    "groupName": "江西",
+    "urls": [
+      "http://live.yun.jxntv.cn/video/s10022-6666/index.m3u8",
+      "http://nettv.live/jiangxi/ganzhou/1214.html"
+    ]
+  },
+
+
   
   
   
@@ -3287,6 +3551,7 @@
     "urls": [
       "https://www.tiantianzhibo.net/player/index?id=014cAVhzGF9hlvfKzCNjTrfovQESt5OTwzVg6Z8i8ii4Oh0",
       "https://www.123iptv.tv/player/index?id=6e08FxLSODn2kl7cgrAV-RRDZAq6aaXJEifQaxn5ltsp",
+      "http://nettv.live/embed/btime.php?id=btvwy",
       "https://www.brtn.cn/btv/btvsy_index"
     ]
   },
@@ -3305,6 +3570,31 @@
     "urls": [
       "https://www.tiantianzhibo.net/player/index?id=b35cwLLnqGhtMk_lQMPcCyVVuN4BX5thmD9DO1k5_MCW6Ps",
       "https://www.123iptv.tv/player/index?id=313ew2yeatp2DpLFOQvs3uW-ML9ydw5pOU_LRmVSOCRK",
+      "http://nettv.live/embed/btime.php?id=btvsh",
+      "https://www.brtn.cn/btv/btvsy_index"
+    ]
+  },
+  {
+    "name": "北京影视",
+    "groupName": "北京",
+    "urls": [
+      "http://nettv.live/embed/btime.php?id=btvys",
+      "https://www.brtn.cn/btv/btvsy_index"
+    ]
+  },
+  {
+    "name": "北京新闻",
+    "groupName": "北京",
+    "urls": [
+      "http://nettv.live/embed/btime.php?id=btvxw",
+      "https://www.brtn.cn/btv/btvsy_index"
+    ]
+  },
+  {
+    "name": "北京纪实科教",
+    "groupName": "北京",
+    "urls": [
+      "http://nettv.live/embed/btime.php?id=btvkj",
       "https://www.brtn.cn/btv/btvsy_index"
     ]
   },
@@ -3319,7 +3609,53 @@
   },
 
 
-
+  {
+    "name": "顺义-1",
+    "groupName": "北京",
+    "urls": [
+      "https://livebjsy.chinamcache.com/live/zb01.m3u8",
+      "http://nettv.live/beijing/3873.html"
+    ]
+  },
+  {
+    "name": "顺义-2",
+    "groupName": "北京",
+    "urls": [
+      "https://livebjsy.chinamcache.com/live/zb02.m3u8",
+      "http://nettv.live/beijing/3873.html"
+    ]
+  },
+  {
+    "name": "延庆电视",
+    "groupName": "北京",
+    "urls": [
+      "https://videoplay.yanqingrmzx.com/yanqappvideo/yqingappvideo.m3u8?auth_key=1725670927-0-0-692111986e725c19ea6478b894e23911",
+      "http://nettv.live/beijing/8632.html"
+    ]
+  },
+  {
+    "name": "昌平综合",
+    "groupName": "北京",
+    "urls": [
+      "https://web.guangdianyun.tv/tv/3341?uin=3698"
+    ]
+  },
+  {
+    "name": "大兴电视",
+    "groupName": "北京",
+    "urls": [
+      "http://nettv.live/embed/daxing.php"
+    ]
+  },
+  {
+    "name": "爱家购物",
+    "groupName": "北京",
+    "urls": [
+      "http://nettv.live/embed/ugoshop.php?id=aijia"
+    ]
+  },
+  
+  
 
   
   {
@@ -3445,6 +3781,13 @@
     ]
   },
   {
+    "name": "东森美洲",
+    "groupName": "台湾",
+    "urls": [
+      "http://38.64.72.148/hls/modn/list/2003/chunklist1.m3u8"
+    ]
+  },
+  {
     "name": "东森幼幼",
     "groupName": "台湾",
     "urls": [
@@ -3503,12 +3846,20 @@
     ]
   },
   {
-    "name": "中天新闻",
+    "name": "中天新闻1",
     "groupName": "台湾",
     "urls": [
       "https://www.youtube.com/embed/vr3XyVCR4T0?autoplay=1",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165075&pathid=0",
       "https://tv2.wfuapp.com/2019/12/ctitv-news-live.html"
+    ]
+  },
+  {
+    "name": "中天新闻2",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCwbtZdhuhANYFNRPa99-16Q",
+      "http://nettv.live/taiwan/11400.html"
     ]
   },
   {
@@ -3967,6 +4318,13 @@
     ]
   },
   {
+    "name": "全球财经",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCtNL3hNIPMvwYufr1VKLi1Q"
+    ]
+  },
+  {
     "name": "镜新闻",
     "groupName": "台湾",
     "urls": [
@@ -4146,7 +4504,36 @@
   },
 
 
-
+  {
+    "name": "VIVA购物1",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/7IyxOiGMLgw?autoplay=1"
+    ]
+  },
+  {
+    "name": "VIVA购物2",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/lEXITHxcagI?autoplay=1"
+    ]
+  },
+  
+  {
+    "name": "MOMO购物1",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UC4_WjgHnlKssNxWo0uFzEcw"
+    ]
+  },
+  {
+    "name": "MOMO购物1",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCDhA7JbV2QQ-Ic9FrbeEEHA"
+    ]
+  },
+  
   {
     "name": "人间卫视",
     "groupName": "台湾",
@@ -4155,10 +4542,25 @@
     ]
   },
   {
+    "name": "十方法界",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCyi1TDk38dg5YrmCORsq9Gg"
+    ]
+  },
+  {
     "name": "正德电视",
     "groupName": "台湾",
     "urls": [
       "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCEaOL55dVM5xg-oX-Gs0DlQ"
+    ]
+  },
+  {
+    "name": "佛卫慈悲",
+    "groupName": "台湾",
+    "urls": [
+      "https://live-ott2b2.cdn.hinet.net/ott2b2-live/bts/playlist.m3u8",
+      "https://ottlive.hinet.net/webapp/bts/live"
     ]
   },
   {
@@ -4190,6 +4592,28 @@
     "urls": [
       "https://embed.jetstream.studio/embed/jsl:nGL7123If9H/jsp:PA39Owb5kkR",
       "https://chinesehope.tv/live.php/0"
+    ]
+  },
+  {
+    "name": "孝廉文化",
+    "groupName": "台湾",
+    "urls": [
+      "https://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8",
+      "http://nettv.live/taiwan/3842.html"
+    ]
+  },
+  {
+    "name": "世界电视",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UC6_7Hyfgx5_9qtKryb2dSlg"
+    ]
+  },
+  {
+    "name": "三圣电视",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCGQ5-eJkLkuhewXUqZiqx_w"
     ]
   },
   {
@@ -4232,6 +4656,14 @@
     ]
   },
   {
+    "name": "华语电视",
+    "groupName": "台湾",
+    "urls": [
+      "http://38.64.72.148/hls/modn/list/4002/chunklist1.m3u8",
+      "http://nettv.live/North-America/USA/5951.html"
+    ]
+  },
+  {
     "name": "海豚综合",
     "groupName": "台湾",
     "urls": [
@@ -4256,6 +4688,14 @@
     ]
   },
   {
+    "name": "桐瑛台中",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCa3iexJjlIOwxnYuXyYJ6Yw",
+      "https://tv2.wfuapp.com/?title=%E6%A1%90%E7%91%9B%E5%8F%B0%E5%8D%97%E9%9B%BB%E8%A6%96%E8%87%BA(%E7%9B%B4%E6%92%AD)&channel=UCnBeKp96tQ0DD6s6D6BZGig&group=%E7%B6%9C%E5%90%88"
+    ]
+  },
+  {
     "name": "桐瑛台南",
     "groupName": "台湾",
     "urls": [
@@ -4269,6 +4709,15 @@
     "urls": [
       "http://www.fanstv.tw/fans.html",
       "https://tv2.wfuapp.com/2019/12/fans-tv-live.html"
+    ]
+  },
+  {
+    "name": "富立电视",
+    "groupName": "台湾",
+    "urls": [
+      "http://tv.fltvshow.com.tw/hls/fltv.m3u8",
+      "http://tv.fltvshow.com.tw/hls/show.m3u8",
+      "http://nettv.live/taiwan/4058.html"
     ]
   },
   {
@@ -4313,6 +4762,7 @@
     "groupName": "台湾",
     "urls": [
       "http://61.221.215.25:8800/hls/57/index.m3u8",
+      "http://nettv.live/hls/api.php?id=157",
       "http://cookies.elementfx.com/ublive/ublive.php?id=367"
     ]
   },
@@ -4518,6 +4968,14 @@
     ]
   },
   {
+    "name": "凤凰美洲",
+    "groupName": "港澳",
+    "urls": [
+      "https://k44991.kylintv.tv/live/pxnaus_iphone.m3u8",
+      "http://nettv.live/hongkong/3601.html"
+    ]
+  },
+  {
     "name": "香港电台",
     "groupName": "港澳",
     "urls": [
@@ -4645,6 +5103,29 @@
     ]
   },
   {
+    "name": "热血时报",
+    "groupName": "港澳",
+    "urls": [
+      "https://ptmirror3.passiontimes.hk/hls3/stream.m3u8",
+      "http://nettv.live/hongkong/9495.html"
+    ]
+  },
+  {
+    "name": "佛陀教育",
+    "groupName": "港澳",
+    "urls": [
+      "https://live.jingzong.org/live/hd/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "阳光卫视",
+    "groupName": "港澳",
+    "urls": [
+      "https://stream.chinasuntv.com/680k/mid_video_index.m3u8",
+      "http://nettv.live/hongkong/3602.html"
+    ]
+  },
+  {
     "name": "第一卫视",
     "groupName": "港澳",
     "urls": [
@@ -4682,17 +5163,11 @@
     ]
   },
   {
-    "name": "美亚娱乐",
-    "groupName": "港澳",
-    "urls": [
-      "https://idx.gdplayertv.to/live-tv/mei-ah-entertainment/?embed=1"
-    ]
-  },
-  {
     "name": "澳门莲花",
     "groupName": "港澳",
     "urls": [
       "http://php.jdshipin.com:8880/amlh.php",
+      "http://nettv.live/embed/lotustv.php",
       "http://cookies.elementfx.com/ublive/ublive.php?id=70",
       "http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8",
       "https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus-avc1_3000000=294.m3u8",
@@ -4752,6 +5227,13 @@
     "groupName": "港澳",
     "urls": [
       "https://www.tdm.com.mo/zh-hant/live?Channel=9&type=tv"
+    ]
+  },
+  {
+    "name": "澳门赛马会",
+    "groupName": "港澳",
+    "urls": [
+      "https://www.mjc.mo/race/info/live.php"
     ]
   },
   
@@ -4949,6 +5431,85 @@
       "https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/zh/playlist.m3u8",
       "https://www3.nhk.or.jp/nhkworld/common/player/tv/cclive/embed/embed.html?movie=truel&lang=zh",
       "https://tv2.wfuapp.com/2020/01/nhk.html"
+    ]
+  },
+  {
+    "name": "[US] Lifetime",
+    "groupName": "海外",
+    "urls": [
+      "http://212.102.60.231/LIFETIME/index.m3u8",
+      "http://nettv.live/global/unknown/11603.html"
+    ]
+  },
+  {
+    "name": "[US] Muzzik TV",
+    "groupName": "海外",
+    "urls": [
+      "https://muzzik-live.morescreens.com/mts-6/playlist.m3u8",
+      "http://nettv.live/global/unknown/10171.html"
+    ]
+  },
+  {
+    "name": "[US] Bob Ross TV",
+    "groupName": "海外",
+    "urls": [
+      "https://amg01201-cinedigmenterta-bobross-cineverse-c325x.amagi.tv/playlist/amg01201-cinedigmenterta-bobross-cineverse/playlist.m3u8",
+      "http://nettv.live/global/unknown/12147.html"
+    ]
+  },
+  {
+    "name": "[US] UN Web TV",
+    "groupName": "海外",
+    "urls": [
+      "https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8",
+      "http://nettv.live/global/5273.html"
+    ]
+  },
+  {
+    "name": "[US] Wildside TV",
+    "groupName": "海外",
+    "urls": [
+      "https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8",
+      "http://nettv.live/global/unknown/11682.html"
+    ]
+  },
+  {
+    "name": "[US] Extrema TV",
+    "groupName": "海外",
+    "urls": [
+      "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8",
+      "http://nettv.live/North-America/USA/5876.html"
+    ]
+  },
+  {
+    "name": "[US] Revry LGBTQ TV",
+    "groupName": "海外",
+    "urls": [
+      "https://linear-43.frequency.stream/dist/localnow/43/hls/master/playlist.m3u8",
+      "http://nettv.live/North-America/USA/11978.html"
+    ]
+  },
+  {
+    "name": "[US] Jetsons TV",
+    "groupName": "海外",
+    "urls": [
+      "https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8",
+      "http://nettv.live/global/unknown/11515.html"
+    ]
+  },
+  {
+    "name": "[US] Amazing Facts TV",
+    "groupName": "海外",
+    "urls": [
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UC6VJE6cD8ZPpe6ZOtVtlBTA"
+    ]
+  },
+  {
+    "name": "[FR] Yahoo! Finance",
+    "groupName": "海外",
+    "urls": [
+      "https://yahoo-samsung.amagi.tv/playlist.m3u8",
+      "http://nettv.live/global/unknown/10562.html"
     ]
   },
   {
@@ -5770,7 +6331,8 @@
     "name": "Miami",
     "groupName": "成人",
     "urls": [
-      "https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8"
+      "https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8",
+      "https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8"
     ]
   },
   {
@@ -5796,6 +6358,156 @@
       "https://proxy.flashcs6.eu.org/web/https/sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8"
     ]
   },
+
+
+
+  {
+    "name": "Adulttv Brazzers TV",
+    "groupName": "成人",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?adulttv=brazzerstv",
+      "https://adult-tv-channels.com/brazzers-tv-online/"
+    ]
+  },
+  {
+    "name": "Adulttv Hustler TV",
+    "groupName": "成人",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?adulttv=hustlertv",
+      "https://adult-tv-channels.com/hustler-tv-online/"
+    ]
+  },
+  {
+    "name": "Adulttv Hustler HD",
+    "groupName": "成人",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?adulttv=hustlerhd",
+      "https://adult-tv-channels.com/hustler-hd-tv-online/"
+    ]
+  },
+  {
+    "name": "Adulttv Redlight HD",
+    "groupName": "成人",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?adulttv=redlight",
+      "https://adult-tv-channels.com/redlight-hd-online/"
+    ]
+  },
+  {
+    "name": "Adulttv Penthouse Passion",
+    "groupName": "成人",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?adulttv=penthousepassion",
+      "https://adult-tv-channels.com/penthouse-passion-tv-online/"
+    ]
+  },
+  {
+    "name": "Adulttv Penthouse TV",
+    "groupName": "成人",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?adulttv=penthouse",
+      "https://adult-tv-channels.com/penthouse-passion-online/"
+    ]
+  },
+  {
+    "name": "Adulttv SuperOne TV",
+    "groupName": "成人",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?adulttv=superone",
+      "https://adult-tv-channels.com/superone-tv-online/"
+    ]
+  },
+  {
+    "name": "Adulttv Vivid TV",
+    "groupName": "成人",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?adulttv=vivid",
+      "https://adult-tv-channels.com/vivid-tv-online/"
+    ]
+  },
+  {
+    "name": "Adulttv Dorcel TV",
+    "groupName": "成人",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?adulttv=dorcel",
+      "https://adult-tv-channels.com/dorcel-tv-online/"
+    ]
+  },
+  {
+    "name": "Adulttv OX-AX TV",
+    "groupName": "成人",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?adulttv=oxax",
+      "https://adult-tv-channels.com/ox-ax-tv-online/"
+    ]
+  },
+  {
+    "name": "Adulttv Passie TV",
+    "groupName": "成人",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?adulttv=passie.php",
+      "https://adult-tv-channels.com/passie-tv-online/"
+    ]
+  },
+  {
+    "name": "Adulttv Eroxxx HD",
+    "groupName": "成人",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?adulttv=eroxxx.php",
+      "https://adult-tv-channels.com/eroxxx-hd-tv-online/"
+    ]
+  },
+  {
+    "name": "Adulttv Playboy TV",
+    "groupName": "成人",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?adulttv=playboy.php",
+      "https://adult-tv-channels.com/playboy-tv-online/"
+    ]
+  },
+  {
+    "name": "Adulttv Pinko TV",
+    "groupName": "成人",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?adulttv=pinko.php",
+      "https://adult-tv-channels.com/pinko-tv-online/"
+    ]
+  },
+  {
+    "name": "Adulttv Extasy TV",
+    "groupName": "成人",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?adulttv=extasy.php",
+      "https://adult-tv-channels.com/extasy-tv-online/"
+    ]
+  },
+  {
+    "name": "Adulttv KinoXXX TV",
+    "groupName": "成人",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?adulttv=kinoxxx.php",
+      "https://adult-tv-channels.com/kinoxxx-tv-online/"
+    ]
+  },
+  {
+    "name": "Adulttv Penthouse Reality",
+    "groupName": "成人",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?adulttv=penthousereality.php",
+      "https://adult-tv-channels.com/penthouse-reality-tv-hd/"
+    ]
+  },
+  {
+    "name": "Adulttv Pink Erotic",
+    "groupName": "成人",
+    "urls": [
+      "https://miaotunnel.flashcs6.eu.org/?adulttv=pinkerotic.php",
+      "https://adult-tv-channels.com/pink-erotic-tv-online/"
+    ]
+  },
+  
+  
+  
   {
     "name": "AdultIPTV.net Live Cams",
     "groupName": "成人",
