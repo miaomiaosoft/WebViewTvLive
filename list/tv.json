@@ -245,6 +245,7 @@
     "groupName": "央视",
     "urls": [
       "http://58.19.244.92:1111/tsfile/live/1019_1.m3u8",
+      "http://cookies.elementfx.com/ublive/ublive.php?id=1346",
       "http://timetv.xyz/chc/chc-action.html"
     ]
   },
@@ -253,6 +254,7 @@
     "groupName": "央视",
     "urls": [
       "http://58.19.244.92:1111/tsfile/live/1018_1.m3u8",
+      "http://cookies.elementfx.com/ublive/ublive.php?id=1347",
       "http://timetv.xyz/chc/chc-family.html"
     ]
   },
@@ -261,6 +263,7 @@
     "groupName": "央视",
     "urls": [
       "http://58.19.244.92:1111/tsfile/live/1020_1.m3u8",
+      "http://cookies.elementfx.com/ublive/ublive.php?id=1345",
       "http://timetv.xyz/chc/chc-fan.html"
     ]
   },
@@ -733,7 +736,6 @@
     "urls": [
       "https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home",
       "https://www.123iptv.tv/player/index?id=79beCY62_kWt6yTFgYpFuwciakC_o1ZVenw2U0o7SiVG",
-      "https://live.douyin.com/317636109251",
       "http://timetv.xyz/weishi/sansha.html",
       "http://tv.hnntv.cn/live/sslive/"
     ]
@@ -3317,15 +3319,6 @@
   },
 
 
-  {
-    "name": "石景山",
-    "groupName": "北京",
-    "urls": [
-      "https://live.sjsrm.com/bjsjs/sd/live.m3u8"
-    ]
-  },
-
-
 
 
   
@@ -3390,6 +3383,15 @@
 
 
   {
+    "name": "东森综合",
+    "groupName": "台湾",
+    "urls": [
+      "https://idx.gdplayertv.to/live-tv/ebc-variety-tv/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=f352Z9Iib4gt-4o-2JdjxD-Lcal2DNVSdFv8_KgVIpNEjBnMBA",
+      "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165106&pathid=0"
+    ]
+  },
+  {
     "name": "东森新闻",
     "groupName": "台湾",
     "urls": [
@@ -3400,20 +3402,11 @@
     ]
   },
   {
-    "name": "东森综合",
-    "groupName": "台湾",
-    "urls": [
-      "https://idx.gdplayertv.to/live-tv/ebc-variety-tv/?embed=1",
-      "https://www.tiantianzhibo.net/player/index?id=f352Z9Iib4gt-4o-2JdjxD-Lcal2DNVSdFv8_KgVIpNEjBnMBA",
-      "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165106&pathid=0"
-    ]
-  },
-  {
     "name": "东森财经",
     "groupName": "台湾",
     "urls": [
-      "https://fnc.ebc.net.tw/",
       "https://www.tiantianzhibo.net/player/index?id=5440lDG41CDeziB7SsRoChqYyIiSs14oznWXOe6Pw3W09l32yA",
+      "https://www.youtube.com/@57ETFN/live",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165109&pathid=0"
     ]
   },
@@ -3448,7 +3441,6 @@
     "name": "东森超视",
     "groupName": "台湾",
     "urls": [
-      "http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8",
       "http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8"
     ]
   },
@@ -3466,8 +3458,8 @@
     "name": "东森购物1",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/ViJ3XiN6Q3M?autoplay=1",
       "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=4gtv-4gtv102",
+      "https://www.youtube.com/embed/ViJ3XiN6Q3M?autoplay=1",
       "https://www.ofiii.com/channel/watch/4gtv-4gtv102"
     ]
   },
@@ -3475,16 +3467,16 @@
     "name": "东森购物2",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/_Vlzn9qAHD4?autoplay=1",
-      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=4gtv-4gtv102"
+      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=4gtv-4gtv102",
+      "https://www.youtube.com/embed/_Vlzn9qAHD4?autoplay=1"
     ]
   },
   {
     "name": "东森购物3",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/Z50JFuNgvB0?autoplay=1",
       "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=4gtv-4gtv103",
+      "https://www.youtube.com/embed/Z50JFuNgvB0?autoplay=1",
       "https://www.ofiii.com/channel/watch/4gtv-4gtv103"
     ]
   },
@@ -3502,33 +3494,6 @@
 
 
   {
-    "name": "中天新闻1",
-    "groupName": "台湾",
-    "urls": [
-      "https://www.youtube.com/embed/vr3XyVCR4T0?autoplay=1",
-      "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165075&pathid=0",
-      "https://tv2.wfuapp.com/2019/12/ctitv-news-live.html"
-    ]
-  },
-  {
-    "name": "中天新闻2",
-    "groupName": "台湾",
-    "urls": [
-      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCwbtZdhuhANYFNRPa99-16Q",
-      "https://tv2.wfuapp.com/2019/12/ctitv-news-live.html"
-    ]
-  },
-  {
-    "name": "中天亚洲",
-    "groupName": "台湾",
-    "urls": [
-      "https://idx.gdplayertv.to/live-tv/cti-asia-tv/?embed=1",
-      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii36",
-      "https://www.tiantianzhibo.net/player/index?id=d544E5VceRuK-8IR-R3AThSRc7hQRyb6EkxkfTtKkWHO3pcf_Q",
-      "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165078&pathid=0"
-    ]
-  },
-  {
     "name": "中天综合",
     "groupName": "台湾",
     "urls": [
@@ -3538,14 +3503,32 @@
     ]
   },
   {
+    "name": "中天新闻",
+    "groupName": "台湾",
+    "urls": [
+      "https://www.youtube.com/embed/vr3XyVCR4T0?autoplay=1",
+      "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165075&pathid=0",
+      "https://tv2.wfuapp.com/2019/12/ctitv-news-live.html"
+    ]
+  },
+  {
+    "name": "中天亚洲",
+    "groupName": "台湾",
+    "urls": [
+      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=ofiii36",
+      "https://idx.gdplayertv.to/live-tv/cti-asia-tv/?embed=1",
+      "https://www.tiantianzhibo.net/player/index?id=d544E5VceRuK-8IR-R3AThSRc7hQRyb6EkxkfTtKkWHO3pcf_Q",
+      "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165078&pathid=0"
+    ]
+  },
+  {
     "name": "中天娱乐",
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/cti-entertainment-tv?embed=1",
       "http://61.221.215.25:8800/hls/47/index.m3u8",
       "https://www.tiantianzhibo.net/player/index?id=c0b48SyLZO0ITIxnAjZwlNytpWAvza6SJb8tSMHexU3GloSNYQ",
-      "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165076&pathid=0",
-      "http://61.221.215.25:8800/hls/47/index.m3u8"
+      "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165076&pathid=0"
     ]
   },
   
@@ -3553,18 +3536,20 @@
 
 
   {
-    "name": "三立新闻1",
+    "name": "三立综合",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/oZdzzvxTfUY?autoplay=1",
-      "https://tv2.wfuapp.com/2019/12/set-news-live.html"
+      "https://idx.gdplayertv.to/live-tv/set-variety-tv/?embed=1",
+      "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165101&pathid=0"
     ]
   },
   {
-    "name": "三立新闻2",
+    "name": "三立新闻",
     "groupName": "台湾",
     "urls": [
       "https://www.youtube.com/embed/pF507BLtbqU?autoplay=1",
+      "https://www.youtube.com/@setnews/live",
+      "https://tv2.wfuapp.com/2019/12/set-news-live.html",
       "https://tv2.wfuapp.com/2019/11/set-inews-live.html"
     ]
   },
@@ -3573,9 +3558,7 @@
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/set-metro-tv?embed=1",
-      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=iNEWS",
-      "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165102&pathid=0",
-      "https://www.ofiii.com/channel/watch/iNEWS"
+      "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165102&pathid=0"
     ]
   },
   {
@@ -3597,14 +3580,7 @@
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165100&pathid=0"
     ]
   },
-  {
-    "name": "三立综合",
-    "groupName": "台湾",
-    "urls": [
-      "https://idx.gdplayertv.to/live-tv/set-variety-tv/?embed=1",
-      "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165101&pathid=0"
-    ]
-  },
+
   
 
 
@@ -3613,7 +3589,6 @@
     "groupName": "台湾",
     "urls": [
       "https://www.4gtv.tv/channel/4gtv-4gtv040?set\u003d4\u0026ch\u003d4",
-      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=4gtv-4gtv040",
       "https://idx.gdplayertv.to/live-tv/ctv/?embed=1",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165082&pathid=0",
       "https://www.ofiii.com/channel/watch/4gtv-4gtv040"
@@ -3688,7 +3663,7 @@
     ]
   },
   {
-    "name": "公视TaiwanPlus",
+    "name": "公视Taiwan+",
     "groupName": "台湾",
     "urls": [
       "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"
@@ -3701,8 +3676,8 @@
     "name": "台视",
     "groupName": "台湾",
     "urls": [
-      "https://idx.gdplayertv.to/live-tv/taiwan-tv/?embed=1",
       "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=4gtv-4gtv066",
+      "https://idx.gdplayertv.to/live-tv/taiwan-tv/?embed=1",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165118&pathid=0",
       "https://www.ofiii.com/channel/watch/4gtv-4gtv066"
     ]
@@ -3780,7 +3755,6 @@
       "https://idx.gdplayertv.to/live-tv/tvbs/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=ab60w7_p7ftzmMkWv7OW9MiV6_5Tii9Ol48Pfji7jhqMu9i4EA",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165074&pathid=0",
-      "https://www.youtube.com/embed/o_-hSMgpAzs?autoplay=1",
       "https://tv2.wfuapp.com/2020/10/tvbs-56-live.html"
     ]
   },
@@ -3792,7 +3766,7 @@
       "http://61.221.215.25:8800/hls/9/index.m3u8",
       "https://www.tiantianzhibo.net/player/index?id=6023fEr-K5AqJnRMLI4Ryix9X_mCm_a0muZmXf6bQkSKbwwfDQ",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165072&pathid=0",
-      "https://www.youtube.com/embed/m_dhMSvUCIc?autoplay=1",
+      "https://www.youtube.com/@TVBSNEWS01/live",
       "https://tv2.wfuapp.com/2019/12/tvbs-news-live.html"
     ]
   },
@@ -3871,16 +3845,16 @@
     "name": "龙华电影",
     "groupName": "台湾",
     "urls": [
-      "https://www.ofiii.com/channel/watch/litv-longturn03",
-      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-longturn03"
+      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-longturn03",
+      "https://www.ofiii.com/channel/watch/litv-longturn03"
     ]
   },
   {
     "name": "龙华戏剧",
     "groupName": "台湾",
     "urls": [
-      "https://idx.gdplayertv.to/live-tv/ltv-drama/?embed=1",
       "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-longturn18",
+      "https://idx.gdplayertv.to/live-tv/ltv-drama/?embed=1",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165115&pathid=0",
       "https://www.ofiii.com/channel/watch/litv-longturn18"
     ]
@@ -3889,16 +3863,16 @@
     "name": "龙华经典",
     "groupName": "台湾",
     "urls": [
-      "https://www.ofiii.com/channel/watch/litv-longturn21",
-      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-longturn21"
+      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-longturn21",
+      "https://www.ofiii.com/channel/watch/litv-longturn21"
     ]
   },
   {
     "name": "龙华偶像",
     "groupName": "台湾",
     "urls": [
-      "https://idx.gdplayertv.to/live-tv/ltv-idol/?embed=1",
       "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-longturn12",
+      "https://idx.gdplayertv.to/live-tv/ltv-idol/?embed=1",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165117&pathid=0",
       "https://www.ofiii.com/channel/watch/litv-longturn12"
     ]
@@ -3907,16 +3881,16 @@
     "name": "龙华日韩",
     "groupName": "台湾",
     "urls": [
-      "https://www.ofiii.com/channel/watch/litv-longturn11",
-      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-longturn11"
+      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-longturn11",
+      "https://www.ofiii.com/channel/watch/litv-longturn11"
     ]
   },
   {
     "name": "龙华卡通",
     "groupName": "台湾",
     "urls": [
-      "https://www.ofiii.com/channel/watch/litv-longturn01",
-      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-longturn01"
+      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-longturn01",
+      "https://www.ofiii.com/channel/watch/litv-longturn01"
     ]
   },
 
@@ -3963,6 +3937,7 @@
     "groupName": "台湾",
     "urls": [
       "https://www.youtube.com/embed/wYzhmfL3Nsk?autoplay=1",
+      "https://www.youtube.com/@NOWnews-sp2di/live",
       "https://tv2.wfuapp.com/2024/07/nownews-ai-live.html"
     ]
   },
@@ -4015,8 +3990,8 @@
     "name": "大爱台1",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/MIqUplvSRWA?autoplay=1",
       "https://pulltv1.wanfudaluye.com/live/tv1.m3u8",
+      "https://www.youtube.com/embed/MIqUplvSRWA?autoplay=1",
       "https://www.tiantianzhibo.net/gangaotai/daai1tai.html",
       "https://www.4gtv.tv/channel/4gtv-live007?set\u003d4\u0026ch\u003d209"
     ]
@@ -4025,8 +4000,8 @@
     "name": "大爱台2",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/DTNkEm6jaqQ?autoplay=1",
       "https://pulltv2.wanfudaluye.com/live/tv2.m3u8",
+      "https://www.youtube.com/embed/DTNkEm6jaqQ?autoplay=1",
       "https://tv2.wfuapp.com/2019/12/daai-2.html"
     ]
   },
@@ -4060,8 +4035,8 @@
     "groupName": "台湾",
     "urls": [
       "https://www.4gtv.tv/channel/4gtv-4gtv079?set\u003d4\u0026ch\u003d189",
-      "https://www.tiantianzhibo.net/player/index?id=af6aPpVgHLk3M7uKw19O5V7hKbeTL5D6lDvT9qjtdtgQeif6Lg",
-      "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+      "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+      "https://www.tiantianzhibo.net/player/index?id=af6aPpVgHLk3M7uKw19O5V7hKbeTL5D6lDvT9qjtdtgQeif6Lg"
     ]
   },
   {
@@ -4084,8 +4059,8 @@
     "name": "台湾戏剧",
     "groupName": "台湾",
     "urls": [
-      "https://www.ofiii.com/channel/watch/litv-longturn22",
-      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-longturn22"
+      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-longturn22",
+      "https://www.ofiii.com/channel/watch/litv-longturn22"
     ]
   },
   {
@@ -4141,16 +4116,16 @@
     "name": "台湾国会1",
     "groupName": "台湾",
     "urls": [
-      "https://www.4gtv.tv/channel/4gtv-4gtv084?set=4&ch=170",
-      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=4gtv-4gtv084"
+      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=4gtv-4gtv084",
+      "https://www.4gtv.tv/channel/4gtv-4gtv084?set=4&ch=170"
     ]
   },
   {
     "name": "台湾国会2",
     "groupName": "台湾",
     "urls": [
-      "https://www.4gtv.tv/channel/4gtv-4gtv085?set=4&ch=171",
-      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=4gtv-4gtv085"
+      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=4gtv-4gtv085",
+      "https://www.4gtv.tv/channel/4gtv-4gtv085?set=4&ch=171"
     ]
   },
   {
@@ -4190,6 +4165,7 @@
     "name": "生命电视",
     "groupName": "台湾",
     "urls": [
+      "http://www.hoptv.tw:8080/ch/lifetvr/?w=100%25&h=100%25",
       "http://www.lifetv.org.tw/a_date/live.htm"
     ]
   },
@@ -4358,8 +4334,8 @@
     "name": "亚洲旅游",
     "groupName": "台湾",
     "urls": [
-      "https://idx.gdplayertv.to/live-tv/asia-travel-channel/?embed=1",
       "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-longturn17",
+      "https://idx.gdplayertv.to/live-tv/asia-travel-channel/?embed=1",
       "https://www.ofiii.com/channel/watch/litv-longturn17"
     ]
   },
@@ -4506,8 +4482,8 @@
     "name": "SMART",
     "groupName": "台湾",
     "urls": [
-      "https://www.ofiii.com/channel/watch/litv-longturn19",
-      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-longturn19"
+      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-longturn19",
+      "https://www.ofiii.com/channel/watch/litv-longturn19"
     ]
   },
 
@@ -4535,18 +4511,10 @@
     "name": "凤凰资讯",
     "groupName": "港澳",
     "urls": [
-      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCd9dPMYgV9-IQaZG491TaRw",
+      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UC4vnLYInDvXtLKGOZieMeMw",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=99&pathid=0",
       "https://tv2.wfuapp.com/2019/08/phoenix-media.html",
       "https://www.fengshows.com/live"
-    ]
-  },
-  {
-    "name": "凤凰香港",
-    "groupName": "港澳",
-    "urls": [
-      "https://tv2.wfuapp.com/2019/08/phoenix-media.html",
-      "https://www.fengshows.com/hongkongv"
     ]
   },
   {
@@ -4595,13 +4563,13 @@
     ]
   },
   {
-    "name": "TVB 无线新闻",
+    "name": "TVB 无线",
     "groupName": "港澳",
     "urls": [
-      "https://news.tvb.com/tc/live/83",
-      "https://www.tiantianzhibo.net/player/index?id=5e2avMI8JXyPe9rVuDSxwiCvsqAqCrPBqPsUSWrXDKN2L9rIzA",
       "https://idx.gdplayertv.to/live-tv/tvb-news/?embed=1",
-      "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=73&pathid=0"
+      "https://www.tiantianzhibo.net/player/index?id=5e2avMI8JXyPe9rVuDSxwiCvsqAqCrPBqPsUSWrXDKN2L9rIzA",
+      "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=73&pathid=0"，
+      "https://news.tvb.com/tc/live/83"
     ]
   },
   {
@@ -4724,6 +4692,9 @@
     "name": "澳门莲花",
     "groupName": "港澳",
     "urls": [
+      "http://php.jdshipin.com:8880/amlh.php",
+      "http://cookies.elementfx.com/ublive/ublive.php?id=70",
+      "http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8",
       "https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus-avc1_3000000=294.m3u8",
       "http://www.macaulotustv.cc/index.php/index/live.html",
       "http://www.macaulotustv.cc/"
