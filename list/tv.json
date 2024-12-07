@@ -533,7 +533,6 @@
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002485",
       "https://hc73k3dhwo5gfkt.wcetv.com/hls/gdsatellite.m3u8",
-      "http://117.161.12.116/live/program/live/gdwshd8m/8000000/mnf.m3u8",
       "https://www.gdtv.cn/tvChannelDetail/43"
     ]
   },
@@ -559,8 +558,7 @@
     "name": "重庆卫视",
     "groupName": "卫视",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002531",
-      "http://117.161.12.116/live/program/live/cqws8m/8000000/mnf.m3u8"
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002531"
     ]
   },
   {
@@ -576,8 +574,7 @@
     "name": "四川卫视",
     "groupName": "卫视",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002516",
-      "http://117.161.12.116/live/program/live/scwshd/8000000/mnf.m3u8"
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002516"
     ]
   },
   {
@@ -594,8 +591,7 @@
     "name": "东南卫视",
     "groupName": "卫视",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002484",
-      "http://117.161.12.116/live/program/live/dnwshd8m/8000000/mnf.m3u8",
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002484"
       "https://live.fjtv.net/setv/"
     ]
   },
@@ -620,8 +616,7 @@
     "name": "辽宁卫视",
     "groupName": "卫视",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002505",
-      "http://117.161.12.116/live/program/live/lnwshd8m/8000000/mnf.m3u8"
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002505"
     ]
   },
   {
@@ -4392,7 +4387,13 @@
       "https://idx.gdplayertv.to/live-tv/eye-tv-travel/?embed=1"
     ]
   },
-
+  {
+    "name": "ELTA娱乐",
+    "groupName": "台湾",
+    "urls": [
+      "https://litv.zapi.us.kg/?id=4gtv-4gtv070"
+    ]
+  },
 
 
   {
@@ -4521,6 +4522,20 @@
     ]
   },
   {
+    "name": "靖洋卡通",
+    "groupName": "台湾",
+    "urls": [
+      "https://litv.zapi.us.kg/?id=4gtv-4gtv057"
+    ]
+  },
+  {
+    "name": "靖洋戏剧",
+    "groupName": "台湾",
+    "urls": [
+      "https://litv.zapi.us.kg/?id=4gtv-4gtv045"
+    ]
+  },
+  {
     "name": "运通财经",
     "groupName": "台湾",
     "urls": [
@@ -4604,6 +4619,7 @@
     "groupName": "台湾",
     "urls": [
       "https://www.4gtv.tv/channel/4gtv-4gtv079?set\u003d4\u0026ch\u003d189",
+      "https://litv.zapi.us.kg/?id=4gtv-4gtv079",
       "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
       "https://www.tiantianzhibo.net/player/index?id=af6aPpVgHLk3M7uKw19O5V7hKbeTL5D6lDvT9qjtdtgQeif6Lg"
     ]
@@ -4621,7 +4637,15 @@
     "groupName": "台湾",
     "urls": [
       "https://www.4gtv.tv/channel/4gtv-4gtv006?set=4&ch=113",
+      "https://litv.zapi.us.kg/?id=4gtv-4gtv006",
       "https://www.tiantianzhibo.net/player/index?id=f5b7VoS3bzOSbPRqI4NREDkwyeRvhfD_sOeBdfBv7SdsVPu6BA"
+    ]
+  },
+  {
+    "name": "达文西",
+    "groupName": "台湾",
+    "urls": [
+      "https://litv.zapi.us.kg/?id=4gtv-4gtv018"
     ]
   },
   {
@@ -4631,6 +4655,13 @@
       "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=litv-longturn22",
       "http://litv.zapi.us.kg/?id=litv-longturn22",
       "https://www.ofiii.com/channel/watch/litv-longturn22"
+    ]
+  },
+  {
+    "name": "古典音乐",
+    "groupName": "台湾",
+    "urls": [
+      "https://litv.zapi.us.kg/?id=4gtv-4gtv059"
     ]
   },
   {
@@ -4687,6 +4718,7 @@
     "groupName": "台湾",
     "urls": [
       "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=4gtv-4gtv084",
+      "https://litv.zapi.us.kg/?id=4gtv-4gtv084",
       "https://www.4gtv.tv/channel/4gtv-4gtv084?set=4&ch=170"
     ]
   },
@@ -4695,6 +4727,7 @@
     "groupName": "台湾",
     "urls": [
       "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?ofiii=4gtv-4gtv085",
+      "https://litv.zapi.us.kg/?id=4gtv-4gtv085",
       "https://www.4gtv.tv/channel/4gtv-4gtv085?set=4&ch=171"
     ]
   },
@@ -4711,6 +4744,7 @@
     "groupName": "台湾",
     "urls": [
       "https://embed.4gtv.tv/hakka/hakkatv.html",
+      "https://litv.zapi.us.kg/?id=4gtv-4gtv043",
       "https://tv2.wfuapp.com/2019/12/hakka-tv-live.html"
     ]
   },
@@ -4739,7 +4773,7 @@
     ]
   },
   {
-    "name": "MOMO购物1",
+    "name": "MOMO购物2",
     "groupName": "台湾",
     "urls": [
       "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCDhA7JbV2QQ-Ic9FrbeEEHA"
@@ -4987,6 +5021,20 @@
     ]
   },
   {
+    "name": "时尚运动",
+    "groupName": "台湾",
+    "urls": [
+      "https://litv.zapi.us.kg/?id=4gtv-4gtv014"
+    ]
+  },
+  {
+    "name": "韩国娱乐",
+    "groupName": "台湾",
+    "urls": [
+      "https://litv.zapi.us.kg/?id=4gtv-4gtv016"
+    ]
+  },
+  {
     "name": "亚洲美食",
     "groupName": "台湾",
     "urls": [
@@ -5142,6 +5190,55 @@
       "https://idx.gdplayertv.to/live-tv/axn-tw/?embed=1",
       "https://www.tiantianzhibo.net/player/index?id=9121N-rEuuIcI4zreVa-uj2EmzFkOK5nuZNK3ZJ-Mxd2U16GULM",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165097&pathid=0"
+    ]
+  },
+  {
+    "name": "IFUN",
+    "groupName": "台湾",
+    "urls": [
+      "https://litv.zapi.us.kg/?id=litv-ftv15"
+    ]
+  },
+  {
+    "name": "LITV",
+    "groupName": "台湾",
+    "urls": [
+      "https://litv.zapi.us.kg/?id=4gtv-4gtv104"
+    ]
+  },
+  {
+    "name": "CNEX",
+    "groupName": "台湾",
+    "urls": [
+      "https://litv.zapi.us.kg/?id=4gtv-4gtv013"
+    ]
+  },
+  {
+    "name": "GINX",
+    "groupName": "台湾",
+    "urls": [
+      "https://litv.zapi.us.kg/?id=4gtv-4gtv053"
+    ]
+  },
+  {
+    "name": "ELTV",
+    "groupName": "台湾",
+    "urls": [
+      "https://litv.zapi.us.kg/?id=litv-longturn20"
+    ]
+  },
+  {
+    "name": "TRACE",
+    "groupName": "台湾",
+    "urls": [
+      "https://litv.zapi.us.kg/?id=4gtv-4gtv077"
+    ]
+  },
+  {
+    "name": "MEZZO",
+    "groupName": "台湾",
+    "urls": [
+      "https://litv.zapi.us.kg/?id=4gtv-4gtv083"
     ]
   },
   {
