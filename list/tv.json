@@ -755,6 +755,14 @@
     ]
   },
   {
+    "name": "厦门卫视",
+    "groupName": "卫视",
+    "urls": [
+      "http://nettv.live/hls/xiamentv.php?id=xmws",
+      "http://nettv.live/fujian/xiamen/xmtv.html"
+    ]
+  },
+  {
     "name": "三沙卫视",
     "groupName": "卫视",
     "urls": [
@@ -793,6 +801,14 @@
     "urls": [
       "http://nettv.live/embed/shanxi.html?id=sxhh",
       "https://www.sxrtv.com/tv/index.shtml"
+    ]
+  },
+  {
+    "name": "澜湄卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://k09093.kylintv.tv/live/yntv_iphone.m3u8",
+      "http://nettv.live/yunnan/3860.html"
     ]
   },
   {
@@ -1812,14 +1828,22 @@
 
 
   {
-    "name": "厦门-1",
+    "name": "厦门卫视",
+    "groupName": "福建",
+    "urls": [
+      "http://nettv.live/hls/xiamentv.php?id=xmws",
+      "http://nettv.live/fujian/xiamen/xmtv.html"
+    ]
+  },
+  {
+    "name": "厦门新闻综合",
     "groupName": "福建",
     "urls": [
       "https://live1b.kxm.xmtv.cn/xm1bf/playlist.m3u8"
     ]
   },
   {
-    "name": "厦门-2",
+    "name": "厦门海峡频道",
     "groupName": "福建",
     "urls": [
       "https://live1b.kxm.xmtv.cn/xm2bf/playlist.m3u8"
@@ -6812,53 +6836,14 @@
 
 
   {
-    "name": "测试跳转01",
+    "name": "测试频道",
     "groupName": "其他",
     "urls": [
       "https://miaotunnel.flashcs6.eu.org/?test=1",
       "https://miaotunnel.flashcs6.eu.org/?test=1"
     ]
   },
-  {
-    "name": "测试跳转02",
-    "groupName": "其他",
-    "urls": [
-      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?test=1",
-      "https://live.fanmingming.com/player/?vurl=https://miaotunnel.flashcs6.eu.org/?test=1"
-    ]
-  },
-  {
-    "name": "测试跳转03",
-    "groupName": "其他",
-    "urls": [
-      "http://icedwatermelonjuice.github.io/Online-Player/?url=https://miaotunnel.flashcs6.eu.org/?test=1",
-      "https://icedwatermelonjuice.github.io/Online-Player/?url=https://miaotunnel.flashcs6.eu.org/?test=1"
-    ]
-  },
-  {
-    "name": "测试跳转04",
-    "groupName": "其他",
-    "urls": [
-      "http://app.bookmarkmanager.net/tv_player/clappr.php?url=https://miaotunnel.flashcs6.eu.org/?test=1",
-      "https://app.bookmarkmanager.net/tv_player/clappr.php?url=https://miaotunnel.flashcs6.eu.org/?test=1"
-    ]
-  },
-  {
-    "name": "测试跳转05",
-    "groupName": "其他",
-    "urls": [
-      "http://www.123iptv.tv/tv_player/ckplayer.php?url=https://miaotunnel.flashcs6.eu.org/?test=1",
-      "https://www.123iptv.tv/tv_player/ckplayer.php?url=https://miaotunnel.flashcs6.eu.org/?test=1"
-    ]
-  },
-  {
-    "name": "测试跳转06",
-    "groupName": "其他",
-    "urls": [
-      "http://m3u8.liumingye.cn/#https://miaotunnel.flashcs6.eu.org/?test=1",
-      "https://lzw.me/x/m3u8-player/?url=https://miaotunnel.flashcs6.eu.org/?test=1"
-    ]
-  },
+
   {
     "name": "B站 西游记后传",
     "groupName": "其他",
