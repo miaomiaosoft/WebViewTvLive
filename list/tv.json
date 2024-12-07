@@ -388,7 +388,14 @@
   },
 
 
-
+  {
+    "name": "CHINA MOVIE",
+    "groupName": "央视",
+    "urls": [
+      "https://k44991.kylintv.tv/live/chinamovie_iphone.m3u8",
+      "https://v.kylintv.com/#/livedetails?id=60F2DB694B1A5CE71CC0"
+    ]
+  },
   {
     "name": "中国气象",
     "groupName": "央视",
@@ -492,6 +499,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002475",
+      "https://k44991.kylintv.tv/live/huntvhd_iphone.m3u8",
       "http://119.163.199.98:9901/tsfile/live/0017_1.m3u8",
       "http://123.182.60.29:9002/hls/30/index.m3u8"
     ]
@@ -509,6 +517,8 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002485",
+      "https://hc73k3dhwo5gfkt.wcetv.com/hls/gdsatellite.m3u8",
+      "http://117.161.12.116/live/program/live/gdwshd8m/8000000/mnf.m3u8",
       "https://www.gdtv.cn/tvChannelDetail/43"
     ]
   },
@@ -517,6 +527,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002509",
+      "https://k09093.kylintv.tv/live/guangxitv_iphone.m3u8",
       "https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html",
       "http://120.76.248.139/live/bfgd/4200000116.m3u8"
     ]
@@ -541,8 +552,7 @@
     "name": "重庆卫视",
     "groupName": "卫视",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002531",
-      "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225618/index.m3u8$1.6M_720"
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002531"
     ]
   },
   {
@@ -558,8 +568,7 @@
     "name": "四川卫视",
     "groupName": "卫视",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002516",
-      "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226338/index.m3u8$7.9M_1080"
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002516"
     ]
   },
   {
@@ -567,6 +576,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002525",
+      "http://nettv.live/embed/henan.html?id=hnws",
       "https://static.hntv.tv/kds/#/",
       "https://www.hndyjyfw.gov.cn/livePlay.html?u=14"
     ]
@@ -584,7 +594,8 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002490",
-      "https://www.gzstv.com/tv/ch01"
+      "https://www.gzstv.com/tv/ch01",
+      "https://k44991.kylintv.tv/live/guizhoutv_iphone.m3u8"
     ]
   },
   {
@@ -607,7 +618,8 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002532",
-      "https://www.ahrtv.cn/folder30126/folder30131"
+      "https://www.ahrtv.cn/folder30126/folder30131",
+      "https://k09093.kylintv.tv/live/ahtvhd_iphone.m3u8"
     ]
   },
   {
@@ -631,6 +643,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600190407",
+      "http://nettv.live/embed/shanxi.html?id=sxws",
       "https://www.sxrtv.com/tv/index.shtml",
       "http://timetv.xyz/weishi/shanxi.html"
     ]
@@ -650,7 +663,6 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600152137",
-      "http://58.19.244.92:1111/tsfile/live/1006_1.m3u8",
       "http://timetv.xyz/weishi/tianjin.html"
     ]
   },
@@ -659,6 +671,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600190406",
+      "http://stream.qhbtv.com/qhws/sd/live.m3u8",
       "http://www.qhbtv.com/new_index/live/folder2646/"
     ]
   },
@@ -676,15 +689,13 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600190405",
-      "https://www.jlntv.cn/tv?id=104",
-      "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226397/index.m3u8$7.9M_1080"
+      "https://www.jlntv.cn/tv?id=104"
     ]
   },
   {
     "name": "新疆卫视",
     "groupName": "卫视",
     "urls": [
-      "https://www.xjtvs.com.cn/live/xjtv.shtml",
       "https://www.xjtvs.com.cn/column/tv/434?channelId=1",
       "http://timetv.xyz/weishi/xinjiang.html"
     ]
@@ -703,8 +714,8 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600190401",
-      "https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880",
-      "https://www.nmtv.cn/liveTv"
+      "https://www.nmtv.cn/liveTv",
+      "http://nettv.live/embed/neimenggu.php?id=nmws"
     ]
   },
   {
@@ -721,6 +732,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600190737",
+      "https://stream.nxtv.com.cn/wspd/playlist.m3u8",
       "http://timetv.xyz/weishi/ningxia.html"
     ]
   },
@@ -738,6 +750,7 @@
     "name": "海峡卫视",
     "groupName": "卫视",
     "urls": [
+      "https://k44991.kylintv.tv/live/fjstv_iphone.m3u8",
       "https://live.fjtv.net/hxtv/"
     ]
   },
@@ -4983,10 +4996,19 @@
     "name": "凤凰资讯",
     "groupName": "港澳",
     "urls": [
+      "https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8",
       "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UC4vnLYInDvXtLKGOZieMeMw",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=99&pathid=0",
       "https://tv2.wfuapp.com/2019/08/phoenix-media.html",
       "https://www.fengshows.com/live"
+    ]
+  },
+  {
+    "name": "凤凰香港",
+    "groupName": "港澳",
+    "urls": [
+      "https://k44991.kylintv.tv/live/pxhkus_iphone.m3u8",
+      "https://v.kylintv.com/#/livedetails?id=80AFBEF5B9AA2D1B98AB"
     ]
   },
   {
@@ -5145,6 +5167,14 @@
     "urls": [
       "https://stream.chinasuntv.com/680k/mid_video_index.m3u8",
       "http://nettv.live/hongkong/3602.html"
+    ]
+  },
+  {
+    "name": "北美焦点",
+    "groupName": "港澳",
+    "urls": [
+      "https://k44991.kylintv.tv/live/qljdhd_iphone.m3u8",
+      "https://v.kylintv.com/#/livedetails?id=6F625CBEA898CFADB65F"
     ]
   },
   {
