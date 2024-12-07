@@ -770,6 +770,7 @@
     "name": "安多卫视",
     "groupName": "卫视",
     "urls": [
+      "http://stream.qhbtv.com/adws/playlist.m3u8?_upt=2d3c83951733563831",
       "http://www.qhtb.cn/onlin/onlin_tv/"
     ]
   },
@@ -777,7 +778,7 @@
     "name": "黄河卫视",
     "groupName": "卫视",
     "urls": [
-      "https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/4tlze0m.m3u8",
+      "http://nettv.live/embed/shanxi.html?id=sxhh",
       "https://www.sxrtv.com/tv/index.shtml"
     ]
   },
@@ -819,7 +820,10 @@
     "name": "凤凰卫视",
     "groupName": "卫视",
     "urls": [
-      "https://www.tiantianzhibo.net/player/index?id=2ebdwLm9MTTaexTxDZ4tKMDJ6BPIdNzWd_Llh8kstmEg934ubQ"
+      "https://k44991.kylintv.tv/live/pxna_iphone.m3u8",
+      "https://www.tiantianzhibo.net/player/index?id=2ebdwLm9MTTaexTxDZ4tKMDJ6BPIdNzWd_Llh8kstmEg934ubQ",
+      "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=100&pathid=0",
+      "https://tv2.wfuapp.com/2019/08/phoenix-media.html"
     ]
   },
   {
@@ -2469,7 +2473,15 @@
     "name": "东方财经",
     "groupName": "上海",
     "urls": [
+      "http://nettv.live/embed/yicai.php?id=dfcj",
       "https://www.yicai.com/tv/#dfcj"
+    ]
+  },
+  {
+    "name": "东方购物",
+    "groupName": "上海",
+    "urls": [
+      "https://www.ocj.com.cn/tv.html#/tvLives"
     ]
   },
   {
@@ -2502,13 +2514,6 @@
     ]
   },
   {
-    "name": "东方购物",
-    "groupName": "上海",
-    "urls": [
-      "https://www.ocj.com.cn/tv.html#/tvLives"
-    ]
-  },
-  {
     "name": "魔都眼",
     "groupName": "上海",
     "urls": [
@@ -2516,8 +2521,22 @@
       "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCaxIsKnhxr6bfaJFQc67-rg"
     ]
   },
-  
-  
+  {
+    "name": "嘉定电视",
+    "groupName": "上海",
+    "urls": [
+      "https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8",
+      "http://nettv.live/shanghai/6448.html"
+    ]
+  },
+  {
+    "name": "崇明电视",
+    "groupName": "上海",
+    "urls": [
+      "https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8",
+      "http://nettv.live/shanghai/6673.html"
+    ]
+  },
   
 
 
@@ -4009,6 +4028,8 @@
     "name": "公视新闻",
     "groupName": "台湾",
     "urls": [
+      "https://www.youtube.com/embed/quwqlazU-c8?autoplay=1",
+      "https://www.youtube.com/c/PNNPTS/live",
       "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCexpzYDEnfmAvPSfG4xbcjA",
       "https://tv2.wfuapp.com/2023/07/pts-news-live.html"
     ]
@@ -4952,6 +4973,7 @@
     "name": "凤凰卫视",
     "groupName": "港澳",
     "urls": [
+      "https://k44991.kylintv.tv/live/pxna_iphone.m3u8",
       "https://www.tiantianzhibo.net/player/index?id=2ebdwLm9MTTaexTxDZ4tKMDJ6BPIdNzWd_Llh8kstmEg934ubQ",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=100&pathid=0",
       "https://tv2.wfuapp.com/2019/08/phoenix-media.html"
