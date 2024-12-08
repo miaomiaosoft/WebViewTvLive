@@ -210,30 +210,12 @@
 
   
   {
-    "name": "CCTV PLUS1",
+    "name": "CCTV +",
     "groupName": "央视",
     "urls": [
-      "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8"
-    ]
-  },
-  {
-    "name": "CCTV PLUS2",
-    "groupName": "央视",
-    "urls": [
-      "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8"
-    ]
-  },
-  {
-    "name": "CCTV PLUS3",
-    "groupName": "央视",
-    "urls": [
-      "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL3.smil/playlist.m3u8"
-    ]
-  },
-  {
-    "name": "CCTV PLUS4",
-    "groupName": "央视",
-    "urls": [
+      "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8",
+      "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8",
+      "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL3.smil/playlist.m3u8",
       "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL4.smil/playlist.m3u8"
     ]
   },
@@ -301,7 +283,6 @@
       "http://timetv.xyz/qita/cetv4.html"
     ]
   },
-
 
 
  
@@ -408,6 +389,7 @@
     "name": "中学生台",
     "groupName": "央视",
     "urls": [
+      "http://60.255.240.247:8090/live/zxs_4000.m3u8",
       "http://dd.ddzb.fun:80/php/migu.php?id=zxs"
     ]
   },
@@ -444,7 +426,14 @@
   },
 
 
-  
+
+  {
+    "name": "央广购物",
+    "groupName": "央视",
+    "urls": [
+      "https://newapplive.cnrmall.com/live/cnrxp_HD1200.m3u8"
+    ]
+  },
   {
     "name": "惠买 优购物",
     "groupName": "央视",
@@ -815,6 +804,21 @@
     "urls": [
       "http://nettv.live/embed/shanxi.html?id=sxhh",
       "https://www.sxrtv.com/tv/index.shtml"
+    ]
+  },
+  {
+    "name": "教育卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "澜湄卫视",
+    "groupName": "卫视",
+    "urls": [
+      "https://k09093.kylintv.tv/live/yntv_iphone.m3u8",
+      "https://v.kylintv.com/#/livedetails?id=5ADD92EDBEFD0C694A56"
     ]
   },
   {
@@ -3848,7 +3852,8 @@
     "name": "东森超视",
     "groupName": "台湾",
     "urls": [
-      "http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8"
+      "http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8",
+      "http://38.64.72.148/hls/modn/list/2013/playlist.m3u8"
     ]
   },
   {
@@ -5055,7 +5060,8 @@
     "name": "MomoKids",
     "groupName": "台湾",
     "urls": [
-      "https://www.youtube.com/embed/LvPgP4ARP3Y?autoplay=1",
+      "https://www.youtube.com/embed/xN93kOcsCt8?autoplay=1",
+      "https://www.youtube.com/@momokidsYT/live",
       "https://tv2.wfuapp.com/2021/01/momo-kid.html"
     ]
   },
@@ -5078,7 +5084,8 @@
     "name": "PetClub",
     "groupName": "台湾",
     "urls": [
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8"
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8",
+      "https://amg01076-lightningintern-petclub-samsungnz-g6424.amagi.tv/playlist/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8"
     ]
   },
   {
