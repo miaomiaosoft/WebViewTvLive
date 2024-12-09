@@ -5459,7 +5459,7 @@
     ]
   },
   {
-    "name": "第一卫视",
+    "name": "亚太第一",
     "groupName": "港澳",
     "urls": [
       "http://play2.one-tv.com/live/onetv.m3u8"
@@ -6256,7 +6256,31 @@
     "urls": [
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8"
     ]
-  }, 
+  },
+  {
+    "name": "[US] The Pet Collective",
+    "groupName": "海外",
+    "urls": [
+      "https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8",
+      "https://watch.plex.tv/live-tv/channel/the-pet-collective-2"
+    ]
+  },
+  {
+    "name": "[US] Fail Army",
+    "groupName": "海外",
+    "urls": [
+      "https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8",
+      "https://watch.plex.tv/live-tv/channel/failarmy-2"
+    ]
+  },
+  {
+    "name": "[US] Wild Earth",
+    "groupName": "海外",
+    "urls": [
+      "https://wildearth-plex.amagi.tv/masterR1080p.m3u8",
+      "https://watch.plex.tv/live-tv/channel/wildearth"
+    ]
+  },
   {
     "name": "[MY] CCM Malaysia",
     "groupName": "海外",
@@ -7106,7 +7130,7 @@
 
 
   {
-    "name": "测试频道",
+    "name": "测试跳转",
     "groupName": "其他",
     "urls": [
       "https://miaotunnel.flashcs6.eu.org/?test=1",
@@ -8144,136 +8168,6 @@
     ]
   },
   
-    
-  
-  {
-    "name": "plex.tv USA TODAY",
-    "groupName": "其他",
-    "urls": [
-      "https://watch.plex.tv/live-tv/channel/usa-today-news"
-    ]
-  },
-  {
-    "name": "plex.tv RCM Film",
-    "groupName": "其他",
-    "urls": [
-      "https://watch.plex.tv/live-tv/channel/rcm"
-    ]
-  },
-  {
-    "name": "plex.tv Wu Tang Collection",
-    "groupName": "其他",
-    "urls": [
-      "https://watch.plex.tv/live-tv/channel/wu-tang-collection"
-    ]
-  },
-  {
-    "name": "plex.tv Discover Film",
-    "groupName": "其他",
-    "urls": [
-      "https://watch.plex.tv/live-tv/channel/discover-film"
-    ]
-  },
-  {
-    "name": "plex.tv Law & Crime",
-    "groupName": "其他",
-    "urls": [
-      "https://watch.plex.tv/live-tv/channel/law-and-crime"
-    ]
-  },
-  {
-    "name": "plex.tv Grjngo Western Movies",
-    "groupName": "其他",
-    "urls": [
-      "https://watch.plex.tv/live-tv/channel/grjngo-western-movies"
-    ]
-  },
-  {
-    "name": "plex.tv Action Hollywood Movies",
-    "groupName": "其他",
-    "urls": [
-      "https://watch.plex.tv/live-tv/channel/action-hollywood-movies"
-    ]
-  },
-  {
-    "name": "plex.tv Always Funny",
-    "groupName": "其他",
-    "urls": [
-      "https://watch.plex.tv/live-tv/channel/always-funny",
-      "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m3u8"
-    ]
-  },
-  {
-    "name": "plex.tv Just For Laughs Gags",
-    "groupName": "其他",
-    "urls": [
-      "https://watch.plex.tv/live-tv/channel/just-for-laughs-gags",
-      "https://lte.wiseplayout.com/wisem3u8_9/2/2.m3u8",
-      "https://lte.wiseplayout.com/wisem3u8_9/master.m3u8"
-    ]
-  },
-  {
-    "name": "plex.tv The Pet Collective",
-    "groupName": "其他",
-    "urls": [
-      "https://watch.plex.tv/live-tv/channel/the-pet-collective-2",
-      "https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8"
-    ]
-  },
-  {
-    "name": "plex.tv FailArmy",
-    "groupName": "其他",
-    "urls": [
-      "https://watch.plex.tv/live-tv/channel/failarmy-2",
-      "https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8"
-    ]
-  },
-  {
-    "name": "plex.tv Toon Goggles",
-    "groupName": "其他",
-    "urls": [
-      "https://watch.plex.tv/live-tv/channel/toon-goggles"
-    ]
-  },
-  {
-    "name": "plex.tv WITZ-Comedy TV",
-    "groupName": "其他",
-    "urls": [
-      "https://watch.plex.tv/live-tv/channel/witz-comedy-tv"
-    ]
-  },
-  {
-    "name": "plex.tv Kidz Bop TV",
-    "groupName": "其他",
-    "urls": [
-      "https://watch.plex.tv/live-tv/channel/kidz-bop-tv"
-    ]
-  },
-  {
-    "name": "plex.tv 5-Minute Crafts",
-    "groupName": "其他",
-    "urls": [
-      "https://watch.plex.tv/live-tv/channel/5-minute-crafts"
-    ]
-  },
-  {
-    "name": "plex.tv People are Awesome",
-    "groupName": "其他",
-    "urls": [
-      "https://watch.plex.tv/live-tv/channel/people-are-awesome-2"
-    ]
-  },
-  {
-    "name": "plex.tv Wild Earth",
-    "groupName": "其他",
-    "urls": [
-      "https://wildearth-plex.amagi.tv/masterR1080p.m3u8",
-      "https://watch.plex.tv/live-tv/channel/wildearth"
-    ]
-  },
-
-
-  
 
   
   {
@@ -8345,75 +8239,11 @@
     ]
   },
   {
-    "name": "测试频道01",
+    "name": "测试频道",
     "groupName": "其他",
     "urls": [
       "https://yeslivetv.com/channels/ctv-hd/",
-      "https://tv2.wfuapp.com/2019/12/ctv-news-live.html"
-    ]
-  },
-  {
-    "name": "测试频道02",
-    "groupName": "其他",
-    "urls": [
-      "https://proxy.flashcs6.eu.org/web/https/lte.wiseplayout.com/wisem3u8_9/2/2.m3u8",
-      "https://bharadwajpro.github.io/m3u8-player/player/#https://proxy.flashcs6.eu.org/web/https/lte.wiseplayout.com/wisem3u8_9/2/2.m3u8"
-    ]
-  },
-  {
-    "name": "测试频道03",
-    "groupName": "其他",
-    "urls": [
-      "https://player.twitch.tv/?channel=colawaytv&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=720p60&volume=1",
-      "https://www.twitch.tv/lopez_ttv"
-    ]
-  },
-  {
-    "name": "测试频道04",
-    "groupName": "其他",
-    "urls": [
-      "http://[2001:250:5800:1005::155]:80/liverespath/ca3f021632b48e6960797776657926074723d276/index.m3u8",
-      "http://m3u8.liumingye.cn/#http://[2001:250:5800:1005::155]/liverespath/ca3f021632b48e6960797776657926074723d276/index.m3u8"
-    ]
-  },
-  {
-    "name": "测试频道05",
-    "groupName": "其他",
-    "urls": [
-      "https://www.tiantianzhibo.net/gangaotai/dongsenyouyou_yoyo_tv.html",
-      "https://www.tiantianzhibo.net/player/index?id=8d89ITGSf0YWWa2GH1gY2jel3z4ciyTwW2dZKbQq43ZUD73YCg"
-    ]
-  },
-  {
-    "name": "测试频道06",
-    "groupName": "其他",
-    "urls": [
-      "https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?source=pc&t=173128973090654&token=6125ebfcde94325b39e038e7763ecac4",
-      "http://m3u8.liumingye.cn/#https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?source=pc&t=173128973090654&token=6125ebfcde94325b39e038e7763ecac4"
-    ]
-  },
-  {
-    "name": "测试频道07",
-    "groupName": "其他",
-    "urls": [
-      "https://cdi.ofiii.com/ocean/video/playlist/jarXe-EtsBs/master.m3u8",
-      "http://m3u8.liumingye.cn/#https://cdi.ofiii.com/ocean/video/playlist/jarXe-EtsBs/master.m3u8"
-    ]
-  },
-  {
-    "name": "测试频道08",
-    "groupName": "其他",
-    "urls": [
-      "https://live.fanmingming.com/player/?vurl=https://pull.nicewifi.cn/live/xztv01.flv",
-      "https://icedwatermelonjuice.github.io/Online-Player/?url=https://pull.nicewifi.cn/live/xztv01.flv"
-    ]
-  },
-  {
-    "name": "测试频道09",
-    "groupName": "其他",
-    "urls": [
-      "https://www.youtube.com/embed/live_stream?enablejsapi=1&autoplay=1&channel=UCnBeKp96tQ0DD6s6D6BZGig",
-      "https://adventuremachine.4thfloorcreative.co.uk/adventuremachine/"
+      "https://watch.plex.tv/live-tv/channel/wildearth"
     ]
   }
 ]
