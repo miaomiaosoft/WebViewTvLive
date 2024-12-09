@@ -226,7 +226,7 @@
     "name": "CHC 动作电影",
     "groupName": "央视",
     "urls": [
-      "http://58.19.244.92:1111/tsfile/live/1019_1.m3u8",
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=",
       "http://cookies.elementfx.com/ublive/ublive.php?id=1346",
       "http://timetv.xyz/chc/chc-action.html"
     ]
@@ -235,7 +235,7 @@
     "name": "CHC 家庭影院",
     "groupName": "央视",
     "urls": [
-      "http://58.19.244.92:1111/tsfile/live/1018_1.m3u8",
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=",
       "http://cookies.elementfx.com/ublive/ublive.php?id=1347",
       "http://timetv.xyz/chc/chc-family.html"
     ]
@@ -244,7 +244,7 @@
     "name": "CHC 影迷电影",
     "groupName": "央视",
     "urls": [
-      "http://58.19.244.92:1111/tsfile/live/1020_1.m3u8",
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=",
       "http://cookies.elementfx.com/ublive/ublive.php?id=1345",
       "http://timetv.xyz/chc/chc-fan.html"
     ]
@@ -291,6 +291,7 @@
     "groupName": "央视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600014550",
+      "http://m3u8.liumingye.cn/#https://0472.org/hls/cgtn.m3u8",
       "https://www.cgtn.com/tv",
       "https://idx.gdplayertv.to/live-tv/cgtn/?embed=1"
     ]
@@ -300,6 +301,7 @@
     "groupName": "央视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600084704",
+      "http://m3u8.liumingye.cn/#https://0472.org/hls/cgtnf.m3u8",
       "https://francais.cgtn.com/channel"
     ]
   },
@@ -308,6 +310,7 @@
     "groupName": "央视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600084758",
+      "http://m3u8.liumingye.cn/#https://0472.org/hls/cgtne.m3u8",
       "https://russian.cgtn.com/channel"
     ]
   },
@@ -316,6 +319,7 @@
     "groupName": "央视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600084782",
+      "http://m3u8.liumingye.cn/#https://0472.org/hls/cgtna.m3u8",
       "https://arabic.cgtn.com/channel"
     ]
   },
@@ -324,6 +328,7 @@
     "groupName": "央视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600084744",
+      "http://m3u8.liumingye.cn/#https://0472.org/hls/cgtnx.m3u8",
       "https://espanol.cgtn.com/en-directo"
     ]
   },
@@ -332,6 +337,7 @@
     "groupName": "央视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600084781",
+      "http://m3u8.liumingye.cn/#https://0472.org/hls/cgtnd.m3u8",
       "https://www.cgtn.com/channel/documentary",
       "https://idx.gdplayertv.to/live-tv/cgtn-documentary/?embed=1"
     ]
@@ -540,6 +546,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002506",
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000347/index.m3u8?IASHttpSessionId=",
       "http://tc.hnntv.cn/"
     ]
   },
@@ -547,7 +554,8 @@
     "name": "重庆卫视",
     "groupName": "卫视",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002531"
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002531",
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000341/index.m3u8?IASHttpSessionId="
     ]
   },
   {
@@ -563,7 +571,8 @@
     "name": "四川卫视",
     "groupName": "卫视",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002516"
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002516",
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000348/index.m3u8?IASHttpSessionId="
     ]
   },
   {
@@ -581,6 +590,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002484",
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000310/index.m3u8?IASHttpSessionId=",
       "https://live.fjtv.net/setv/"
     ]
   },
@@ -605,7 +615,8 @@
     "name": "辽宁卫视",
     "groupName": "卫视",
     "urls": [
-      "https://www.yangshipin.cn/tv/home?pid\u003d600002505"
+      "https://www.yangshipin.cn/tv/home?pid\u003d600002505",
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000326/index.m3u8?IASHttpSessionId="
     ]
   },
   {
@@ -648,6 +659,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600190402",
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000367/index.m3u8?IASHttpSessionId=",
       "http://nettv.live/player/play.html?url=http://hwzbout.yntv.net/62hdvf/41hse3.flv&t=xg2",
       "https://www.yntv.cn/live.html",
       "http://timetv.xyz/weishi/yunnan.html"
@@ -658,6 +670,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600152137",
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000327/index.m3u8?IASHttpSessionId=",
       "http://timetv.xyz/weishi/tianjin.html"
     ]
   },
@@ -666,6 +679,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600190406",
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000366/index.m3u8?IASHttpSessionId=",
       "http://stream.qhbtv.com/qhws/sd/live.m3u8",
       "http://www.qhbtv.com/new_index/live/folder2646/"
     ]
@@ -684,6 +698,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600190405",
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000363/index.m3u8?IASHttpSessionId=",
       "https://www.jlntv.cn/tv?id=104"
     ]
   },
@@ -692,6 +707,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.xjtvs.com.cn/column/tv/434?channelId=1",
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000044/index.m3u8?IASHttpSessionId=",
       "http://timetv.xyz/weishi/xinjiang.html"
     ]
   },
@@ -700,6 +716,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid=600190403",
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000045/index.m3u8?IASHttpSessionId=",
       "http://timetv.xyz/weishi/xizang.html",
       "https://www.vtibet.cn/html/CHAL1492477520535104/2021111212835975309/index.shtml"
     ]
@@ -709,6 +726,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.yangshipin.cn/tv/home?pid\u003d600002498",
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000306/index.m3u8?IASHttpSessionId=",
       "https://www.hljtv.com/live/"
     ]
   },
@@ -744,6 +762,7 @@
     "groupName": "卫视",
     "urls": [
       "https://k44991.kylintv.tv/live/tvs_iphone.m3u8",
+      "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8",
       "https://hc73k3dhwo5gfkt.wcetv.com/hls/gdtv.m3u8",
       "https://m.gdtv.cn/tvChannelDetail/51",
       "https://m.gdtv.cn/tvChannelDetail/46"
@@ -762,6 +781,7 @@
     "groupName": "卫视",
     "urls": [
       "http://nettv.live/hls/xiamentv.php?id=xmws",
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000075/index.m3u8?IASHttpSessionId=",
       "http://nettv.live/fujian/xiamen/xmtv.html"
     ]
   },
@@ -770,6 +790,7 @@
     "groupName": "卫视",
     "urls": [
       "https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home",
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000078/index.m3u8?IASHttpSessionId=",
       "https://www.123iptv.tv/player/index?id=79beCY62_kWt6yTFgYpFuwciakC_o1ZVenw2U0o7SiVG",
       "http://timetv.xyz/weishi/sansha.html",
       "http://tv.hnntv.cn/live/sslive/"
@@ -787,7 +808,8 @@
     "name": "康巴卫视",
     "groupName": "卫视",
     "urls": [
-      "https://www.kangbatv.com/zb_22587/"
+      "https://www.kangbatv.com/zb_22587/",
+      "http://[2409:8087:74d9:21::6]/270000001128/9900000066/index.m3u8"
     ]
   },
   {
@@ -795,6 +817,7 @@
     "groupName": "卫视",
     "urls": [
       "http://stream.qhbtv.com/adws/playlist.m3u8?_upt=2d3c83951733563831",
+      "http://[2409:8087:74d9:21::6]/270000001128/9900000064/index.m3u8",
       "http://www.qhtb.cn/onlin/onlin_tv/"
     ]
   },
@@ -810,7 +833,8 @@
     "name": "教育卫视",
     "groupName": "卫视",
     "urls": [
-      "https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8"
+      "https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8",
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000331/index.m3u8?IASHttpSessionId="
     ]
   },
   {
@@ -825,7 +849,8 @@
     "name": "农林卫视",
     "groupName": "卫视",
     "urls": [
-      "http://www.sxtvs.com/sxtvs_nlws/"
+      "http://www.sxtvs.com/sxtvs_nlws/",
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000072/index.m3u8?IASHttpSessionId="
     ]
   },
   {
@@ -2521,6 +2546,7 @@
     "groupName": "上海",
     "urls": [
       "http://nettv.live/embed/yicai.php?id=dfcj",
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002025/index.m3u8?IASHttpSessionId=",
       "https://www.yicai.com/tv/#dfcj"
     ]
   },
@@ -2529,6 +2555,13 @@
     "groupName": "上海",
     "urls": [
       "https://www.ocj.com.cn/tv.html#/tvLives"
+    ]
+  },
+  {
+    "name": "法治天地",
+    "groupName": "上海",
+    "urls": [
+      "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002010/index.m3u8?IASHttpSessionId="
     ]
   },
   {
@@ -5574,7 +5607,14 @@
 
 
 
-
+  {
+    "name": "[US] RadioGPT",
+    "groupName": "海外",
+    "urls": [
+      "https://ais-sa1.streamon.fm/7838_128k.aac/playlist.m3u8",
+      "https://listen.streamon.fm/radiogpt"
+    ]
+  },
   {
     "name": "[FR] FRI RADIO",
     "groupName": "海外",
@@ -5996,6 +6036,13 @@
     "groupName": "海外",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/babytv/?embed=1"
+    ]
+  },
+  {
+    "name": "[GB] Moonbug",
+    "groupName": "海外",
+    "urls": [
+      "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
     ]
   },
   {
