@@ -257,19 +257,20 @@
 
 
   {
-    "name": "1905电影（国际）",
-    "groupName": "央视",
-    "urls": [
-      "http://xxw.me0.cn/1905dy.php?id=1905b"
-    ]
-  },
-  {
-    "name": "1905电影（亚洲）",
+    "name": "1905电影网（亚洲）",
     "groupName": "央视",
     "urls": [
       "http://xxw.me0.cn/1905dy.php?id=1905a"
     ]
   },
+  {
+    "name": "1905电影网（国际）",
+    "groupName": "央视",
+    "urls": [
+      "http://xxw.me0.cn/1905dy.php?id=1905b"
+    ]
+  },
+
   
   {
     "name": "CHC 动作电影",
@@ -4076,7 +4077,6 @@
     "groupName": "台湾",
     "urls": [
       "https://www.4gtv.tv/channel/4gtv-4gtv040?set\u003d4\u0026ch\u003d4",
-      "http://litv.zapi.us.kg/?id=4gtv-4gtv040",
       "https://idx.gdplayertv.to/live-tv/ctv/?embed=1",
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=260165082&pathid=0",
       "https://www.ofiii.com/channel/watch/4gtv-4gtv040"
@@ -4456,6 +4456,13 @@
     "groupName": "台湾",
     "urls": [
       "https://litv.zapi.us.kg/?id=4gtv-4gtv070"
+    ]
+  },
+  {
+    "name": "ELTV生活",
+    "groupName": "台湾",
+    "urls": [
+      "https://litv.zapi.us.kg/?id=litv-longturn20"
     ]
   },
 
@@ -5116,7 +5123,7 @@
     ]
   },
   {
-    "name": "MomoKids",
+    "name": "Momo Kids",
     "groupName": "台湾",
     "urls": [
       "https://www.youtube.com/embed/xN93kOcsCt8?autoplay=1",
@@ -5125,7 +5132,7 @@
     ]
   },
   {
-    "name": "CartoonNetwork",
+    "name": "Cartoon Network",
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/cartoon-network-asia?embed=1",
@@ -5133,14 +5140,14 @@
     ]
   },
   {
-    "name": "CartoonitoTV",
+    "name": "Cartoonito",
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/cartoonito-tv/?embed=1"
     ]
   },
   {
-    "name": "PetClub",
+    "name": "Pet Club",
     "groupName": "台湾",
     "urls": [
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8",
@@ -5157,7 +5164,7 @@
     ]
   },
   {
-    "name": "DiscoveryAsia",
+    "name": "Discovery Asia",
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/discovery-asia-tw/?embed=1",
@@ -5166,7 +5173,7 @@
     ]
   },
   {
-    "name": "CatchPlay",
+    "name": "Catch Play",
     "groupName": "台湾",
     "urls": [
       "https://www.tiantianzhibo.net/player/index?id=a5c9zPxKIg_xvKJ0MP_kAF1Vyar5NE4Z6sWmni4bT6KpuYSf0Q",
@@ -5175,7 +5182,7 @@
     ]
   },
   {
-    "name": "CineMax",
+    "name": "Cine Max",
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/cinemax-tw/?embed=1",
@@ -5184,7 +5191,7 @@
     ]
   },
   {
-    "name": "HollyWood",
+    "name": "Holly Wood",
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/hollywood-movie/?embed=1",
@@ -5193,7 +5200,7 @@
     ]
   },
   {
-    "name": "AMCMovie",
+    "name": "AMC",
     "groupName": "台湾",
     "urls": [
       "http://61.221.215.25:8800/hls/43/index.m3u8",
@@ -5211,7 +5218,7 @@
     ]
   },
   {
-    "name": "HBOHits",
+    "name": "HBO Hits",
     "groupName": "台湾",
     "urls": [
       "https://www.tiantianzhibo.net/player/index?id=55431zjmjqyj3x_SFRc4Q5YBv75vAEHAbmz87Zs1nMg206bCTA",
@@ -5219,7 +5226,7 @@
     ]
   },
   {
-    "name": "HBOFamily",
+    "name": "HBO Family",
     "groupName": "台湾",
     "urls": [
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490569&pathid=0",
@@ -5227,7 +5234,7 @@
     ]
   },
   {
-    "name": "HBOSignature",
+    "name": "HBO Signature",
     "groupName": "台湾",
     "urls": [
       "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=490572&pathid=0",
@@ -5235,7 +5242,7 @@
     ]
   },
   {
-    "name": "MyCinemaEurope",
+    "name": "MCE",
     "groupName": "台湾",
     "urls": [
       "https://idx.gdplayertv.to/live-tv/my-cinema-europe/?embed=1"
@@ -5284,13 +5291,6 @@
     "groupName": "台湾",
     "urls": [
       "https://litv.zapi.us.kg/?id=4gtv-4gtv053"
-    ]
-  },
-  {
-    "name": "ELTV",
-    "groupName": "台湾",
-    "urls": [
-      "https://litv.zapi.us.kg/?id=litv-longturn20"
     ]
   },
   {
@@ -5540,7 +5540,7 @@
     ]
   },
   {
-    "name": "香港C+",
+    "name": "香港 C+",
     "groupName": "港澳",
     "urls": [
       "http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8",
